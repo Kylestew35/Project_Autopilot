@@ -1,0 +1,10 @@
+{
+  "dashboardId": "3db58371-5004-4375-881a-c3f6eef04705",
+  "dashboardUrl": "s3://sam-app-533267113788-dashboards/dashboards/3db58371-5004-4375-881a-c3f6eef04705/dashboard.json",
+  "kpis": [],
+  "alerts": [],
+  "forecast": {
+    "status": "unknown",
+    "confidence": 0.0
+  }
+}
