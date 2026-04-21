@@ -1,6 +1,6 @@
 {
-  "dashboardId": "5c86d338-dbd8-4631-9567-699463c44639",
-  "dashboardUrl": "s3://sam-app-533267113788-dashboards/dashboards/5c86d338-dbd8-4631-9567-699463c44639/dashboard.json",
+  "dashboardId": "c25831f1-37cb-4fca-8d4a-f06a4e9c7ef4",
+  "dashboardUrl": "s3://sam-app-533267113788-dashboards/dashboards/c25831f1-37cb-4fca-8d4a-f06a4e9c7ef4/dashboard.json",
   "kpis": [],
   "alerts": [],
   "forecast": {
