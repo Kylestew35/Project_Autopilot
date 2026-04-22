@@ -1,0 +1,12 @@
+{
+  "kpis": [
+    {
+      "name": "Tasks Completed",
+      "value": 0
+    },
+    {
+      "name": "Docs Generated",
+      "value": 2
+    }
+  ]
+}
