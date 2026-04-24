@@ -1,42 +1,58 @@
-SOP: Resolving NameError in AWS Lambda Function
+Standard Operating Procedure (SOP)
+Streamlining Customer Onboarding
 
-1. Objective
-   - Identify and resolve the NameError issue in the provided AWS Lambda function.
+1. Purpose
+This SOP outlines the process for implementing a new customer onboarding workflow to improve efficiency and reduce time-to-value for new clients.
 
-2. Scope
-   - Investigate the error message and stack trace to determine the root cause.
-   - Implement a solution to address the NameError and ensure the function executes successfully.
+2. Objectives
+- Reduce customer onboarding time by 30%
+- Increase customer satisfaction with onboarding experience by 20%
+- Automate 50% of onboarding tasks
 
-3. Responsibilities
-   - Analyze the error message and stack trace to identify the problematic line of code.
-   - Determine the missing or undefined variable 'call_bedrock'.
-   - Implement the necessary changes to define and properly call the 'call_bedrock' function.
-   - Test the updated function to verify the issue has been resolved.
-   - Document the steps taken and the final solution.
+3. Phases and Workstreams
 
-4. Procedure
-   4.1. Analyze the Error Message and Stack Trace
-      - The error message indicates that the 'call_bedrock' function is not defined.
-      - The stack trace points to the line 92 in the 'app.py' file, where the 'call_bedrock' function is being called.
+3.1 Discovery Phase
+3.1.1 Process Mapping
+Document the existing customer onboarding workflow and identify pain points.
+3.1.2 Stakeholder Interviews
+Gather feedback from sales, customer success, and new customers on the onboarding experience.
 
-   4.2. Identify the Missing Function
-      - Locate the 'call_bedrock' function in the 'app.py' file and ensure it is properly defined.
-      - If the function is not present, add the necessary code to define and implement the 'call_bedrock' function.
+3.2 Design Phase
+3.2.1 Process Optimization
+Identify and implement changes to improve efficiency and reduce manual tasks.
+3.2.2 Automation Planning
+Determine which onboarding steps can be automated and define the technical requirements.
 
-   4.3. Implement the Solution
-      - Update the 'app.py' file to include the 'call_bedrock' function definition.
-      - Ensure the function is properly implemented and can be called without errors.
+3.3 Implementation Phase
+3.3.1 Technical Integration
+Integrate new onboarding tools and systems with existing infrastructure.
+3.3.2 User Training
+Provide training and support to sales and customer success teams on the new onboarding process.
 
-   4.4. Test the Updated Function
-      - Deploy the updated 'app.py' file to the AWS Lambda function.
-      - Trigger the Lambda function and verify that the NameError has been resolved and the function executes successfully.
+3.4 Optimization Phase
+3.4.1 Performance Tracking
+Establish key metrics and reporting to measure the impact of the new onboarding process.
+3.4.2 Feedback Collection
+Gather ongoing feedback from customers and internal teams to identify further areas for improvement.
 
-   4.5. Document the Solution
-      - Summarize the steps taken to resolve the NameError issue.
-      - Provide the final solution, including the updated 'app.py' file with the 'call_bedrock' function implementation.
-      - Ensure the documentation is clear and concise, allowing for easy reference in the future.
+4. Risks and Mitigation Strategies
+4.1 Resistance to Change
+Engage stakeholders early, provide comprehensive training, and communicate the benefits of the new process.
+4.2 Technical Integration Challenges
+Allocate sufficient time and resources for thorough testing and troubleshooting of new systems and integrations.
+4.3 Lack of Adoption
+Ensure the new onboarding process is intuitive and user-friendly, and provide ongoing support and incentives for adoption.
 
-5. Conclusion
-   - The NameError has been successfully resolved by identifying and implementing the missing 'call_bedrock' function.
-   - The updated AWS Lambda function should now execute without the NameError issue.
-   - Maintain the documentation for future reference and to facilitate any further updates or troubleshooting.
+5. Automations
+5.1 New Customer Welcome Email
+Automatically send a welcome email with onboarding information when a new customer account is created.
+5.2 Onboarding Task Assignments
+Automatically assign onboarding tasks to relevant team members when a new customer onboarding is initiated.
+5.3 Onboarding Progress Notifications
+Send updates to the customer success team on onboarding progress when tasks are completed.
+
+6. Timeline
+6.1 Discovery Phase: 2023-04-01 to 2023-05-15
+6.2 Design Phase: 2023-05-16 to 2023-07-01
+6.3 Implementation Phase: 2023-07-02 to 2023-09-30
+6.4 Optimization Phase: 2023-10-01 to 2023-12-31
