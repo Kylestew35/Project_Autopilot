@@ -1,28 +1,23 @@
 {
-  "dashboardId": "9cac1946-7737-4a28-a7d4-7fa91d84f8f1",
-  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/9cac1946-7737-4a28-a7d4-7fa91d84f8f1/dashboard.json",
+  "dashboardId": "d395359e-006a-47cf-8d1c-b5ebe2395e46",
+  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/d395359e-006a-47cf-8d1c-b5ebe2395e46/dashboard.json",
   "kpis": {
-    "objectiveCount": 4,
-    "milestoneCount": 5,
+    "objectiveCount": 5,
+    "milestoneCount": 9,
     "riskCount": 3,
-    "phaseCount": 4,
+    "phaseCount": 3,
     "automationCount": 3,
-    "highRiskCount": 2
+    "highRiskCount": 1
   },
   "alerts": [
     {
       "type": "risk",
       "severity": "high",
       "message": "High-impact risk detected: Resistance to Change"
-    },
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Lack of Stakeholder Alignment"
     }
   ],
   "forecast": {
-    "status": "on_track",
-    "confidence": 0.85
+    "status": "needs_attention",
+    "confidence": 0.75
   }
 }
