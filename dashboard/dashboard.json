@@ -1,23 +1,17 @@
 {
-  "dashboardId": "d395359e-006a-47cf-8d1c-b5ebe2395e46",
-  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/d395359e-006a-47cf-8d1c-b5ebe2395e46/dashboard.json",
+  "dashboardId": "23997a59-48ce-48c6-b52c-394ed5a18ceb",
+  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/23997a59-48ce-48c6-b52c-394ed5a18ceb/dashboard.json",
   "kpis": {
     "objectiveCount": 5,
-    "milestoneCount": 9,
-    "riskCount": 3,
-    "phaseCount": 3,
-    "automationCount": 3,
-    "highRiskCount": 1
+    "milestoneCount": 5,
+    "riskCount": 4,
+    "phaseCount": 4,
+    "automationCount": 4,
+    "highRiskCount": 0
   },
-  "alerts": [
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Resistance to Change"
-    }
-  ],
+  "alerts": [],
   "forecast": {
-    "status": "needs_attention",
-    "confidence": 0.75
+    "status": "on_track",
+    "confidence": 0.85
   }
 }
