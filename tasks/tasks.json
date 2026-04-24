@@ -1,119 +1,128 @@
 [
   {
-    "taskId": "task_ws_6dcc6d34-890c-4390-bd0b-73b15c5cf6fa",
+    "taskId": "task_ws_d34bb2e0-87d3-4a01-857a-28ae93b02194",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Discovery and Integration: Autopilot AI Evaluation",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and expectations."
+      "phase": "Discovery and Integration",
+      "workstream": "Autopilot AI Evaluation",
+      "summary": "Assess Autopilot AI features and compatibility with Snowfire AI"
     }
   },
   {
-    "taskId": "task_ws_f8d0cdc9-f9f4-46c7-a697-4d83f657386e",
+    "taskId": "task_ws_3ea03802-278c-4e80-be5b-9e71d4fc3406",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Process Mapping",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Discovery and Integration: Integration Planning",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Process Mapping",
-      "summary": "Map out current business processes and identify areas for improvement."
+      "phase": "Discovery and Integration",
+      "workstream": "Integration Planning",
+      "summary": "Design the integration architecture and implementation plan"
     }
   },
   {
-    "taskId": "task_ws_e51c4c3d-ffe8-4185-a390-48a93ed55745",
+    "taskId": "task_ws_f42dbc0b-41b1-4930-9d6c-6821f0651b6a",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Project Planning",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Discovery and Integration: API Integration",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Project Planning",
-      "summary": "Develop a comprehensive project plan, including timelines, resources, and milestones."
+      "phase": "Discovery and Integration",
+      "workstream": "API Integration",
+      "summary": "Develop the API integration between Autopilot AI and Snowfire AI"
     }
   },
   {
-    "taskId": "task_ws_d2e3f26c-99f9-4020-beed-0cd9e438e7e4",
+    "taskId": "task_ws_9e912382-a2a9-427d-9df7-a03f86cce5a3",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Technology Integration",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Project Planning and Document Creation: Project Planning Integration",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Technology Integration",
-      "summary": "Implement new systems and integrate with existing infrastructure."
+      "phase": "Project Planning and Document Creation",
+      "workstream": "Project Planning Integration",
+      "summary": "Integrate Autopilot AI's project planning features into Snowfire AI"
     }
   },
   {
-    "taskId": "task_ws_a7c33791-873d-4fdb-9383-a86bd23c391a",
+    "taskId": "task_ws_40bec0d1-eeda-4563-b8d5-072cdba45a65",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Change Management",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Project Planning and Document Creation: Document Creation Integration",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Change Management",
-      "summary": "Manage the organizational change and ensure user adoption."
+      "phase": "Project Planning and Document Creation",
+      "workstream": "Document Creation Integration",
+      "summary": "Integrate Autopilot AI's document creation capabilities into Snowfire AI"
     }
   },
   {
-    "taskId": "task_ws_4e5d4877-c767-498e-b2b1-4abba6246143",
+    "taskId": "task_ws_1e074910-0dba-45ae-8d0b-78e31a241d9e",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Quality Assurance",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Project Planning and Document Creation: User Interface Enhancements",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Quality Assurance",
-      "summary": "Conduct thorough testing and validation to ensure the project meets requirements."
+      "phase": "Project Planning and Document Creation",
+      "workstream": "User Interface Enhancements",
+      "summary": "Improve the user experience for project planning and document creation"
     }
   },
   {
-    "taskId": "task_ws_cdb828c7-0355-40f7-9bbc-e37219e2f78a",
+    "taskId": "task_ws_6a541553-18ac-4cb8-aecc-1c610992596e",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Performance Monitoring",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Progress Tracking and Reporting: Progress Tracking Integration",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators and track progress against objectives."
+      "phase": "Progress Tracking and Reporting",
+      "workstream": "Progress Tracking Integration",
+      "summary": "Integrate Autopilot AI's progress tracking features into Snowfire AI"
     }
   },
   {
-    "taskId": "task_ws_29834cc4-6cc1-4970-8853-42e4df72574d",
+    "taskId": "task_ws_cf56fcc0-239e-48ce-ad33-2384d1d6572f",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Feedback and Iteration",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Progress Tracking and Reporting: Reporting Integration",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Feedback and Iteration",
-      "summary": "Gather user feedback and implement improvements based on lessons learned."
+      "phase": "Progress Tracking and Reporting",
+      "workstream": "Reporting Integration",
+      "summary": "Integrate Autopilot AI's reporting capabilities into Snowfire AI"
     }
   },
   {
-    "taskId": "task_ws_fb371630-da00-4a2e-b970-111a78f143e7",
+    "taskId": "task_ws_e2d9efdc-c80e-4fea-97f3-9daad07d8380",
+    "projectId": "f8b02573-4779-4e24-92ec-0338fb997f33",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Knowledge Sharing",
-    "createdAt": "2026-04-24T19:10:54Z",
+    "title": "Progress Tracking and Reporting: Dashboards and Visualizations",
+    "createdAt": "2026-04-24T19:40:55Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Knowledge Sharing",
-      "summary": "Document best practices and share learnings with the organization."
+      "phase": "Progress Tracking and Reporting",
+      "workstream": "Dashboards and Visualizations",
+      "summary": "Develop intuitive dashboards and visualizations for progress tracking and reporting"
     }
   }
 ]
