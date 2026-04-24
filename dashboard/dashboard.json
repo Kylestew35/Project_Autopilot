@@ -1,15 +1,26 @@
 {
-  "dashboardId": "7febc902-6bb6-4a47-b56b-e0f677051451",
-  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/7febc902-6bb6-4a47-b56b-e0f677051451/dashboard.json",
+  "dashboardId": "cce58424-d199-4cec-9cb8-8d8dbb8d8f4f",
+  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/cce58424-d199-4cec-9cb8-8d8dbb8d8f4f/dashboard.json",
   "kpis": {
-    "objectiveCount": 0,
-    "milestoneCount": 0,
-    "riskCount": 0,
-    "phaseCount": 0,
-    "automationCount": 0,
-    "highRiskCount": 0
+    "objectiveCount": 3,
+    "milestoneCount": 4,
+    "riskCount": 3,
+    "phaseCount": 4,
+    "automationCount": 3,
+    "highRiskCount": 2
   },
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "risk",
+      "severity": "high",
+      "message": "High-impact risk detected: Resistance to Change"
+    },
+    {
+      "type": "risk",
+      "severity": "high",
+      "message": "High-impact risk detected: Lack of Adoption"
+    }
+  ],
   "forecast": {
     "status": "on_track",
     "confidence": 0.85
