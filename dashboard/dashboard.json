@@ -1,33 +1,17 @@
 {
-  "dashboardId": "d4ca3c06-df42-40be-808e-9ee3a9f92ff0",
-  "dashboardUrl": "s3://project-autopilot-v2-533267113788-dashboards/dashboards/d4ca3c06-df42-40be-808e-9ee3a9f92ff0/dashboard.json",
+  "dashboardId": "81c124c8-db35-4be8-b0a5-39c72d19072b",
+  "dashboardUrl": "s3://project-autopilot-v2-533267113788-dashboards/dashboards/81c124c8-db35-4be8-b0a5-39c72d19072b/dashboard.json",
   "kpis": {
-    "objectiveCount": 4,
-    "milestoneCount": 6,
-    "riskCount": 4,
-    "phaseCount": 6,
-    "automationCount": 4,
-    "highRiskCount": 2
+    "objectiveCount": 0,
+    "milestoneCount": 0,
+    "riskCount": 0,
+    "phaseCount": 0,
+    "automationCount": 0,
+    "highRiskCount": 0
   },
-  "alerts": [
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Regulatory Compliance"
-    },
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Data Privacy and Security"
-    },
-    {
-      "type": "structure",
-      "severity": "low",
-      "message": "Project has many phases; ensure cross-team alignment."
-    }
-  ],
+  "alerts": [],
   "forecast": {
-    "status": "needs_attention",
-    "confidence": 0.75
+    "status": "on_track",
+    "confidence": 0.85
   }
 }
