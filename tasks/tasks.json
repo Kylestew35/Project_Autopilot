@@ -1,158 +1,158 @@
 [
   {
-    "taskId": "task_ws_12c9ec6f-ffdd-43c7-8168-41a573936612",
+    "taskId": "task_ws_f7dae7bf-0631-4f14-b08d-e4c8ad9597aa",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Needs Assessment",
-    "createdAt": "2026-04-24T17:16:26Z",
+    "title": "Discovery and Assessment: Process Mapping",
+    "createdAt": "2026-04-24T18:35:45Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Needs Assessment",
-      "summary": "Gather input from stakeholders and analyze current CRM usage and pain points."
+      "phase": "Discovery and Assessment",
+      "workstream": "Process Mapping",
+      "summary": "Map out existing business processes and identify areas for optimization."
     }
   },
   {
-    "taskId": "task_ws_bb785567-784b-486f-9181-c1f0330ddd9a",
+    "taskId": "task_ws_69dfa35e-f8fb-4377-9ff7-1cdaac994171",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: System Selection",
-    "createdAt": "2026-04-24T17:16:26Z",
+    "title": "Discovery and Assessment: Stakeholder Interviews",
+    "createdAt": "2026-04-24T18:35:45Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "System Selection",
-      "summary": "Evaluate and select the most suitable CRM platform based on the identified requirements."
+      "phase": "Discovery and Assessment",
+      "workstream": "Stakeholder Interviews",
+      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
     }
   },
   {
-    "taskId": "task_ws_8be5db91-d8ab-47e4-89f4-fd4b9045b64b",
+    "taskId": "task_ws_4116b97a-0e5e-435c-bcfe-b4375e4bc184",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Implementation Planning",
-    "createdAt": "2026-04-24T17:16:26Z",
+    "title": "Discovery and Assessment: Data Analysis",
+    "createdAt": "2026-04-24T18:35:45Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Implementation Planning",
-      "summary": "Develop a detailed project plan, including timelines, resources, and change management strategies."
+      "phase": "Discovery and Assessment",
+      "workstream": "Data Analysis",
+      "summary": "Gather and analyze relevant data to uncover insights and opportunities."
     }
   },
   {
-    "taskId": "task_ws_39c88549-dfab-41d1-9648-c8fcf33ff585",
+    "taskId": "task_ws_ab587232-910f-48ea-b07a-e93d6aa56923",
     "system": "jira",
     "type": "workstream",
-    "title": "CRM Configuration and Integration: CRM Configuration",
-    "createdAt": "2026-04-24T17:16:26Z",
+    "title": "Solution Design: Process Optimization",
+    "createdAt": "2026-04-24T18:35:45Z",
     "status": "generated",
     "payload": {
-      "phase": "CRM Configuration and Integration",
-      "workstream": "CRM Configuration",
-      "summary": "Customize the CRM platform to align with the organization's processes and data requirements."
-    }
-  },
-  {
-    "taskId": "task_ws_9001df9f-7352-48bb-97cb-596f95bb561d",
-    "system": "jira",
-    "type": "workstream",
-    "title": "CRM Configuration and Integration: Data Migration",
-    "createdAt": "2026-04-24T17:16:26Z",
-    "status": "generated",
-    "payload": {
-      "phase": "CRM Configuration and Integration",
-      "workstream": "Data Migration",
-      "summary": "Migrate customer data from the legacy system to the new CRM platform."
-    }
-  },
-  {
-    "taskId": "task_ws_1bc9d735-161d-4bdc-8dd2-bcf98f571be1",
-    "system": "jira",
-    "type": "workstream",
-    "title": "CRM Configuration and Integration: System Integration",
-    "createdAt": "2026-04-24T17:16:26Z",
-    "status": "generated",
-    "payload": {
-      "phase": "CRM Configuration and Integration",
-      "workstream": "System Integration",
-      "summary": "Integrate the CRM with other business applications, such as the accounting system and marketing automation tools."
-    }
-  },
-  {
-    "taskId": "task_ws_16779e6b-c6c8-49f6-b13c-d9ab664f483d",
-    "system": "jira",
-    "type": "workstream",
-    "title": "User Adoption and Training: User Training",
-    "createdAt": "2026-04-24T17:16:26Z",
-    "status": "generated",
-    "payload": {
-      "phase": "User Adoption and Training",
-      "workstream": "User Training",
-      "summary": "Develop and deliver training programs to educate users on the new CRM system and its features."
-    }
-  },
-  {
-    "taskId": "task_ws_aae1aa17-0a86-4405-b026-3932ae7efaf5",
-    "system": "jira",
-    "type": "workstream",
-    "title": "User Adoption and Training: Change Management",
-    "createdAt": "2026-04-24T17:16:26Z",
-    "status": "generated",
-    "payload": {
-      "phase": "User Adoption and Training",
-      "workstream": "Change Management",
-      "summary": "Implement strategies to manage the organizational change and resistance associated with the CRM implementation."
-    }
-  },
-  {
-    "taskId": "task_ws_3bf58bad-fe62-48dd-9103-8bcc29414f7e",
-    "system": "jira",
-    "type": "workstream",
-    "title": "User Adoption and Training: User Support",
-    "createdAt": "2026-04-24T17:16:26Z",
-    "status": "generated",
-    "payload": {
-      "phase": "User Adoption and Training",
-      "workstream": "User Support",
-      "summary": "Establish a support structure to assist users with the transition and ongoing CRM usage."
-    }
-  },
-  {
-    "taskId": "task_ws_675bf0dd-746f-46d3-829a-fd89120a3390",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Monitoring and Optimization: Performance Monitoring",
-    "createdAt": "2026-04-24T17:16:26Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Monitoring and Optimization",
-      "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators (KPIs) and regularly review the CRM system's usage and effectiveness."
-    }
-  },
-  {
-    "taskId": "task_ws_299ee06f-9201-40e3-afcb-7dc8ca5bcba6",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Monitoring and Optimization: Process Optimization",
-    "createdAt": "2026-04-24T17:16:26Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Monitoring and Optimization",
+      "phase": "Solution Design",
       "workstream": "Process Optimization",
-      "summary": "Identify opportunities to streamline and improve business processes supported by the CRM system."
+      "summary": "Redesign and optimize business processes based on the insights from the discovery phase."
     }
   },
   {
-    "taskId": "task_ws_50cb9f41-3450-49f1-9252-9d7858875452",
+    "taskId": "task_ws_b352fe0e-1c89-4d8a-9788-7f2e309a9899",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Solution Design: Automation Strategy",
+    "createdAt": "2026-04-24T18:35:45Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Solution Design",
+      "workstream": "Automation Strategy",
+      "summary": "Identify and prioritize tasks and workflows for automation."
+    }
+  },
+  {
+    "taskId": "task_ws_82e19227-403a-4eba-bdfd-1b7e1369f1c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Solution Design: Technology Integration",
+    "createdAt": "2026-04-24T18:35:45Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Solution Design",
+      "workstream": "Technology Integration",
+      "summary": "Evaluate and select the appropriate tools and technologies to support the automation efforts."
+    }
+  },
+  {
+    "taskId": "task_ws_3e7e9687-a256-4c71-b7e8-653b1885ef7e",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Implementation: Process Rollout",
+    "createdAt": "2026-04-24T18:35:45Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Implementation",
+      "workstream": "Process Rollout",
+      "summary": "Implement the optimized business processes across the organization."
+    }
+  },
+  {
+    "taskId": "task_ws_861075d6-f90e-45dd-aefe-9f036f2988b1",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Implementation: Automation Deployment",
+    "createdAt": "2026-04-24T18:35:45Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Implementation",
+      "workstream": "Automation Deployment",
+      "summary": "Configure and deploy the selected automation tools and technologies."
+    }
+  },
+  {
+    "taskId": "task_ws_14c79a2a-157e-4c40-8536-ec869d7d6fc1",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Implementation: Change Management",
+    "createdAt": "2026-04-24T18:35:45Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Implementation",
+      "workstream": "Change Management",
+      "summary": "Manage the organizational change and ensure user adoption of the new processes and tools."
+    }
+  },
+  {
+    "taskId": "task_ws_7eba3a43-6fbe-4c86-a644-995b9fd179d7",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Monitoring and Optimization: Performance Tracking",
+    "createdAt": "2026-04-24T18:35:45Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Monitoring and Optimization",
+      "workstream": "Performance Tracking",
+      "summary": "Establish key performance indicators (KPIs) and track the impact of the changes."
+    }
+  },
+  {
+    "taskId": "task_ws_850e30de-c2e4-4449-a3bb-2953103191e2",
     "system": "jira",
     "type": "workstream",
     "title": "Monitoring and Optimization: Continuous Improvement",
-    "createdAt": "2026-04-24T17:16:26Z",
+    "createdAt": "2026-04-24T18:35:45Z",
     "status": "generated",
     "payload": {
       "phase": "Monitoring and Optimization",
       "workstream": "Continuous Improvement",
-      "summary": "Implement a feedback loop to gather user input and continuously enhance the CRM system and its capabilities."
+      "summary": "Identify and implement further optimization opportunities based on feedback and performance data."
+    }
+  },
+  {
+    "taskId": "task_ws_7b0ba2bf-78f3-471a-b17a-f029921ab889",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Monitoring and Optimization: User Support",
+    "createdAt": "2026-04-24T18:35:45Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Monitoring and Optimization",
+      "workstream": "User Support",
+      "summary": "Provide ongoing training and support to ensure the successful adoption of the new processes and tools."
     }
   }
 ]
