@@ -1,6 +1,6 @@
 {
-  "dashboardId": "52815d2a-ded6-4af9-8cd3-bc4a37df98fe",
-  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/52815d2a-ded6-4af9-8cd3-bc4a37df98fe/dashboard.json",
+  "dashboardId": "cce7981e-6f22-4554-8905-e3a19a304cfa",
+  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/cce7981e-6f22-4554-8905-e3a19a304cfa/dashboard.json",
   "kpis": {
     "objectiveCount": 0,
     "milestoneCount": 0,
