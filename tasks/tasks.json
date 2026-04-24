@@ -1,119 +1,145 @@
 [
   {
-    "taskId": "task_ws_893e4d85-fab9-40c0-80dd-6019a7197e8c",
+    "taskId": "task_ws_cf400a97-504d-4078-b572-d1daaa54ae35",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Business Process Analysis",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Initiation: Project Charter",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Business Process Analysis",
-      "summary": "Conduct interviews and workshops to understand current workflows and identify areas for improvement."
+      "phase": "Initiation",
+      "workstream": "Project Charter",
+      "summary": "Establish the project's purpose, goals, and high-level requirements."
     }
   },
   {
-    "taskId": "task_ws_5e1e2bc8-543b-4556-bb0b-03cf19888410",
+    "taskId": "task_ws_d48f3b65-d3a3-4a00-901b-c0cd3b86c403",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Initiation: Stakeholder Analysis",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Solution Design",
-      "summary": "Collaborate with stakeholders to design a tailored solution that addresses the identified needs."
+      "phase": "Initiation",
+      "workstream": "Stakeholder Analysis",
+      "summary": "Identify and engage with key stakeholders to understand their needs and expectations."
     }
   },
   {
-    "taskId": "task_ws_50b0db9d-0838-492e-9bf8-0d32b19018c2",
+    "taskId": "task_ws_c135853e-657f-4ad4-b107-a685e9fb7787",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Project Planning",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Planning: Project Schedule",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Project Planning",
-      "summary": "Develop a comprehensive project plan, including timelines, resource allocation, and risk mitigation strategies."
+      "phase": "Planning",
+      "workstream": "Project Schedule",
+      "summary": "Create a detailed project timeline with milestones and dependencies."
     }
   },
   {
-    "taskId": "task_ws_e14a7092-7093-479f-b924-2df7911b23a3",
+    "taskId": "task_ws_257a438e-df3f-44dd-bd62-8f43edfc3f37",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: System Integration",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Planning: Resource Management",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "System Integration",
-      "summary": "Integrate the new solution with existing systems and infrastructure to ensure seamless data flow."
+      "phase": "Planning",
+      "workstream": "Resource Management",
+      "summary": "Allocate and manage the necessary human, financial, and material resources."
     }
   },
   {
-    "taskId": "task_ws_88407089-d2d6-461d-856e-b9fab45ab0b5",
+    "taskId": "task_ws_092b5337-1a61-43d9-89cf-8fd1031526c1",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Process Automation",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Planning: Risk Assessment",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Process Automation",
-      "summary": "Implement automated workflows and streamline repetitive tasks to improve productivity."
+      "phase": "Planning",
+      "workstream": "Risk Assessment",
+      "summary": "Identify, analyze, and develop mitigation strategies for potential project risks."
     }
   },
   {
-    "taskId": "task_ws_d42ff902-e42c-45a7-a743-c66052d2d258",
+    "taskId": "task_ws_6d12307f-872b-4535-84be-d6c45f65b53e",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: User Training",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Execution: Task Tracking",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "User Training",
-      "summary": "Provide comprehensive training to ensure employees can effectively utilize the new system and processes."
+      "phase": "Execution",
+      "workstream": "Task Tracking",
+      "summary": "Regularly track the status and progress of project tasks and deliverables."
     }
   },
   {
-    "taskId": "task_ws_7d53ec07-aed4-4737-a991-dc2612a31525",
+    "taskId": "task_ws_0aab2516-b906-4b89-9ede-eb047b235d3b",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Maintenance: Performance Monitoring",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Execution: Stakeholder Engagement",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Maintenance",
-      "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators (KPIs) and regularly review system metrics to identify areas for improvement."
+      "phase": "Execution",
+      "workstream": "Stakeholder Engagement",
+      "summary": "Maintain effective communication and collaboration with key stakeholders."
     }
   },
   {
-    "taskId": "task_ws_56dd9610-f179-4a82-9282-9d4112c8d954",
+    "taskId": "task_ws_0f0d31a5-9ef5-46eb-ab6f-6950848a5bbf",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Maintenance: Continuous Improvement",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Execution: Quality Assurance",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Maintenance",
-      "workstream": "Continuous Improvement",
-      "summary": "Gather user feedback and implement enhancements to the solution based on changing business requirements."
+      "phase": "Execution",
+      "workstream": "Quality Assurance",
+      "summary": "Implement quality control measures to ensure the project meets defined standards."
     }
   },
   {
-    "taskId": "task_ws_8626924d-2698-4651-997a-a4b951aa53e5",
+    "taskId": "task_ws_9e0d21c7-219e-49d9-88fd-8710886c1bb0",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Maintenance: Maintenance and Support",
-    "createdAt": "2026-04-24T18:53:17Z",
+    "title": "Closure: Project Acceptance",
+    "createdAt": "2026-04-24T19:03:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Maintenance",
-      "workstream": "Maintenance and Support",
-      "summary": "Provide ongoing technical support and maintenance to ensure the solution remains reliable and up-to-date."
+      "phase": "Closure",
+      "workstream": "Project Acceptance",
+      "summary": "Obtain formal acceptance and sign-off from the project sponsor and stakeholders."
+    }
+  },
+  {
+    "taskId": "task_ws_db2d5bd9-7a19-47e3-a97e-b3ed0936dea4",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Closure: Knowledge Transfer",
+    "createdAt": "2026-04-24T19:03:20Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Closure",
+      "workstream": "Knowledge Transfer",
+      "summary": "Document and share project knowledge, processes, and best practices for future reference."
+    }
+  },
+  {
+    "taskId": "task_ws_5204a2e8-a947-40c7-81ba-fbae1553cc8b",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Closure: Transition Planning",
+    "createdAt": "2026-04-24T19:03:20Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Closure",
+      "workstream": "Transition Planning",
+      "summary": "Develop a plan to transition the project's outputs or deliverables to ongoing support or maintenance."
     }
   }
 ]
