@@ -1,86 +1,43 @@
 Technical Design Document
 
-Project Name: CryptoStarter
+1. Overview
+This project aims to address the NameError issue where the 'call_bedrock' function is not defined. The goal is to identify the root cause of the error and implement a solution to ensure the function is properly defined and called within the application.
 
-I. Executive Summary
-CryptoStarter is an educational crypto platform that teaches users how to buy, store, and trade digital assets safely. This technical design document outlines the curriculum design, security best practices, onboarding flows, marketing plan, and product roadmap for the CryptoStarter project.
+2. Requirements
+- Identify the location where the 'call_bedrock' function is being called and ensure it is properly defined.
+- Implement a solution to resolve the NameError and ensure the function is available for use.
+- Verify the fix by testing the application and ensuring the error is no longer occurring.
 
-II. Curriculum Design
-A. Cryptocurrency Fundamentals
-1. Introduction to blockchain technology
-2. Understanding digital currencies and their use cases
-3. Exploring popular cryptocurrencies (e.g., Bitcoin, Ethereum)
+3. Proposed Solution
+3.1. Locate the 'call_bedrock' Function
+Review the provided stack trace to identify the file and line number where the 'call_bedrock' function is being called. In this case, the error is occurring in the '/var/task/app.py' file, line 160.
 
-B. Secure Storage and Management
-1. Wallet types (hot, cold, and custodial)
-2. Private key management
-3. Best practices for securing digital assets
+3.2. Define the 'call_bedrock' Function
+Examine the codebase to locate the definition of the 'call_bedrock' function. Ensure the function is properly defined and available for use within the application.
 
-C. Trading and Investment Strategies
-1. Cryptocurrency exchanges and trading platforms
-2. Order types and market dynamics
-3. Risk management and portfolio diversification
+3.3. Implement the Solution
+Based on the findings from the previous steps, implement the necessary changes to resolve the NameError. This may involve:
+- Defining the 'call_bedrock' function if it is missing
+- Ensuring the function is properly imported and accessible where it is being called
+- Updating any dependencies or related code to correctly reference the 'call_bedrock' function
 
-D. Regulatory Landscape and Compliance
-1. Overview of cryptocurrency regulations
-2. Compliance requirements for users and platform
-3. Reporting and tax implications
+3.4. Test the Solution
+Thoroughly test the application to verify the NameError has been resolved and the 'call_bedrock' function is working as expected. Perform unit tests, integration tests, and end-to-end tests to ensure the fix is effective and does not introduce any new issues.
 
-III. Security Best Practices
-A. Platform Security
-1. Secure data storage and encryption
-2. Two-factor authentication and access controls
-3. Vulnerability management and penetration testing
+4. Implementation Plan
+4.1. Identify the root cause of the NameError
+4.2. Define the 'call_bedrock' function or ensure it is properly accessible
+4.3. Update the code to correctly reference the 'call_bedrock' function
+4.4. Test the solution to verify the NameError is resolved
+4.5. Deploy the fix to the production environment
 
-B. User Security
-1. Password management and strong authentication
-2. Secure storage of private keys
-3. Education on phishing and social engineering attacks
+5. Validation and Monitoring
+5.1. Verify the fix by testing the application in a staging environment
+5.2. Monitor the production environment for any recurrence of the NameError
+5.3. Implement logging and error reporting mechanisms to quickly identify and address any future issues
 
-IV. Onboarding Flows
-A. User Registration
-1. Email/social media signup
-2. Identity verification (KYC)
-3. Risk assessment and suitability checks
-
-B. Wallet Setup
-1. Wallet selection and creation
-2. Private key backup and recovery
-3. Funding the wallet
-
-C. Educational Onboarding
-1. Interactive tutorials and quizzes
-2. Gamified learning experiences
-3. Ongoing educational content and updates
-
-V. Marketing Plan
-A. Target Audience
-1. Retail investors and crypto enthusiasts
-2. Individuals new to the cryptocurrency space
-3. Small and medium-sized businesses
-
-B. Acquisition Channels
-1. Search engine optimization (SEO)
-2. Social media marketing and influencer partnerships
-3. Content marketing (blog, videos, webinars)
-
-C. Retention and Engagement
-1. Personalized email campaigns
-2. Community building and user forums
-3. Loyalty programs and referral incentives
-
-VI. Product Roadmap
-A. Phase 1: MVP Launch
-1. Cryptocurrency fundamentals curriculum
-2. Secure wallet management
-3. Basic trading and investment strategies
-
-B. Phase 2: Platform Expansion
-1. Advanced trading features
-2. Portfolio tracking and analytics
-3. Regulatory compliance tools
-
-C. Phase 3: Ecosystem Integration
-1. Decentralized exchange integration
-2. Staking and yield farming opportunities
-3. Enterprise-level solutions for businesses
+6. Timeline and Milestones
+- Identify root cause: 1 day
+- Implement solution: 2 days
+- Testing and validation: 1 day
+- Deployment to production: 1 day
