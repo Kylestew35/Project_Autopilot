@@ -1,158 +1,119 @@
 [
   {
-    "taskId": "task_ws_f7dae7bf-0631-4f14-b08d-e4c8ad9597aa",
+    "taskId": "task_ws_893e4d85-fab9-40c0-80dd-6019a7197e8c",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Assessment: Process Mapping",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Discovery and Planning: Business Process Analysis",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Assessment",
-      "workstream": "Process Mapping",
-      "summary": "Map out existing business processes and identify areas for optimization."
+      "phase": "Discovery and Planning",
+      "workstream": "Business Process Analysis",
+      "summary": "Conduct interviews and workshops to understand current workflows and identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_69dfa35e-f8fb-4377-9ff7-1cdaac994171",
+    "taskId": "task_ws_5e1e2bc8-543b-4556-bb0b-03cf19888410",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Assessment: Stakeholder Interviews",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Discovery and Planning: Solution Design",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Assessment",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
+      "phase": "Discovery and Planning",
+      "workstream": "Solution Design",
+      "summary": "Collaborate with stakeholders to design a tailored solution that addresses the identified needs."
     }
   },
   {
-    "taskId": "task_ws_4116b97a-0e5e-435c-bcfe-b4375e4bc184",
+    "taskId": "task_ws_50b0db9d-0838-492e-9bf8-0d32b19018c2",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Assessment: Data Analysis",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Discovery and Planning: Project Planning",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Assessment",
-      "workstream": "Data Analysis",
-      "summary": "Gather and analyze relevant data to uncover insights and opportunities."
+      "phase": "Discovery and Planning",
+      "workstream": "Project Planning",
+      "summary": "Develop a comprehensive project plan, including timelines, resource allocation, and risk mitigation strategies."
     }
   },
   {
-    "taskId": "task_ws_ab587232-910f-48ea-b07a-e93d6aa56923",
+    "taskId": "task_ws_e14a7092-7093-479f-b924-2df7911b23a3",
     "system": "jira",
     "type": "workstream",
-    "title": "Solution Design: Process Optimization",
-    "createdAt": "2026-04-24T18:35:45Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Solution Design",
-      "workstream": "Process Optimization",
-      "summary": "Redesign and optimize business processes based on the insights from the discovery phase."
-    }
-  },
-  {
-    "taskId": "task_ws_b352fe0e-1c89-4d8a-9788-7f2e309a9899",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Solution Design: Automation Strategy",
-    "createdAt": "2026-04-24T18:35:45Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Solution Design",
-      "workstream": "Automation Strategy",
-      "summary": "Identify and prioritize tasks and workflows for automation."
-    }
-  },
-  {
-    "taskId": "task_ws_82e19227-403a-4eba-bdfd-1b7e1369f1c0",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Solution Design: Technology Integration",
-    "createdAt": "2026-04-24T18:35:45Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Solution Design",
-      "workstream": "Technology Integration",
-      "summary": "Evaluate and select the appropriate tools and technologies to support the automation efforts."
-    }
-  },
-  {
-    "taskId": "task_ws_3e7e9687-a256-4c71-b7e8-653b1885ef7e",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Implementation: Process Rollout",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Implementation: System Integration",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
       "phase": "Implementation",
-      "workstream": "Process Rollout",
-      "summary": "Implement the optimized business processes across the organization."
+      "workstream": "System Integration",
+      "summary": "Integrate the new solution with existing systems and infrastructure to ensure seamless data flow."
     }
   },
   {
-    "taskId": "task_ws_861075d6-f90e-45dd-aefe-9f036f2988b1",
+    "taskId": "task_ws_88407089-d2d6-461d-856e-b9fab45ab0b5",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Automation Deployment",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Implementation: Process Automation",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
       "phase": "Implementation",
-      "workstream": "Automation Deployment",
-      "summary": "Configure and deploy the selected automation tools and technologies."
+      "workstream": "Process Automation",
+      "summary": "Implement automated workflows and streamline repetitive tasks to improve productivity."
     }
   },
   {
-    "taskId": "task_ws_14c79a2a-157e-4c40-8536-ec869d7d6fc1",
+    "taskId": "task_ws_d42ff902-e42c-45a7-a743-c66052d2d258",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Change Management",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Implementation: User Training",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
       "phase": "Implementation",
-      "workstream": "Change Management",
-      "summary": "Manage the organizational change and ensure user adoption of the new processes and tools."
+      "workstream": "User Training",
+      "summary": "Provide comprehensive training to ensure employees can effectively utilize the new system and processes."
     }
   },
   {
-    "taskId": "task_ws_7eba3a43-6fbe-4c86-a644-995b9fd179d7",
+    "taskId": "task_ws_7d53ec07-aed4-4737-a991-dc2612a31525",
     "system": "jira",
     "type": "workstream",
-    "title": "Monitoring and Optimization: Performance Tracking",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Optimization and Maintenance: Performance Monitoring",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Monitoring and Optimization",
-      "workstream": "Performance Tracking",
-      "summary": "Establish key performance indicators (KPIs) and track the impact of the changes."
+      "phase": "Optimization and Maintenance",
+      "workstream": "Performance Monitoring",
+      "summary": "Establish key performance indicators (KPIs) and regularly review system metrics to identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_850e30de-c2e4-4449-a3bb-2953103191e2",
+    "taskId": "task_ws_56dd9610-f179-4a82-9282-9d4112c8d954",
     "system": "jira",
     "type": "workstream",
-    "title": "Monitoring and Optimization: Continuous Improvement",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Optimization and Maintenance: Continuous Improvement",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Monitoring and Optimization",
+      "phase": "Optimization and Maintenance",
       "workstream": "Continuous Improvement",
-      "summary": "Identify and implement further optimization opportunities based on feedback and performance data."
+      "summary": "Gather user feedback and implement enhancements to the solution based on changing business requirements."
     }
   },
   {
-    "taskId": "task_ws_7b0ba2bf-78f3-471a-b17a-f029921ab889",
+    "taskId": "task_ws_8626924d-2698-4651-997a-a4b951aa53e5",
     "system": "jira",
     "type": "workstream",
-    "title": "Monitoring and Optimization: User Support",
-    "createdAt": "2026-04-24T18:35:45Z",
+    "title": "Optimization and Maintenance: Maintenance and Support",
+    "createdAt": "2026-04-24T18:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Monitoring and Optimization",
-      "workstream": "User Support",
-      "summary": "Provide ongoing training and support to ensure the successful adoption of the new processes and tools."
+      "phase": "Optimization and Maintenance",
+      "workstream": "Maintenance and Support",
+      "summary": "Provide ongoing technical support and maintenance to ensure the solution remains reliable and up-to-date."
     }
   }
 ]
