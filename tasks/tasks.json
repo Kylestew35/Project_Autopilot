@@ -1,1 +1,106 @@
-[]
+[
+  {
+    "taskId": "task_ws_9f378773-647e-4a71-9191-96aff2278053",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Discovery: Process Mapping",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Discovery",
+      "workstream": "Process Mapping",
+      "summary": "Document the existing customer onboarding workflow and pain points."
+    }
+  },
+  {
+    "taskId": "task_ws_68ef47fb-ebe1-4b9e-9c97-d41495a09cca",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Discovery: Stakeholder Interviews",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Discovery",
+      "workstream": "Stakeholder Interviews",
+      "summary": "Gather feedback from sales, customer success, and new customers on onboarding experience."
+    }
+  },
+  {
+    "taskId": "task_ws_e96dcc53-de60-4ef1-bafd-37b60afd8ec5",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Design: Process Optimization",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Design",
+      "workstream": "Process Optimization",
+      "summary": "Identify and implement changes to improve efficiency and reduce manual tasks."
+    }
+  },
+  {
+    "taskId": "task_ws_0e3639b7-de28-4c8f-8ac5-e8502e2d5ef1",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Design: Automation Planning",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Design",
+      "workstream": "Automation Planning",
+      "summary": "Determine which onboarding steps can be automated and define the technical requirements."
+    }
+  },
+  {
+    "taskId": "task_ws_02cd99f2-ab99-4005-8f8d-2671e87859c1",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Implementation: Technical Integration",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Implementation",
+      "workstream": "Technical Integration",
+      "summary": "Integrate new onboarding tools and systems with existing infrastructure."
+    }
+  },
+  {
+    "taskId": "task_ws_645a2251-f0ad-41d5-9247-b1126962521f",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Implementation: User Training",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Implementation",
+      "workstream": "User Training",
+      "summary": "Provide training and support to sales and customer success teams on the new onboarding process."
+    }
+  },
+  {
+    "taskId": "task_ws_22c3bdd7-ab99-4092-85d9-9d7467c967b7",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Optimization: Performance Tracking",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Optimization",
+      "workstream": "Performance Tracking",
+      "summary": "Establish key metrics and reporting to measure the impact of the new onboarding process."
+    }
+  },
+  {
+    "taskId": "task_ws_542fce0b-5ae5-4c3b-9bff-c0423fab0505",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Optimization: Feedback Collection",
+    "createdAt": "2026-04-24T15:51:25Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Optimization",
+      "workstream": "Feedback Collection",
+      "summary": "Gather ongoing feedback from customers and internal teams to identify further areas for improvement."
+    }
+  }
+]
