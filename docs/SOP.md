@@ -1,57 +1,45 @@
-STANDARD OPERATING PROCEDURE (SOP)
-Project: CryptoStarter
+Standard Operating Procedure (SOP)
 
-I. Project Overview
-CryptoStarter is an educational crypto platform that teaches users how to buy, store, and trade digital assets safely. The project aims to provide a comprehensive curriculum, implement robust security measures, streamline the onboarding process, execute a strategic marketing plan, and develop a product roadmap to achieve its objectives.
+Project: Resolving NameError in AWS Lambda Function
 
-II. Curriculum Design
-A. Develop a structured curriculum covering the following topics:
-1. Cryptocurrency Fundamentals
-2. Wallet Setup and Management
-3. Trading Strategies and Techniques
-4. Cybersecurity Best Practices
-5. Regulatory Compliance and Tax Implications
+1. Objective
+   - Identify and fix the root cause of the NameError in the AWS Lambda function.
 
-B. Engage subject matter experts to create high-quality educational content, including video lessons, interactive tutorials, and quizzes.
-C. Ensure the curriculum is tailored to the needs of both beginner and intermediate crypto enthusiasts.
-D. Continuously update the curriculum to reflect industry changes and user feedback.
+2. Scope
+   - This SOP covers the steps to diagnose and resolve the NameError issue in the provided AWS Lambda function.
 
-III. Security Best Practices
-A. Implement robust security measures to protect user data and digital assets:
-1. Utilize industry-standard encryption protocols for data transmission and storage.
-2. Require multi-factor authentication for user accounts.
-3. Regularly audit and update security protocols to address emerging threats.
-4. Provide comprehensive security guidelines and best practices to users.
+3. Responsibilities
+   - Developer: Analyze the error, identify the root cause, and implement the necessary changes.
+   - Quality Assurance: Verify the fix and ensure the function operates as expected.
+   - DevOps: Deploy the updated function to the production environment.
 
-B. Establish a comprehensive incident response plan to address security breaches or system failures.
-C. Engage with security experts to ensure the platform meets or exceeds industry standards.
+4. Procedure
+   4.1. Analyze the Error
+      - Review the error message: "NameError: name 'call_bedrock' is not defined"
+      - Examine the stack trace to identify the line of code where the error occurred: "/var/task/app.py", line 160, in handler
 
-IV. Onboarding and User Experience
-A. Design a seamless onboarding process that guides users through account creation, wallet setup, and initial platform exploration.
-B. Provide clear and intuitive instructions for navigating the platform's features and functionalities.
-C. Offer personalized recommendations and support based on user profiles and preferences.
-D. Continuously gather user feedback to identify and address pain points in the user experience.
+   4.2. Identify the Root Cause
+      - The error indicates that the function "call_bedrock" is not defined in the scope of the "handler" function.
+      - Verify that the "call_bedrock" function is defined and imported correctly in the "app.py" file.
 
-V. Marketing and Promotion
-A. Develop a comprehensive marketing strategy to raise awareness and attract potential users:
-1. Leverage social media platforms to engage with the crypto community.
-2. Collaborate with industry influencers and thought leaders for content partnerships.
-3. Participate in relevant crypto events and conferences to showcase the platform.
-4. Implement search engine optimization (SEO) and paid advertising campaigns.
+   4.3. Implement the Fix
+      - Locate the line of code where the "call_bedrock" function is called (line 160 in the provided stack trace).
+      - Ensure that the "call_bedrock" function is defined and imported correctly in the "app.py" file.
+      - If the function is not defined, add the necessary code to define and implement the "call_bedrock" function.
+      - If the function is defined but not imported, add the appropriate import statement at the beginning of the "app.py" file.
 
-B. Create engaging and informative content, such as blog posts, video tutorials, and webinars, to position CryptoStarter as a trusted educational resource.
-C. Establish strategic partnerships with complementary businesses and organizations to expand the platform's reach.
-D. Monitor marketing performance and adjust strategies based on data-driven insights.
+   4.4. Test the Fix
+      - Deploy the updated AWS Lambda function to a test environment.
+      - Verify that the function executes without the NameError.
+      - Perform additional testing to ensure the function operates as expected.
 
-VI. Product Roadmap
-A. Identify and prioritize key features and functionalities to be developed in the short, medium, and long term:
-1. Phase 1: Minimum Viable Product (MVP) launch with core educational content and user onboarding.
-2. Phase 2: Implement advanced trading tools, portfolio management features, and community engagement capabilities.
-3. Phase 3: Explore integration with decentralized finance (DeFi) protocols, non-fungible token (NFT) marketplaces, and other emerging crypto services.
+   4.5. Deploy the Fix to Production
+      - Once the fix has been verified in the test environment, deploy the updated AWS Lambda function to the production environment.
+      - Monitor the function's performance and logs to ensure the issue has been resolved.
 
-B. Establish a clear timeline and milestones for each phase of the product roadmap.
-C. Continuously gather user feedback and market trends to inform the product development process.
-D. Allocate resources and assign responsibilities to ensure timely delivery of roadmap initiatives.
+5. Validation and Approval
+   - The fix should be reviewed and approved by the project lead or a designated technical reviewer before deployment to production.
 
-VII. Conclusion
-By following this SOP, the CryptoStarter project team will be able to develop a comprehensive educational platform, implement robust security measures, streamline the user experience, execute an effective marketing strategy, and deliver a well-planned product roadmap. This structured approach will help the project achieve its goals and establish CryptoStarter as a trusted and reliable resource in the crypto ecosystem.
+6. Documentation
+   - Update the project documentation to reflect the changes made to the AWS Lambda function.
+   - Ensure that the SOP is stored in a centralized location for future reference.
