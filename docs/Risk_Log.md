@@ -1,34 +1,33 @@
 Risk Log
 
-Project Name: Implement a new beef and rice recipe for the company's menu
+1. Insufficient Funding
+   - Impact: Inability to complete store setup and launch
+   - Mitigation: Secure additional funding sources, such as loans or investors
 
-Risks:
+2. Intense Competition
+   - Impact: Difficulty in attracting and retaining customers
+   - Mitigation: Differentiate the store through unique product offerings and exceptional customer service
 
-1. Ingredient Availability
-   Impact: Potential delays in recipe development and menu integration.
-   Mitigation: Establish backup suppliers and maintain a buffer stock of key ingredients.
+3. Supply Chain Disruptions
+   - Impact: Delays in inventory replenishment and stock-outs
+   - Mitigation: Establish backup suppliers and maintain higher inventory levels
 
-2. Customer Acceptance
-   Impact: Slow sales and low customer engagement.
-   Mitigation: Conduct extensive market research and gather feedback throughout the project.
+4. Staffing Challenges
+   - Impact: Difficulty in hiring and retaining qualified sales associates and store managers
+   - Mitigation: Offer competitive compensation, provide comprehensive training, and foster a positive work environment
 
-3. Budget Overruns
-   Impact: Increased costs and reduced profitability.
-   Mitigation: Implement strict cost controls and regularly monitor project expenses.
+5. Changing Consumer Preferences
+   - Impact: Inability to adapt to evolving customer demands and trends
+   - Mitigation: Continuously monitor market trends, gather customer feedback, and adjust product selection and marketing strategies accordingly
 
-Automations:
+6. Regulatory Compliance Issues
+   - Impact: Fines, penalties, or legal issues due to non-compliance with local regulations
+   - Mitigation: Thoroughly research and comply with all relevant laws and regulations, seek legal counsel if necessary
 
-1. Ingredient Ordering
-   System: Jira
-   Trigger: New recipe approved
-   Action: Automatically generate purchase orders for required ingredients.
+7. Technology Failures
+   - Impact: Disruptions to inventory management, point-of-sale systems, or other critical business operations
+   - Mitigation: Implement robust backup and disaster recovery plans, maintain regular software updates, and consider redundant systems
 
-2. Customer Feedback Tracking
-   System: Notion
-   Trigger: New customer review posted
-   Action: Capture and analyze customer feedback in a centralized dashboard.
-
-3. Sales Reporting
-   System: GitHub
-   Trigger: Weekly sales data update
-   Action: Generate and distribute weekly sales reports to the project team.
+8. Reputational Risks
+   - Impact: Negative publicity or loss of customer trust due to poor customer service, product quality issues, or other incidents
+   - Mitigation: Prioritize customer satisfaction, maintain high-quality standards, and have a crisis communication plan in place
