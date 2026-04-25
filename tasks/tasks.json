@@ -1,128 +1,114 @@
 [
   {
-    "taskId": "task_ws_45a65cc6-20b8-463f-855a-2ee8d097bbea",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
+    "taskId": "task_ws_48e88c78-a22a-44d9-95d5-c3c107cb3dc7",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T10:04:29Z",
+    "title": "Initiation: Project Kickoff",
+    "createdAt": "2026-04-25T10:06:47Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
+      "phase": "Initiation",
+      "workstream": "Project Kickoff",
+      "summary": "Align team on project vision, goals, and success criteria."
     }
   },
   {
-    "taskId": "task_ws_9601734d-4058-452f-b754-3fd1b79a5243",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
+    "taskId": "task_ws_0bce3d0c-4d43-44aa-8c3e-5431cb16af6d",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Process Mapping",
-    "createdAt": "2026-04-25T10:04:29Z",
+    "title": "Initiation: Stakeholder Engagement",
+    "createdAt": "2026-04-25T10:06:47Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Process Mapping",
-      "summary": "Map existing project management processes and identify areas for improvement."
+      "phase": "Initiation",
+      "workstream": "Stakeholder Engagement",
+      "summary": "Identify and engage key stakeholders to gather requirements."
     }
   },
   {
-    "taskId": "task_ws_30aae322-5a6f-4bd2-850d-3351b087b217",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
+    "taskId": "task_ws_4e9b2586-cf9c-4870-94e7-6b94927a39c9",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-25T10:04:29Z",
+    "title": "Planning: Resource Allocation",
+    "createdAt": "2026-04-25T10:06:47Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Solution Design",
-      "summary": "Collaborate with the team to design a tailored project management solution."
+      "phase": "Planning",
+      "workstream": "Resource Allocation",
+      "summary": "Assign roles, responsibilities, and allocate resources."
     }
   },
   {
-    "taskId": "task_ws_d537eba3-90b9-4f9c-b8ac-b42754aefc84",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
+    "taskId": "task_ws_15d25dae-7318-4e86-ae90-de12eef0243c",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Platform Configuration",
-    "createdAt": "2026-04-25T10:04:29Z",
+    "title": "Planning: Risk Assessment",
+    "createdAt": "2026-04-25T10:06:47Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Platform Configuration",
-      "summary": "Set up the project management platform and customize it to meet the organization's needs."
+      "phase": "Planning",
+      "workstream": "Risk Assessment",
+      "summary": "Identify and mitigate potential risks to the project."
     }
   },
   {
-    "taskId": "task_ws_6d98784a-e0d6-4017-ba2a-2dd3af779f49",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
+    "taskId": "task_ws_4a214658-93f9-4d23-a3be-897aeeb6501c",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Data Migration",
-    "createdAt": "2026-04-25T10:04:29Z",
+    "title": "Execution: Task Tracking",
+    "createdAt": "2026-04-25T10:06:47Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Data Migration",
-      "summary": "Migrate historical project data to the new platform."
+      "phase": "Execution",
+      "workstream": "Task Tracking",
+      "summary": "Regularly track and report on project milestones and deliverables."
     }
   },
   {
-    "taskId": "task_ws_6700bfd7-73c8-41ba-9ba0-91f4e642ddf1",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
+    "taskId": "task_ws_b989aa2e-b877-40b4-93c1-7070d16720c1",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: User Onboarding",
-    "createdAt": "2026-04-25T10:04:29Z",
+    "title": "Execution: Change Management",
+    "createdAt": "2026-04-25T10:06:47Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "User Onboarding",
-      "summary": "Train and onboard users to ensure effective adoption of the new system."
-    }
-  },
-  {
-    "taskId": "task_ws_bb1bc717-19cb-42bc-a6a8-5485919a74e2",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Performance Monitoring",
-    "createdAt": "2026-04-25T10:04:29Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators (KPIs) and regularly review project management metrics."
-    }
-  },
-  {
-    "taskId": "task_ws_750b3ef6-2940-488e-a4aa-b2c82ccc3920",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Process Refinement",
-    "createdAt": "2026-04-25T10:04:29Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Process Refinement",
-      "summary": "Identify and implement process improvements based on user feedback and data insights."
-    }
-  },
-  {
-    "taskId": "task_ws_21096c4e-b360-401c-8b85-b6a4a79180d6",
-    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Change Management",
-    "createdAt": "2026-04-25T10:04:29Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Optimization and Continuous Improvement",
+      "phase": "Execution",
       "workstream": "Change Management",
-      "summary": "Manage organizational change and ensure sustained user adoption of the new system."
+      "summary": "Manage and document any changes to the project scope or requirements."
+    }
+  },
+  {
+    "taskId": "task_ws_e7cd51fb-51c6-4353-97f3-a9f85b9b104b",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Closure: Project Handoff",
+    "createdAt": "2026-04-25T10:06:47Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Closure",
+      "workstream": "Project Handoff",
+      "summary": "Transition the project to the appropriate stakeholders."
+    }
+  },
+  {
+    "taskId": "task_ws_ee002d40-91a0-41fd-bd4f-b4e352d4e1f6",
+    "projectId": "b1c9b4ac-b289-4eac-9fc4-b18769f16ca0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Closure: Post-Implementation Review",
+    "createdAt": "2026-04-25T10:06:47Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Closure",
+      "workstream": "Post-Implementation Review",
+      "summary": "Evaluate the project's success and identify areas for improvement."
     }
   }
 ]
