@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_36a18c97-8993-4cbd-9a6f-cd5380bfcf15",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_41a07fe4-f04b-4776-ba46-2af5e3eeddde",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
     "title": "Research and Development: Market Analysis",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Research and Development",
       "workstream": "Market Analysis",
-      "summary": "Gather consumer insights and identify target market opportunities."
+      "summary": "Analyze consumer trends, competitive landscape, and growth opportunities in the beef snack market."
     }
   },
   {
-    "taskId": "task_ws_3140fd93-5ffa-4d35-90e8-65b86165f25c",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_a9292d9c-b337-45d4-8d30-2885a8d65be6",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
     "title": "Research and Development: Product Development",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Research and Development",
       "workstream": "Product Development",
-      "summary": "Create and refine new beef product recipes with unique flavor profiles."
+      "summary": "Experiment with different beef cuts, seasonings, and processing techniques to create unique flavor profiles."
     }
   },
   {
-    "taskId": "task_ws_5cdd0702-bd28-4c26-8089-037fda00b269",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_c5a09742-012d-4b26-8abc-cd5dafabea43",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
-    "title": "Research and Development: Prototype Testing",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "title": "Research and Development: Sensory Testing",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Research and Development",
-      "workstream": "Prototype Testing",
-      "summary": "Conduct consumer taste tests and gather feedback on product prototypes."
+      "workstream": "Sensory Testing",
+      "summary": "Gather feedback from a diverse panel of consumers to refine the product and ensure it meets market preferences."
     }
   },
   {
-    "taskId": "task_ws_21dad101-3cfa-4c4d-87fe-57e31c288946",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_41d83cf7-ce5a-415b-a285-ba91ebfcea5e",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
-    "title": "Production and Scaling: Production Facility Setup",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "title": "Production and Scaling: Facility Expansion",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Production and Scaling",
-      "workstream": "Production Facility Setup",
-      "summary": "Identify and configure a suitable production facility to meet demand."
+      "workstream": "Facility Expansion",
+      "summary": "Identify and secure a suitable production facility with the capacity to meet anticipated demand."
     }
   },
   {
-    "taskId": "task_ws_dd8837e0-56e8-47a8-b94b-c3a62142f03f",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_105f6b09-6d8e-45d0-8e03-a34489a2f832",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
     "title": "Production and Scaling: Process Optimization",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Production and Scaling",
       "workstream": "Process Optimization",
-      "summary": "Streamline production workflows and implement quality control measures."
+      "summary": "Streamline production workflows, implement quality control measures, and ensure consistent product quality."
     }
   },
   {
-    "taskId": "task_ws_eaa39dd0-092e-4e79-a8c1-c20e3e7bb8a9",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_0f7f1c79-92db-4a4a-a3c9-b710c1faca5c",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
-    "title": "Production and Scaling: Inventory Management",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "title": "Production and Scaling: Supply Chain Management",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Production and Scaling",
-      "workstream": "Inventory Management",
-      "summary": "Develop a supply chain strategy to ensure consistent product availability."
+      "workstream": "Supply Chain Management",
+      "summary": "Develop relationships with suppliers, logistics providers, and distributors to ensure a reliable and efficient supply chain."
     }
   },
   {
-    "taskId": "task_ws_00d751b8-e7c2-4d8d-8cba-cd0b86e33b21",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_98bd1fb1-e139-4aec-a970-15bde7e033fb",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
     "title": "Marketing and Launch: Brand Development",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Marketing and Launch",
       "workstream": "Brand Development",
-      "summary": "Establish the 'funky beef' brand identity and messaging."
+      "summary": "Create a distinctive brand identity, including packaging design, messaging, and visual assets."
     }
   },
   {
-    "taskId": "task_ws_de7e3bd0-85a0-45a5-be2f-49d898ef4e42",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_fa8ef33f-8555-4461-adf1-fa9f1cb04b61",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Launch: Promotional Activities",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "title": "Marketing and Launch: Promotional Campaign",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Marketing and Launch",
-      "workstream": "Promotional Activities",
-      "summary": "Develop and execute a multi-channel marketing campaign to drive awareness and sales."
+      "workstream": "Promotional Campaign",
+      "summary": "Implement a multi-channel marketing campaign to generate buzz and drive product awareness."
     }
   },
   {
-    "taskId": "task_ws_f9c45cf8-d795-4a82-aaa4-4b148dec3773",
-    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
+    "taskId": "task_ws_1d28ca48-c6b4-48d3-94cf-8d843788d730",
+    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
     "system": "jira",
     "type": "workstream",
     "title": "Marketing and Launch: Retail Partnerships",
-    "createdAt": "2026-04-25T08:02:21Z",
+    "createdAt": "2026-04-25T08:03:42Z",
     "status": "generated",
     "payload": {
       "phase": "Marketing and Launch",
       "workstream": "Retail Partnerships",
-      "summary": "Secure distribution agreements with key retail partners."
+      "summary": "Secure distribution agreements with key retail partners and ensure effective in-store merchandising."
     }
   }
 ]
