@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_c349ffda-c41e-485f-8b18-93faa3b8f78c",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_bbbdc704-0728-4219-ab28-62a0705cb4cc",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Product Development: Recipe Formulation",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Discovery and Planning: Stakeholder Interviews",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Product Development",
-      "workstream": "Recipe Formulation",
-      "summary": "Develop unique flavor profiles and optimize ingredient blends"
+      "phase": "Discovery and Planning",
+      "workstream": "Stakeholder Interviews",
+      "summary": "Conduct interviews with key stakeholders to understand business needs and pain points."
     }
   },
   {
-    "taskId": "task_ws_7f5a8eb5-a00b-48b6-a566-685ab707e771",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_7fe6368f-e7b7-474f-9c4c-502c5fc1a395",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Product Development: Packaging Design",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Discovery and Planning: Competitive Analysis",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Product Development",
-      "workstream": "Packaging Design",
-      "summary": "Create an eye-catching and premium-looking package design"
+      "phase": "Discovery and Planning",
+      "workstream": "Competitive Analysis",
+      "summary": "Research and analyze the competitive landscape to identify opportunities and best practices."
     }
   },
   {
-    "taskId": "task_ws_d73fad6f-fef7-4a33-8669-6c21a2345a7a",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_91c3cda7-f54c-4dd8-9d92-bbc90e0cf935",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Product Development: Brand Identity",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Discovery and Planning: Technical Feasibility",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Product Development",
-      "workstream": "Brand Identity",
-      "summary": "Establish a strong brand identity and messaging for the jerky line"
+      "phase": "Discovery and Planning",
+      "workstream": "Technical Feasibility",
+      "summary": "Assess the technical requirements and feasibility of the proposed e-commerce platform."
     }
   },
   {
-    "taskId": "task_ws_57452fec-020a-4cb7-a081-e1fea716ccc5",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_9720fb0c-8750-4e52-9dc9-ebd0c9504ac2",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Production Ramp-up: Supplier Onboarding",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Platform Development: User Experience Design",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Production Ramp-up",
-      "workstream": "Supplier Onboarding",
-      "summary": "Identify and onboard reliable suppliers for key ingredients and materials"
+      "phase": "Platform Development",
+      "workstream": "User Experience Design",
+      "summary": "Create a user-friendly and intuitive interface for the e-commerce platform."
     }
   },
   {
-    "taskId": "task_ws_c886a16e-26c3-4f6b-b92f-70f1e3d8fb88",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_f5ef5dbd-7bd7-404e-a8f5-6c299b9da4f7",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Production Ramp-up: Production Scaling",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Platform Development: Backend Development",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Production Ramp-up",
-      "workstream": "Production Scaling",
-      "summary": "Implement efficient production workflows and scale up manufacturing capacity"
+      "phase": "Platform Development",
+      "workstream": "Backend Development",
+      "summary": "Implement the core functionality and integrations of the e-commerce platform."
     }
   },
   {
-    "taskId": "task_ws_131ca729-ff58-42d2-b508-2a0fc7fee22e",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_96d0eac7-ce5a-4bd3-8e40-50dd42d806d7",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Production Ramp-up: Quality Assurance",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Platform Development: Quality Assurance",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Production Ramp-up",
+      "phase": "Platform Development",
       "workstream": "Quality Assurance",
-      "summary": "Establish robust quality control measures to ensure product consistency and safety"
+      "summary": "Thoroughly test the e-commerce platform to ensure it meets the defined requirements."
     }
   },
   {
-    "taskId": "task_ws_e15d77ad-4b13-4c9b-b4d4-33af7594468c",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_a78577ee-746d-4174-82a6-2b1c340b08ab",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Market Launch: Sales and Distribution",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Deployment and Launch: Infrastructure Setup",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Market Launch",
-      "workstream": "Sales and Distribution",
-      "summary": "Secure retail and online distribution partnerships to reach target customers"
+      "phase": "Deployment and Launch",
+      "workstream": "Infrastructure Setup",
+      "summary": "Provision the necessary infrastructure and hosting environment for the e-commerce platform."
     }
   },
   {
-    "taskId": "task_ws_be3026b9-4e51-43c1-87bd-af23754bc70b",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "taskId": "task_ws_7e86f895-fb8e-4420-be81-ad0d233e1e10",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
     "system": "jira",
     "type": "workstream",
-    "title": "Market Launch: Marketing and Promotion",
-    "createdAt": "2026-04-25T07:09:00Z",
+    "title": "Deployment and Launch: Data Migration",
+    "createdAt": "2026-04-25T07:53:17Z",
     "status": "generated",
     "payload": {
-      "phase": "Market Launch",
+      "phase": "Deployment and Launch",
+      "workstream": "Data Migration",
+      "summary": "Migrate existing product, customer, and order data to the new e-commerce platform."
+    }
+  },
+  {
+    "taskId": "task_ws_98407720-6844-441d-a57a-e57af49cff39",
+    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Deployment and Launch: Marketing and Promotion",
+    "createdAt": "2026-04-25T07:53:17Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Deployment and Launch",
       "workstream": "Marketing and Promotion",
-      "summary": "Develop and execute a comprehensive marketing campaign to build brand awareness"
-    }
-  },
-  {
-    "taskId": "task_ws_0a3cccf7-917a-43b1-a7aa-5a4b3881c1f1",
-    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Market Launch: Customer Engagement",
-    "createdAt": "2026-04-25T07:09:00Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Market Launch",
-      "workstream": "Customer Engagement",
-      "summary": "Implement strategies to foster customer loyalty and repeat business"
+      "summary": "Develop and execute a marketing strategy to promote the new e-commerce platform."
     }
   }
 ]
