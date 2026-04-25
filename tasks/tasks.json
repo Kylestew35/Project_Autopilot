@@ -1,11 +1,11 @@
 [
   {
-    "taskId": "task_ws_1e50c111-6e17-4919-8803-f46373bfd2ae",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
+    "taskId": "task_ws_8977e0ac-278b-48e6-ae7c-148cc306fdbc",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
     "system": "jira",
     "type": "workstream",
     "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T09:06:41Z",
+    "createdAt": "2026-04-25T09:24:40Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
@@ -14,115 +14,115 @@
     }
   },
   {
-    "taskId": "task_ws_a3ae9664-cce7-4cf3-af75-9343d2f2f685",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
+    "taskId": "task_ws_83bc6f49-71a9-4f3c-b38c-4fdb8a4182b7",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Competitive Analysis",
-    "createdAt": "2026-04-25T09:06:41Z",
+    "title": "Discovery and Planning: Process Mapping",
+    "createdAt": "2026-04-25T09:24:40Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
-      "workstream": "Competitive Analysis",
-      "summary": "Research and analyze competitor solutions to identify best practices and opportunities for differentiation."
+      "workstream": "Process Mapping",
+      "summary": "Map out existing project management workflows and identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_d1fae6d2-8a8c-4ac9-a257-8d4610a73c32",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
+    "taskId": "task_ws_a849c013-c681-4e84-959e-261ece9a844a",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
     "system": "jira",
     "type": "workstream",
     "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-25T09:06:41Z",
+    "createdAt": "2026-04-25T09:24:40Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
       "workstream": "Solution Design",
-      "summary": "Define the technical architecture and user experience for the new customer engagement platform."
+      "summary": "Collaborate with the team to design a tailored project management solution."
     }
   },
   {
-    "taskId": "task_ws_b378a35b-54bb-4741-879f-6d18ddbb17f0",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
+    "taskId": "task_ws_4de76eeb-5619-4b73-a7df-f9216eb29c2c",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
     "system": "jira",
     "type": "workstream",
-    "title": "Development and Integration: Platform Development",
-    "createdAt": "2026-04-25T09:06:41Z",
+    "title": "Implementation and Integration: Platform Configuration",
+    "createdAt": "2026-04-25T09:24:40Z",
     "status": "generated",
     "payload": {
-      "phase": "Development and Integration",
-      "workstream": "Platform Development",
-      "summary": "Develop the core functionality of the customer engagement platform."
+      "phase": "Implementation and Integration",
+      "workstream": "Platform Configuration",
+      "summary": "Set up the project management platform and customize it to meet the organization's requirements."
     }
   },
   {
-    "taskId": "task_ws_dba1b2b9-67bc-478f-88f9-5d28d16b6a6a",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
+    "taskId": "task_ws_4e5fe908-391a-4485-afcf-25b6d0c07a7f",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
     "system": "jira",
     "type": "workstream",
-    "title": "Development and Integration: Integration with CRM",
-    "createdAt": "2026-04-25T09:06:41Z",
+    "title": "Implementation and Integration: Data Migration",
+    "createdAt": "2026-04-25T09:24:40Z",
     "status": "generated",
     "payload": {
-      "phase": "Development and Integration",
-      "workstream": "Integration with CRM",
-      "summary": "Integrate the new platform with the company's existing customer relationship management (CRM) system."
+      "phase": "Implementation and Integration",
+      "workstream": "Data Migration",
+      "summary": "Migrate historical project data to the new platform, ensuring data integrity and accuracy."
     }
   },
   {
-    "taskId": "task_ws_751bf645-ddfd-475d-8ed2-825b9b2f30b1",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
+    "taskId": "task_ws_f7d8847b-9df9-46ce-a411-60de34ed5da6",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
     "system": "jira",
     "type": "workstream",
-    "title": "Development and Integration: User Interface Design",
-    "createdAt": "2026-04-25T09:06:41Z",
+    "title": "Implementation and Integration: User Training",
+    "createdAt": "2026-04-25T09:24:40Z",
     "status": "generated",
     "payload": {
-      "phase": "Development and Integration",
-      "workstream": "User Interface Design",
-      "summary": "Design and implement the user interface for the customer engagement platform."
-    }
-  },
-  {
-    "taskId": "task_ws_7b546996-b10f-4bee-a483-9b6ed254da26",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Testing and Deployment: User Acceptance Testing",
-    "createdAt": "2026-04-25T09:06:41Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Testing and Deployment",
-      "workstream": "User Acceptance Testing",
-      "summary": "Conduct user acceptance testing to ensure the platform meets the defined requirements."
-    }
-  },
-  {
-    "taskId": "task_ws_689bf7c2-2da3-4d71-8533-d8c858ec9012",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Testing and Deployment: Infrastructure Deployment",
-    "createdAt": "2026-04-25T09:06:41Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Testing and Deployment",
-      "workstream": "Infrastructure Deployment",
-      "summary": "Deploy the platform to the production environment and ensure it is properly configured and secured."
-    }
-  },
-  {
-    "taskId": "task_ws_7161d1a5-ad22-40a8-a78e-3943ac2700a4",
-    "projectId": "b842f6a3-5ec0-4c9e-bee3-8245d2ea47b8",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Testing and Deployment: User Training",
-    "createdAt": "2026-04-25T09:06:41Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Testing and Deployment",
+      "phase": "Implementation and Integration",
       "workstream": "User Training",
-      "summary": "Provide training to customer support staff and other key users on the new platform."
+      "summary": "Provide comprehensive training to all stakeholders to ensure effective adoption and utilization of the new system."
+    }
+  },
+  {
+    "taskId": "task_ws_66a0da3b-b92f-4f61-86b2-f71868c3d9a0",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Optimization and Continuous Improvement: Performance Monitoring",
+    "createdAt": "2026-04-25T09:24:40Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Performance Monitoring",
+      "summary": "Establish key performance indicators (KPIs) and regularly review project management metrics."
+    }
+  },
+  {
+    "taskId": "task_ws_d6a0bde0-9c2a-4447-a546-12a1d2e28b68",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Optimization and Continuous Improvement: Process Refinement",
+    "createdAt": "2026-04-25T09:24:40Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Process Refinement",
+      "summary": "Identify and implement process improvements based on user feedback and data-driven insights."
+    }
+  },
+  {
+    "taskId": "task_ws_2fbf9d1a-9fce-437e-8246-8dc38c864f53",
+    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Optimization and Continuous Improvement: Change Management",
+    "createdAt": "2026-04-25T09:24:40Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Change Management",
+      "summary": "Manage organizational change and ensure seamless adoption of the new project management practices."
     }
   }
 ]
