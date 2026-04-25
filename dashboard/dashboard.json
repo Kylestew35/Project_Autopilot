@@ -1,17 +1,1 @@
-{
-  "dashboardId": "a2b26eed-681b-4a34-a7ae-fb0efab88411",
-  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/a2b26eed-681b-4a34-a7ae-fb0efab88411/dashboard.json",
-  "kpis": {
-    "objectiveCount": 5,
-    "milestoneCount": 9,
-    "riskCount": 3,
-    "phaseCount": 3,
-    "automationCount": 3,
-    "highRiskCount": 0
-  },
-  "alerts": [],
-  "forecast": {
-    "status": "on_track",
-    "confidence": 0.85
-  }
-}
+{}
