@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_bbbdc704-0728-4219-ab28-62a0705cb4cc",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_36a18c97-8993-4cbd-9a6f-cd5380bfcf15",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Research and Development: Market Analysis",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand business needs and pain points."
+      "phase": "Research and Development",
+      "workstream": "Market Analysis",
+      "summary": "Gather consumer insights and identify target market opportunities."
     }
   },
   {
-    "taskId": "task_ws_7fe6368f-e7b7-474f-9c4c-502c5fc1a395",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_3140fd93-5ffa-4d35-90e8-65b86165f25c",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Competitive Analysis",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Research and Development: Product Development",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Competitive Analysis",
-      "summary": "Research and analyze the competitive landscape to identify opportunities and best practices."
+      "phase": "Research and Development",
+      "workstream": "Product Development",
+      "summary": "Create and refine new beef product recipes with unique flavor profiles."
     }
   },
   {
-    "taskId": "task_ws_91c3cda7-f54c-4dd8-9d92-bbc90e0cf935",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_5cdd0702-bd28-4c26-8089-037fda00b269",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Technical Feasibility",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Research and Development: Prototype Testing",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Technical Feasibility",
-      "summary": "Assess the technical requirements and feasibility of the proposed e-commerce platform."
+      "phase": "Research and Development",
+      "workstream": "Prototype Testing",
+      "summary": "Conduct consumer taste tests and gather feedback on product prototypes."
     }
   },
   {
-    "taskId": "task_ws_9720fb0c-8750-4e52-9dc9-ebd0c9504ac2",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_21dad101-3cfa-4c4d-87fe-57e31c288946",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Platform Development: User Experience Design",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Production and Scaling: Production Facility Setup",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Platform Development",
-      "workstream": "User Experience Design",
-      "summary": "Create a user-friendly and intuitive interface for the e-commerce platform."
+      "phase": "Production and Scaling",
+      "workstream": "Production Facility Setup",
+      "summary": "Identify and configure a suitable production facility to meet demand."
     }
   },
   {
-    "taskId": "task_ws_f5ef5dbd-7bd7-404e-a8f5-6c299b9da4f7",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_dd8837e0-56e8-47a8-b94b-c3a62142f03f",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Platform Development: Backend Development",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Production and Scaling: Process Optimization",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Platform Development",
-      "workstream": "Backend Development",
-      "summary": "Implement the core functionality and integrations of the e-commerce platform."
+      "phase": "Production and Scaling",
+      "workstream": "Process Optimization",
+      "summary": "Streamline production workflows and implement quality control measures."
     }
   },
   {
-    "taskId": "task_ws_96d0eac7-ce5a-4bd3-8e40-50dd42d806d7",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_eaa39dd0-092e-4e79-a8c1-c20e3e7bb8a9",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Platform Development: Quality Assurance",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Production and Scaling: Inventory Management",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Platform Development",
-      "workstream": "Quality Assurance",
-      "summary": "Thoroughly test the e-commerce platform to ensure it meets the defined requirements."
+      "phase": "Production and Scaling",
+      "workstream": "Inventory Management",
+      "summary": "Develop a supply chain strategy to ensure consistent product availability."
     }
   },
   {
-    "taskId": "task_ws_a78577ee-746d-4174-82a6-2b1c340b08ab",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_00d751b8-e7c2-4d8d-8cba-cd0b86e33b21",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Deployment and Launch: Infrastructure Setup",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Marketing and Launch: Brand Development",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Deployment and Launch",
-      "workstream": "Infrastructure Setup",
-      "summary": "Provision the necessary infrastructure and hosting environment for the e-commerce platform."
+      "phase": "Marketing and Launch",
+      "workstream": "Brand Development",
+      "summary": "Establish the 'funky beef' brand identity and messaging."
     }
   },
   {
-    "taskId": "task_ws_7e86f895-fb8e-4420-be81-ad0d233e1e10",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_de7e3bd0-85a0-45a5-be2f-49d898ef4e42",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Deployment and Launch: Data Migration",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Marketing and Launch: Promotional Activities",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Deployment and Launch",
-      "workstream": "Data Migration",
-      "summary": "Migrate existing product, customer, and order data to the new e-commerce platform."
+      "phase": "Marketing and Launch",
+      "workstream": "Promotional Activities",
+      "summary": "Develop and execute a multi-channel marketing campaign to drive awareness and sales."
     }
   },
   {
-    "taskId": "task_ws_98407720-6844-441d-a57a-e57af49cff39",
-    "projectId": "f1f568f2-ad11-4d10-af8d-b75eb2bee722",
+    "taskId": "task_ws_f9c45cf8-d795-4a82-aaa4-4b148dec3773",
+    "projectId": "b8abafeb-5f37-4b45-aed8-daa6f9925e4d",
     "system": "jira",
     "type": "workstream",
-    "title": "Deployment and Launch: Marketing and Promotion",
-    "createdAt": "2026-04-25T07:53:17Z",
+    "title": "Marketing and Launch: Retail Partnerships",
+    "createdAt": "2026-04-25T08:02:21Z",
     "status": "generated",
     "payload": {
-      "phase": "Deployment and Launch",
-      "workstream": "Marketing and Promotion",
-      "summary": "Develop and execute a marketing strategy to promote the new e-commerce platform."
+      "phase": "Marketing and Launch",
+      "workstream": "Retail Partnerships",
+      "summary": "Secure distribution agreements with key retail partners."
     }
   }
 ]
