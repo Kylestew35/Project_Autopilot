@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_18a04b88-c5bc-4bef-a741-0746e7c88094",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
+    "taskId": "task_ws_c349ffda-c41e-485f-8b18-93faa3b8f78c",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
     "system": "jira",
     "type": "workstream",
-    "title": "Research and Development: Market Analysis",
-    "createdAt": "2026-04-25T07:08:34Z",
+    "title": "Product Development: Recipe Formulation",
+    "createdAt": "2026-04-25T07:09:00Z",
     "status": "generated",
     "payload": {
-      "phase": "Research and Development",
-      "workstream": "Market Analysis",
-      "summary": "Analyze consumer trends, competitor offerings, and identify target market segments."
+      "phase": "Product Development",
+      "workstream": "Recipe Formulation",
+      "summary": "Develop unique flavor profiles and optimize ingredient blends"
     }
   },
   {
-    "taskId": "task_ws_c221b6ec-d516-450c-9ff5-8d6aa9a260be",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
+    "taskId": "task_ws_7f5a8eb5-a00b-48b6-a566-685ab707e771",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
     "system": "jira",
     "type": "workstream",
-    "title": "Research and Development: Product Development",
-    "createdAt": "2026-04-25T07:08:34Z",
+    "title": "Product Development: Packaging Design",
+    "createdAt": "2026-04-25T07:09:00Z",
     "status": "generated",
     "payload": {
-      "phase": "Research and Development",
-      "workstream": "Product Development",
-      "summary": "Create new jerky recipes, experiment with flavors and textures, and refine the production process."
-    }
-  },
-  {
-    "taskId": "task_ws_228d17c8-3add-43f0-8026-5876c28ec254",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Research and Development: Prototype Testing",
-    "createdAt": "2026-04-25T07:08:34Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Research and Development",
-      "workstream": "Prototype Testing",
-      "summary": "Conduct consumer taste tests and gather feedback to optimize the product line."
-    }
-  },
-  {
-    "taskId": "task_ws_9f1cdc1a-59a2-4481-8aff-14bc72e936bf",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Production and Packaging: Production Facility",
-    "createdAt": "2026-04-25T07:08:34Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Production and Packaging",
-      "workstream": "Production Facility",
-      "summary": "Identify and secure a suitable production facility to meet the anticipated demand."
-    }
-  },
-  {
-    "taskId": "task_ws_d0daa897-99d3-49b4-9f5e-9c40d9667c2a",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Production and Packaging: Ingredient Sourcing",
-    "createdAt": "2026-04-25T07:08:34Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Production and Packaging",
-      "workstream": "Ingredient Sourcing",
-      "summary": "Establish relationships with suppliers of premium beef, spices, and other key ingredients."
-    }
-  },
-  {
-    "taskId": "task_ws_67b7d177-d2a7-421a-baa9-186d4ac808f4",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Production and Packaging: Packaging Design",
-    "createdAt": "2026-04-25T07:08:34Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Production and Packaging",
+      "phase": "Product Development",
       "workstream": "Packaging Design",
-      "summary": "Develop an eye-catching and sustainable packaging solution that aligns with the brand identity."
+      "summary": "Create an eye-catching and premium-looking package design"
     }
   },
   {
-    "taskId": "task_ws_ccf13278-0a56-419a-b9ee-f07046c685f5",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
+    "taskId": "task_ws_d73fad6f-fef7-4a33-8669-6c21a2345a7a",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Sales: Brand Development",
-    "createdAt": "2026-04-25T07:08:34Z",
+    "title": "Product Development: Brand Identity",
+    "createdAt": "2026-04-25T07:09:00Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Sales",
-      "workstream": "Brand Development",
-      "summary": "Define the brand positioning, messaging, and visual identity for the new jerky line."
+      "phase": "Product Development",
+      "workstream": "Brand Identity",
+      "summary": "Establish a strong brand identity and messaging for the jerky line"
     }
   },
   {
-    "taskId": "task_ws_c8e60d40-f9e4-4d29-ac56-78a91afe1856",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
+    "taskId": "task_ws_57452fec-020a-4cb7-a081-e1fea716ccc5",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Sales: Channel Partnerships",
-    "createdAt": "2026-04-25T07:08:34Z",
+    "title": "Production Ramp-up: Supplier Onboarding",
+    "createdAt": "2026-04-25T07:09:00Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Sales",
-      "workstream": "Channel Partnerships",
-      "summary": "Identify and secure distribution agreements with key retail and online partners."
+      "phase": "Production Ramp-up",
+      "workstream": "Supplier Onboarding",
+      "summary": "Identify and onboard reliable suppliers for key ingredients and materials"
     }
   },
   {
-    "taskId": "task_ws_532f294c-5727-427b-b76f-8f821a57eac1",
-    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
+    "taskId": "task_ws_c886a16e-26c3-4f6b-b92f-70f1e3d8fb88",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Sales: Launch Campaign",
-    "createdAt": "2026-04-25T07:08:34Z",
+    "title": "Production Ramp-up: Production Scaling",
+    "createdAt": "2026-04-25T07:09:00Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Sales",
-      "workstream": "Launch Campaign",
-      "summary": "Develop and execute a multi-channel marketing campaign to drive awareness and initial sales."
+      "phase": "Production Ramp-up",
+      "workstream": "Production Scaling",
+      "summary": "Implement efficient production workflows and scale up manufacturing capacity"
+    }
+  },
+  {
+    "taskId": "task_ws_131ca729-ff58-42d2-b508-2a0fc7fee22e",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Production Ramp-up: Quality Assurance",
+    "createdAt": "2026-04-25T07:09:00Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Production Ramp-up",
+      "workstream": "Quality Assurance",
+      "summary": "Establish robust quality control measures to ensure product consistency and safety"
+    }
+  },
+  {
+    "taskId": "task_ws_e15d77ad-4b13-4c9b-b4d4-33af7594468c",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Market Launch: Sales and Distribution",
+    "createdAt": "2026-04-25T07:09:00Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Market Launch",
+      "workstream": "Sales and Distribution",
+      "summary": "Secure retail and online distribution partnerships to reach target customers"
+    }
+  },
+  {
+    "taskId": "task_ws_be3026b9-4e51-43c1-87bd-af23754bc70b",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Market Launch: Marketing and Promotion",
+    "createdAt": "2026-04-25T07:09:00Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Market Launch",
+      "workstream": "Marketing and Promotion",
+      "summary": "Develop and execute a comprehensive marketing campaign to build brand awareness"
+    }
+  },
+  {
+    "taskId": "task_ws_0a3cccf7-917a-43b1-a7aa-5a4b3881c1f1",
+    "projectId": "ddc8d1e9-23dd-4f24-a830-14a9324b0efa",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Market Launch: Customer Engagement",
+    "createdAt": "2026-04-25T07:09:00Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Market Launch",
+      "workstream": "Customer Engagement",
+      "summary": "Implement strategies to foster customer loyalty and repeat business"
     }
   }
 ]
