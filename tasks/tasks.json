@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_ddd6d998-8777-4aab-a983-bf0ad2feaffe",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_ed7f12e0-94f4-4aa0-b540-3264a00220af",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Language Design and Development: Language Specification",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand business requirements and pain points."
+      "phase": "Language Design and Development",
+      "workstream": "Language Specification",
+      "summary": "Finalize the language syntax, data types, and control structures."
     }
   },
   {
-    "taskId": "task_ws_1b7a9bd3-8c19-4f3c-88a4-2789e116dfb2",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_bc9b0c14-7bfb-4cd7-bfda-c8a9d21bf552",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: CRM Evaluation",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Language Design and Development: Compiler Implementation",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "CRM Evaluation",
-      "summary": "Research and evaluate various CRM platforms to identify the best fit for the organization."
+      "phase": "Language Design and Development",
+      "workstream": "Compiler Implementation",
+      "summary": "Develop the Go compiler, including the front-end, optimizer, and code generator."
     }
   },
   {
-    "taskId": "task_ws_0e46b420-1044-4e3f-8419-feee845e43c5",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_5188a4d1-017c-4f21-910a-87349b2bc58d",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Implementation Planning",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Language Design and Development: Runtime and Standard Library",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Implementation Planning",
-      "summary": "Develop a comprehensive project plan, including timelines, resources, and milestones."
+      "phase": "Language Design and Development",
+      "workstream": "Runtime and Standard Library",
+      "summary": "Implement the Go runtime, garbage collector, and standard library packages."
     }
   },
   {
-    "taskId": "task_ws_3e2403bd-69ed-461e-9257-25892f5505e3",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_7528196b-34d7-48cc-9f65-0c9999154b83",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "CRM Implementation: CRM Configuration",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Testing and Validation: Unit Testing",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "CRM Implementation",
-      "workstream": "CRM Configuration",
-      "summary": "Customize the CRM platform to meet the organization's specific needs and requirements."
+      "phase": "Testing and Validation",
+      "workstream": "Unit Testing",
+      "summary": "Develop a comprehensive suite of unit tests to validate the language features and compiler behavior."
     }
   },
   {
-    "taskId": "task_ws_6de04688-3e84-402c-a7f9-2dcd6586fb53",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_2be9dcb5-a41d-42e5-a4a5-65dc961f19fb",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "CRM Implementation: Data Migration",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Testing and Validation: Integration Testing",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "CRM Implementation",
-      "workstream": "Data Migration",
-      "summary": "Migrate existing customer data from legacy systems into the new CRM platform."
+      "phase": "Testing and Validation",
+      "workstream": "Integration Testing",
+      "summary": "Test the language in real-world application scenarios and validate its performance and scalability."
     }
   },
   {
-    "taskId": "task_ws_79527e06-c570-4540-80ea-851a033eaeec",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_d34e35a3-cf69-4458-9d93-ce0830e41d50",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "CRM Implementation: User Training",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Testing and Validation: Conformance Testing",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "CRM Implementation",
-      "workstream": "User Training",
-      "summary": "Develop and deliver comprehensive training programs to ensure user adoption and proficiency."
+      "phase": "Testing and Validation",
+      "workstream": "Conformance Testing",
+      "summary": "Ensure the language implementation adheres to the language specification and is compatible with existing tools and libraries."
     }
   },
   {
-    "taskId": "task_ws_72d62a10-de09-45e3-9e4a-42fc76e3359c",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_e1faed5d-235e-4de3-9437-601f762009a5",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Adoption: Performance Monitoring",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Documentation and Community Engagement: Language Documentation",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Adoption",
-      "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators (KPIs) and regularly review system performance."
+      "phase": "Documentation and Community Engagement",
+      "workstream": "Language Documentation",
+      "summary": "Create detailed documentation for the language syntax, semantics, and standard library."
     }
   },
   {
-    "taskId": "task_ws_61f2e3b3-5d80-49e6-86f5-949f0d1f893b",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_47a6f3c8-2cb8-45c1-aeb3-fc16148009d2",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Adoption: Process Improvement",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Documentation and Community Engagement: Community Outreach",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Adoption",
-      "workstream": "Process Improvement",
-      "summary": "Identify and implement process improvements to enhance the effectiveness of the CRM system."
+      "phase": "Documentation and Community Engagement",
+      "workstream": "Community Outreach",
+      "summary": "Engage with the developer community, gather feedback, and address their needs and concerns."
     }
   },
   {
-    "taskId": "task_ws_9067aada-15fd-489c-9d8f-b18e5e271aa2",
-    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
+    "taskId": "task_ws_9cb6bf5e-6523-4416-a8ad-e64b196e8bbc",
+    "projectId": "64f4754c-6259-4ef8-b03f-1fa43258c144",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Adoption: Change Management",
-    "createdAt": "2026-04-25T08:33:05Z",
+    "title": "Documentation and Community Engagement: Ecosystem Development",
+    "createdAt": "2026-04-25T08:33:26Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Adoption",
-      "workstream": "Change Management",
-      "summary": "Develop and execute a change management strategy to drive user adoption and engagement."
+      "phase": "Documentation and Community Engagement",
+      "workstream": "Ecosystem Development",
+      "summary": "Encourage the development of third-party libraries, tools, and frameworks to expand the Go ecosystem."
     }
   }
 ]
