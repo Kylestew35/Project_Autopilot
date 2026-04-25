@@ -1,15 +1,26 @@
 {
-  "dashboardId": "2592e55a-02c1-490c-86b7-56f6d548eb81",
-  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/2592e55a-02c1-490c-86b7-56f6d548eb81/dashboard.json",
+  "dashboardId": "48a1bb61-3701-4c51-9e8f-bba422152348",
+  "dashboardUrl": "s3://project-autopilot-v3-533267113788-dashboards/dashboards/48a1bb61-3701-4c51-9e8f-bba422152348/dashboard.json",
   "kpis": {
-    "objectiveCount": 5,
-    "milestoneCount": 6,
+    "objectiveCount": 3,
+    "milestoneCount": 5,
     "riskCount": 3,
-    "phaseCount": 3,
+    "phaseCount": 4,
     "automationCount": 3,
-    "highRiskCount": 0
+    "highRiskCount": 2
   },
-  "alerts": [],
+  "alerts": [
+    {
+      "type": "risk",
+      "severity": "high",
+      "message": "High-impact risk detected: Resistance to Adoption"
+    },
+    {
+      "type": "risk",
+      "severity": "high",
+      "message": "High-impact risk detected: AI Model Accuracy and Reliability"
+    }
+  ],
   "forecast": {
     "status": "on_track",
     "confidence": 0.85
