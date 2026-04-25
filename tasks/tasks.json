@@ -1,170 +1,170 @@
 [
   {
-    "taskId": "task_ws_6bb5d18b-80d1-4402-83e5-1629a7c07ccc",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_34242be0-c9cf-4e82-8392-8fdbe565c77e",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Preparation: Market Analysis",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Discovery and Planning: Stakeholder Interviews",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Preparation",
-      "workstream": "Market Analysis",
-      "summary": "Analyze the local market, identify target customers, and assess competition"
+      "phase": "Discovery and Planning",
+      "workstream": "Stakeholder Interviews",
+      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
     }
   },
   {
-    "taskId": "task_ws_091ee1da-5d47-49ec-9879-fdf37d9b8710",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_d5464677-8814-4dca-802a-9930a7ee5491",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Preparation: Business Planning",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Discovery and Planning: Process Mapping",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Preparation",
-      "workstream": "Business Planning",
-      "summary": "Develop a comprehensive business plan, including financial projections and operational strategies"
+      "phase": "Discovery and Planning",
+      "workstream": "Process Mapping",
+      "summary": "Map the current salt management processes to identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_b79a3703-5f68-45c0-9a4e-fc793401763b",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_4ca68abc-4787-495d-aa88-ae72cb957b8b",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Preparation: Funding and Financing",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Discovery and Planning: Technology Assessment",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Preparation",
-      "workstream": "Funding and Financing",
-      "summary": "Secure necessary funding through investors, loans, or other sources"
+      "phase": "Discovery and Planning",
+      "workstream": "Technology Assessment",
+      "summary": "Evaluate existing systems and tools to determine the optimal technology solution."
     }
   },
   {
-    "taskId": "task_ws_a5ef2d14-6ef8-4818-afb6-939ee069daa3",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_6ebf24fb-dd36-422d-9324-81921e1b2977",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Store Setup and Inventory: Site Selection",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Discovery and Planning: Project Planning",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Store Setup and Inventory",
-      "workstream": "Site Selection",
-      "summary": "Identify and secure a suitable retail space for the store"
+      "phase": "Discovery and Planning",
+      "workstream": "Project Planning",
+      "summary": "Develop a comprehensive project plan, including timelines, resources, and success metrics."
     }
   },
   {
-    "taskId": "task_ws_ffcc9645-13bd-460f-90a6-8a5696f8453c",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_c353d52a-07d8-4ead-bf47-958e2a0a0f2a",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Store Setup and Inventory: Store Design and Renovation",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "System Implementation: System Design",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Store Setup and Inventory",
-      "workstream": "Store Design and Renovation",
-      "summary": "Design the store layout, purchase necessary equipment, and complete any required renovations"
+      "phase": "System Implementation",
+      "workstream": "System Design",
+      "summary": "Finalize the system architecture and user requirements."
     }
   },
   {
-    "taskId": "task_ws_ef04b428-d871-4e2c-a6fd-d9b63bad8ceb",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_6591d88c-5b96-4219-a0a6-66bc9a2bcc5b",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Store Setup and Inventory: Inventory Management",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "System Implementation: Development and Testing",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Store Setup and Inventory",
-      "workstream": "Inventory Management",
-      "summary": "Develop a procurement strategy, establish relationships with suppliers, and stock the initial inventory"
+      "phase": "System Implementation",
+      "workstream": "Development and Testing",
+      "summary": "Build the system and conduct thorough testing to ensure functionality and reliability."
     }
   },
   {
-    "taskId": "task_ws_26e56735-a5d1-4667-a320-00e3fe634a12",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_786d2173-a934-4666-901c-76c50c7e46c7",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Promotion: Brand Development",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "System Implementation: User Training",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Promotion",
-      "workstream": "Brand Development",
-      "summary": "Create a strong brand identity, including a logo, visual branding, and messaging"
+      "phase": "System Implementation",
+      "workstream": "User Training",
+      "summary": "Provide comprehensive training to all stakeholders to ensure effective adoption and utilization."
     }
   },
   {
-    "taskId": "task_ws_a56bf921-7ac3-4040-b958-bb2c4236ed42",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_d085076f-7623-4a48-8f78-9c9f2f319b56",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Promotion: Advertising and Promotions",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "System Implementation: Deployment and Go-Live",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Promotion",
-      "workstream": "Advertising and Promotions",
-      "summary": "Develop and execute a multi-channel advertising and promotional campaign"
+      "phase": "System Implementation",
+      "workstream": "Deployment and Go-Live",
+      "summary": "Roll out the new system and transition from the legacy processes."
     }
   },
   {
-    "taskId": "task_ws_a715bfb5-8705-4e73-aa73-e5967c44da2b",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_06b1b589-1cac-4593-a79c-e541fcf98df5",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Promotion: Customer Engagement",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Optimization and Continuous Improvement: Performance Monitoring",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Promotion",
-      "workstream": "Customer Engagement",
-      "summary": "Implement strategies to build customer loyalty and encourage repeat business"
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Performance Monitoring",
+      "summary": "Establish key performance indicators and regularly review system metrics."
     }
   },
   {
-    "taskId": "task_ws_05557202-5622-4116-be06-1641264aa8d3",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_d809d313-080d-4211-922d-ea28b8a14b21",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Operations and Management: Staffing and Training",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Optimization and Continuous Improvement: Process Refinement",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Operations and Management",
-      "workstream": "Staffing and Training",
-      "summary": "Hire and train a competent team of sales associates and store managers"
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Process Refinement",
+      "summary": "Identify and implement improvements to the salt management processes."
     }
   },
   {
-    "taskId": "task_ws_8d9f3d25-46f2-49d1-abfb-faf100e48d0b",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_579f6771-07c9-48c1-a3a7-fb8afddf7961",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Operations and Management: Inventory Control",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Optimization and Continuous Improvement: User Feedback",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Operations and Management",
-      "workstream": "Inventory Control",
-      "summary": "Implement systems and procedures for effective inventory management and replenishment"
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "User Feedback",
+      "summary": "Gather and act on user feedback to enhance the system's usability and functionality."
     }
   },
   {
-    "taskId": "task_ws_c15ac5d5-917b-4a58-8e99-8f5a6ddb025a",
-    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "taskId": "task_ws_e0663e4b-58e2-402b-9d57-439e1eb30b28",
+    "projectId": "368164db-8eb3-4edf-aed3-3dd3f1726114",
     "system": "jira",
     "type": "workstream",
-    "title": "Operations and Management: Customer Service",
-    "createdAt": "2026-04-25T09:37:04Z",
+    "title": "Optimization and Continuous Improvement: System Maintenance",
+    "createdAt": "2026-04-25T09:40:49Z",
     "status": "generated",
     "payload": {
-      "phase": "Operations and Management",
-      "workstream": "Customer Service",
-      "summary": "Develop and maintain a high level of customer service to ensure customer satisfaction"
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "System Maintenance",
+      "summary": "Ensure the system is well-maintained and up-to-date with the latest security patches and updates."
     }
   }
 ]
