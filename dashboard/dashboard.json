@@ -1,28 +1,17 @@
 {
-  "dashboardId": "dec607e5-aa38-4ec2-aef9-2f8ae73d4d0d",
-  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/dec607e5-aa38-4ec2-aef9-2f8ae73d4d0d/dashboard.json",
+  "dashboardId": "a02ba999-3b80-410b-9c4a-ac79c0c2d7c0",
+  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/a02ba999-3b80-410b-9c4a-ac79c0c2d7c0/dashboard.json",
   "kpis": {
-    "objectiveCount": 4,
+    "objectiveCount": 3,
     "milestoneCount": 9,
     "riskCount": 3,
     "phaseCount": 3,
     "automationCount": 3,
-    "highRiskCount": 2
+    "highRiskCount": 0
   },
-  "alerts": [
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Resistance to Change"
-    },
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Scope Creep"
-    }
-  ],
+  "alerts": [],
   "forecast": {
-    "status": "needs_attention",
-    "confidence": 0.75
+    "status": "on_track",
+    "confidence": 0.85
   }
 }
