@@ -1,128 +1,170 @@
 [
   {
-    "taskId": "task_ws_a5d3ced4-64c2-4fe8-ae14-b12f8d17ce45",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_e162ecde-9eb9-40c3-bca1-c4889ea744ce",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Design: Requirements Gathering",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Planning and Preparation: Project Initiation",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Design",
-      "workstream": "Requirements Gathering",
-      "summary": "Collect and document the business requirements for the new system."
+      "phase": "Planning and Preparation",
+      "workstream": "Project Initiation",
+      "summary": "Define the project goals, scope, and success criteria."
     }
   },
   {
-    "taskId": "task_ws_a0a287dd-e1b7-4f20-9bb7-699e5cc24711",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_a0352b33-9c9e-440a-aa75-3605103e76d1",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Design: System Design",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Planning and Preparation: Stakeholder Engagement",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Design",
-      "workstream": "System Design",
-      "summary": "Design the architecture and components of the new beef processing system."
+      "phase": "Planning and Preparation",
+      "workstream": "Stakeholder Engagement",
+      "summary": "Identify and engage with key stakeholders, including producers, suppliers, and customers."
     }
   },
   {
-    "taskId": "task_ws_1c4c8815-897c-487b-9923-ff2933c9c351",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_a3f98149-2e5b-4cf3-b946-4dd624f8ad3a",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Design: Implementation Planning",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Planning and Preparation: Resource Allocation",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Design",
-      "workstream": "Implementation Planning",
-      "summary": "Develop a detailed plan for the implementation of the new system, including timelines, resources, and milestones."
+      "phase": "Planning and Preparation",
+      "workstream": "Resource Allocation",
+      "summary": "Allocate necessary resources, including personnel, equipment, and funding."
     }
   },
   {
-    "taskId": "task_ws_5aeeab3f-325c-44e9-95bb-903d4ba52b3f",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_dd998dee-e407-471d-a721-77dcb567942e",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: System Development",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Process Optimization: Process Mapping",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "System Development",
-      "summary": "Build and configure the new beef processing system components."
+      "phase": "Process Optimization",
+      "workstream": "Process Mapping",
+      "summary": "Map the current beef production processes to identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_c839492a-04c7-4b77-ad63-784a9a0b05b1",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_0565313d-f29a-4872-b38c-7044764e76c7",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Testing and Validation",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Process Optimization: Lean Manufacturing",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Testing and Validation",
-      "summary": "Thoroughly test the new system to ensure it meets the requirements and performs as expected."
+      "phase": "Process Optimization",
+      "workstream": "Lean Manufacturing",
+      "summary": "Implement lean manufacturing principles to reduce waste and improve productivity."
     }
   },
   {
-    "taskId": "task_ws_dbd88df6-22a8-48be-8449-4240bdd6dff8",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_38609069-86e9-48e8-8a4e-0efad54fc311",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Deployment and Rollout",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Process Optimization: Sustainability Initiatives",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Deployment and Rollout",
-      "summary": "Deploy the new system and transition the organization to the new beef processing workflow."
+      "phase": "Process Optimization",
+      "workstream": "Sustainability Initiatives",
+      "summary": "Develop and implement sustainable practices to reduce the environmental impact of beef production."
     }
   },
   {
-    "taskId": "task_ws_01d0d67c-a39b-47e7-9d69-c7571cbdd5db",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_3c395f42-1902-4f56-9605-000e42bfc78a",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Maintenance: Performance Monitoring",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Supply Chain Optimization: Supplier Collaboration",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Maintenance",
-      "workstream": "Performance Monitoring",
-      "summary": "Implement systems to monitor the performance and efficiency of the new beef processing system."
+      "phase": "Supply Chain Optimization",
+      "workstream": "Supplier Collaboration",
+      "summary": "Collaborate with suppliers to improve supply chain coordination and visibility."
     }
   },
   {
-    "taskId": "task_ws_7b91f875-de6d-4309-b5dc-9cd4705b55f1",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_99aa9c71-7d82-4823-844b-3fafda81b299",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Maintenance: Continuous Improvement",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Supply Chain Optimization: Logistics Optimization",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Maintenance",
+      "phase": "Supply Chain Optimization",
+      "workstream": "Logistics Optimization",
+      "summary": "Optimize transportation and logistics to reduce costs and environmental impact."
+    }
+  },
+  {
+    "taskId": "task_ws_d09f9342-6098-46e8-b1b0-02bb862ffda8",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Supply Chain Optimization: Traceability and Transparency",
+    "createdAt": "2026-04-25T09:27:09Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Supply Chain Optimization",
+      "workstream": "Traceability and Transparency",
+      "summary": "Implement traceability systems to enhance transparency and accountability throughout the supply chain."
+    }
+  },
+  {
+    "taskId": "task_ws_1c59b874-4df1-4d4e-9bb3-83b20a1e0fbb",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Performance Monitoring and Continuous Improvement: Key Performance Indicators",
+    "createdAt": "2026-04-25T09:27:09Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Performance Monitoring and Continuous Improvement",
+      "workstream": "Key Performance Indicators",
+      "summary": "Develop and track key performance indicators to measure the success of the project."
+    }
+  },
+  {
+    "taskId": "task_ws_b2c26cb6-b36e-4f63-9eab-de5290a328b1",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Performance Monitoring and Continuous Improvement: Continuous Improvement",
+    "createdAt": "2026-04-25T09:27:09Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Performance Monitoring and Continuous Improvement",
       "workstream": "Continuous Improvement",
-      "summary": "Identify and implement opportunities to further optimize the beef processing system."
+      "summary": "Implement a continuous improvement process to identify and address ongoing challenges and opportunities."
     }
   },
   {
-    "taskId": "task_ws_cefb4896-a7ff-476b-bcec-2b08e08d06dc",
-    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
+    "taskId": "task_ws_94685606-8a97-4305-9b1f-4b1091ee15bb",
+    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Maintenance: Maintenance and Support",
-    "createdAt": "2026-04-25T09:25:20Z",
+    "title": "Performance Monitoring and Continuous Improvement: Reporting and Communication",
+    "createdAt": "2026-04-25T09:27:09Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Maintenance",
-      "workstream": "Maintenance and Support",
-      "summary": "Provide ongoing maintenance and support for the new beef processing system."
+      "phase": "Performance Monitoring and Continuous Improvement",
+      "workstream": "Reporting and Communication",
+      "summary": "Regularly report on project progress and communicate with stakeholders to ensure alignment and support."
     }
   }
 ]
