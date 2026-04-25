@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_e5ec7472-0f1c-40ab-b62a-369ced79a2aa",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_632878b5-9f84-41fc-963c-9964685ab815",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Recipe Development: Recipe Research",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
+      "phase": "Recipe Development",
+      "workstream": "Recipe Research",
+      "summary": "Gather and analyze existing beef and rice recipes."
     }
   },
   {
-    "taskId": "task_ws_7b24156c-508c-43b9-92c7-2a2d5fddf7ae",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_56890852-e720-4e4c-bcf1-5d4b4773ac65",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Process Mapping",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Recipe Development: Recipe Prototyping",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Process Mapping",
-      "summary": "Map out existing project management workflows and identify areas for improvement."
+      "phase": "Recipe Development",
+      "workstream": "Recipe Prototyping",
+      "summary": "Experiment with different ingredient combinations and cooking methods."
     }
   },
   {
-    "taskId": "task_ws_61fffba3-03e3-43bf-bb6d-e26c0f0935d9",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_c4bcc4d8-dc58-41e3-a378-d270dc52fe0d",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Recipe Development: Recipe Testing",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Solution Design",
-      "summary": "Collaborate with the team to design a tailored project management solution."
+      "phase": "Recipe Development",
+      "workstream": "Recipe Testing",
+      "summary": "Conduct taste tests and gather feedback from a panel of experts."
     }
   },
   {
-    "taskId": "task_ws_9194acf6-43e7-45db-9bec-164885d00989",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_93a8d07d-25e8-499a-bc28-c363f5c30f04",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Platform Configuration",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Menu Integration: Menu Design",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Platform Configuration",
-      "summary": "Set up the project management platform and customize it to meet the organization's requirements."
+      "phase": "Menu Integration",
+      "workstream": "Menu Design",
+      "summary": "Update the menu layout and descriptions to feature the new dish."
     }
   },
   {
-    "taskId": "task_ws_b1ba1194-5d39-4086-a2a0-8d861b9e05c8",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_c22ba76d-afd0-491e-a95f-37af9323066f",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Data Migration",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Menu Integration: Inventory Management",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Data Migration",
-      "summary": "Migrate historical project data to the new platform, ensuring data integrity and accuracy."
+      "phase": "Menu Integration",
+      "workstream": "Inventory Management",
+      "summary": "Ensure the necessary ingredients are available and properly stocked."
     }
   },
   {
-    "taskId": "task_ws_822a662f-a3ff-4c53-aa80-daa4c4fc159b",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_34f6b2b4-8df9-438f-9fcb-9d11555d1bc3",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: User Training",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Menu Integration: Staff Training",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "User Training",
-      "summary": "Provide comprehensive training to all stakeholders to ensure effective adoption and utilization of the new system."
+      "phase": "Menu Integration",
+      "workstream": "Staff Training",
+      "summary": "Provide training to employees on preparing and serving the new dish."
     }
   },
   {
-    "taskId": "task_ws_581d2c97-c584-44ae-a2f7-019986cd3ba3",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_6d180d14-7025-4e37-8780-7f4f9e35c5ca",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Performance Monitoring",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Marketing and Launch: Advertising Campaign",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators (KPIs) and regularly review the solution's performance."
+      "phase": "Marketing and Launch",
+      "workstream": "Advertising Campaign",
+      "summary": "Develop and execute a marketing campaign to raise awareness of the new dish."
     }
   },
   {
-    "taskId": "task_ws_70850249-b167-40ef-b198-f360d072ca7e",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_357bc5cb-a7b1-4d99-a256-2120bf06694f",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Process Refinement",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Marketing and Launch: Customer Engagement",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Process Refinement",
-      "summary": "Gather user feedback and implement improvements to streamline project management workflows."
+      "phase": "Marketing and Launch",
+      "workstream": "Customer Engagement",
+      "summary": "Gather customer feedback and monitor sales performance."
     }
   },
   {
-    "taskId": "task_ws_7a8d3974-3aa9-4003-8be3-4cdd14b73111",
-    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
+    "taskId": "task_ws_57ec8712-c3f8-482d-aad2-cf0b78b2c131",
+    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Change Management",
-    "createdAt": "2026-04-25T09:29:54Z",
+    "title": "Marketing and Launch: Menu Optimization",
+    "createdAt": "2026-04-25T09:30:52Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Change Management",
-      "summary": "Manage organizational change and ensure seamless integration of the new project management solution."
+      "phase": "Marketing and Launch",
+      "workstream": "Menu Optimization",
+      "summary": "Refine the recipe and presentation based on customer feedback."
     }
   }
 ]
