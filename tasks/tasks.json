@@ -1,11 +1,11 @@
 [
   {
-    "taskId": "task_ws_fd256ed0-6209-4b92-a916-9399f46aff1f",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_45a65cc6-20b8-463f-855a-2ee8d097bbea",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
     "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
@@ -14,26 +14,26 @@
     }
   },
   {
-    "taskId": "task_ws_b73a6fe5-7ada-4362-9c4c-6dcd5779103e",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_9601734d-4058-452f-b754-3fd1b79a5243",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
     "title": "Discovery and Planning: Process Mapping",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
       "workstream": "Process Mapping",
-      "summary": "Map existing project management workflows and identify areas for improvement."
+      "summary": "Map existing project management processes and identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_63e2ca27-8ff1-4bc3-878e-9033cf5c95f1",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_30aae322-5a6f-4bd2-850d-3351b087b217",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
     "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
@@ -42,26 +42,26 @@
     }
   },
   {
-    "taskId": "task_ws_c6c66d0a-c747-4f26-ab2c-605d49f786ec",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_d537eba3-90b9-4f9c-b8ac-b42754aefc84",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
     "title": "Implementation: Platform Configuration",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
       "phase": "Implementation",
       "workstream": "Platform Configuration",
-      "summary": "Set up the project management platform and customize it to meet organizational requirements."
+      "summary": "Set up the project management platform and customize it to meet the organization's needs."
     }
   },
   {
-    "taskId": "task_ws_cd2abe04-92ac-45d8-b301-76094c5d058b",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_6d98784a-e0d6-4017-ba2a-2dd3af779f49",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
     "title": "Implementation: Data Migration",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
       "phase": "Implementation",
@@ -70,59 +70,59 @@
     }
   },
   {
-    "taskId": "task_ws_1e63d109-4348-470d-acce-72693d1f860e",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_6700bfd7-73c8-41ba-9ba0-91f4e642ddf1",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
     "title": "Implementation: User Onboarding",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
       "phase": "Implementation",
       "workstream": "User Onboarding",
-      "summary": "Train and onboard team members on the new project management system."
+      "summary": "Train and onboard users to ensure effective adoption of the new system."
     }
   },
   {
-    "taskId": "task_ws_9cc67c62-e1da-4f90-859b-04546b046cf4",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_bb1bc717-19cb-42bc-a6a8-5485919a74e2",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Adoption: Process Improvement",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "title": "Optimization and Continuous Improvement: Performance Monitoring",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Adoption",
-      "workstream": "Process Improvement",
-      "summary": "Analyze usage data and user feedback to identify areas for process optimization."
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Performance Monitoring",
+      "summary": "Establish key performance indicators (KPIs) and regularly review project management metrics."
     }
   },
   {
-    "taskId": "task_ws_90723ce6-cc83-4627-bd52-f239d045d729",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
+    "taskId": "task_ws_750b3ef6-2940-488e-a4aa-b2c82ccc3920",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Adoption: Change Management",
-    "createdAt": "2026-04-25T10:03:06Z",
+    "title": "Optimization and Continuous Improvement: Process Refinement",
+    "createdAt": "2026-04-25T10:04:29Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Adoption",
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Process Refinement",
+      "summary": "Identify and implement process improvements based on user feedback and data insights."
+    }
+  },
+  {
+    "taskId": "task_ws_21096c4e-b360-401c-8b85-b6a4a79180d6",
+    "projectId": "04023f1c-d2bd-49a8-afc8-39d4c247d361",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Optimization and Continuous Improvement: Change Management",
+    "createdAt": "2026-04-25T10:04:29Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Optimization and Continuous Improvement",
       "workstream": "Change Management",
-      "summary": "Implement a structured change management strategy to ensure seamless user adoption."
-    }
-  },
-  {
-    "taskId": "task_ws_b4bcfa07-ce3b-469b-9dcd-ad386b484eb0",
-    "projectId": "402f503f-6b78-4510-8612-d49d34c53b91",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Optimization and Adoption: Continuous Improvement",
-    "createdAt": "2026-04-25T10:03:06Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Optimization and Adoption",
-      "workstream": "Continuous Improvement",
-      "summary": "Establish a feedback loop and iteratively enhance the project management solution."
+      "summary": "Manage organizational change and ensure sustained user adoption of the new system."
     }
   }
 ]
