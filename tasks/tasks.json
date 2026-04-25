@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_41a07fe4-f04b-4776-ba46-2af5e3eeddde",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_c085c2b4-80b7-48fd-92cb-016f9f7e3cb9",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Research and Development: Market Analysis",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Discovery and Planning: Stakeholder Interviews",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Research and Development",
-      "workstream": "Market Analysis",
-      "summary": "Analyze consumer trends, competitive landscape, and growth opportunities in the beef snack market."
+      "phase": "Discovery and Planning",
+      "workstream": "Stakeholder Interviews",
+      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
     }
   },
   {
-    "taskId": "task_ws_a9292d9c-b337-45d4-8d30-2885a8d65be6",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_683eb137-3857-4551-9e94-e9f8a348c666",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Research and Development: Product Development",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Discovery and Planning: Process Mapping",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Research and Development",
-      "workstream": "Product Development",
-      "summary": "Experiment with different beef cuts, seasonings, and processing techniques to create unique flavor profiles."
+      "phase": "Discovery and Planning",
+      "workstream": "Process Mapping",
+      "summary": "Map existing project management processes and identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_c5a09742-012d-4b26-8abc-cd5dafabea43",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_d2f3bbb7-dd3c-4e49-aa84-a744d800cf32",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Research and Development: Sensory Testing",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Discovery and Planning: Solution Design",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Research and Development",
-      "workstream": "Sensory Testing",
-      "summary": "Gather feedback from a diverse panel of consumers to refine the product and ensure it meets market preferences."
+      "phase": "Discovery and Planning",
+      "workstream": "Solution Design",
+      "summary": "Collaborate with the team to design a tailored project management solution."
     }
   },
   {
-    "taskId": "task_ws_41d83cf7-ce5a-415b-a285-ba91ebfcea5e",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_c3eb3d86-bdfd-4641-b400-b5a0d17d0ccd",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Production and Scaling: Facility Expansion",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Implementation: Platform Configuration",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Production and Scaling",
-      "workstream": "Facility Expansion",
-      "summary": "Identify and secure a suitable production facility with the capacity to meet anticipated demand."
+      "phase": "Implementation",
+      "workstream": "Platform Configuration",
+      "summary": "Set up the project management platform and customize it to meet the organization's requirements."
     }
   },
   {
-    "taskId": "task_ws_105f6b09-6d8e-45d0-8e03-a34489a2f832",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_6d48adf5-f35f-4fa6-b09e-086295045fae",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Production and Scaling: Process Optimization",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Implementation: Data Migration",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Production and Scaling",
-      "workstream": "Process Optimization",
-      "summary": "Streamline production workflows, implement quality control measures, and ensure consistent product quality."
+      "phase": "Implementation",
+      "workstream": "Data Migration",
+      "summary": "Migrate historical project data to the new platform."
     }
   },
   {
-    "taskId": "task_ws_0f7f1c79-92db-4a4a-a3c9-b710c1faca5c",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_98bff2ef-9bde-4a94-8adc-799005e61747",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Production and Scaling: Supply Chain Management",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Implementation: User Onboarding",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Production and Scaling",
-      "workstream": "Supply Chain Management",
-      "summary": "Develop relationships with suppliers, logistics providers, and distributors to ensure a reliable and efficient supply chain."
+      "phase": "Implementation",
+      "workstream": "User Onboarding",
+      "summary": "Train and onboard users to ensure effective adoption of the new system."
     }
   },
   {
-    "taskId": "task_ws_98bd1fb1-e139-4aec-a970-15bde7e033fb",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_1e7b6f0d-52c8-4545-b493-ec66f1b4a6e3",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Launch: Brand Development",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Optimization and Continuous Improvement: Performance Monitoring",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Launch",
-      "workstream": "Brand Development",
-      "summary": "Create a distinctive brand identity, including packaging design, messaging, and visual assets."
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Performance Monitoring",
+      "summary": "Establish key performance indicators (KPIs) and regularly review project management metrics."
     }
   },
   {
-    "taskId": "task_ws_fa8ef33f-8555-4461-adf1-fa9f1cb04b61",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_0ab035f5-f27a-41b6-b73c-611d61879f8b",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Launch: Promotional Campaign",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Optimization and Continuous Improvement: Process Refinement",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Launch",
-      "workstream": "Promotional Campaign",
-      "summary": "Implement a multi-channel marketing campaign to generate buzz and drive product awareness."
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Process Refinement",
+      "summary": "Identify and implement process improvements based on user feedback and data analysis."
     }
   },
   {
-    "taskId": "task_ws_1d28ca48-c6b4-48d3-94cf-8d843788d730",
-    "projectId": "bf298c79-9a73-43d6-a4bd-e8045a170819",
+    "taskId": "task_ws_f71648bd-2e61-4aca-93db-4d2b7713522d",
+    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Launch: Retail Partnerships",
-    "createdAt": "2026-04-25T08:03:42Z",
+    "title": "Optimization and Continuous Improvement: Change Management",
+    "createdAt": "2026-04-25T08:16:46Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Launch",
-      "workstream": "Retail Partnerships",
-      "summary": "Secure distribution agreements with key retail partners and ensure effective in-store merchandising."
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Change Management",
+      "summary": "Manage organizational change and ensure sustained user adoption of the new system."
     }
   }
 ]
