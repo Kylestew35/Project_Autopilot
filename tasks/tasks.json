@@ -1,198 +1,128 @@
 [
   {
-    "taskId": "task_ws_2102082d-4316-4bd6-a8d4-eca8b9c38a30",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_eb4329a0-21e0-4f0b-817e-88bc50d02609",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Research and Development: Market Analysis",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
+      "phase": "Research and Development",
+      "workstream": "Market Analysis",
+      "summary": "Analyze consumer trends, competitor offerings, and identify target market segments"
     }
   },
   {
-    "taskId": "task_ws_d3878a14-e1ed-4ca5-a2ce-d809afadd4c3",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_6891954e-dffe-42e0-9ad2-19273cf90bfd",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Requirements Gathering",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Research and Development: Product Development",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Requirements Gathering",
-      "summary": "Collect and document the functional and non-functional requirements for the system."
+      "phase": "Research and Development",
+      "workstream": "Product Development",
+      "summary": "Create and refine product formulations, packaging, and branding"
     }
   },
   {
-    "taskId": "task_ws_80cd6b78-df25-4ac5-bd7c-27cf15d17f3a",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_7d9bcdaf-3044-4ac1-81e6-0eb878b197a1",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Project Planning",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Research and Development: Pilot Testing",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Project Planning",
-      "summary": "Develop a comprehensive project plan, including timelines, milestones, and resource allocation."
+      "phase": "Research and Development",
+      "workstream": "Pilot Testing",
+      "summary": "Conduct small-scale product trials to gather feedback and validate product-market fit"
     }
   },
   {
-    "taskId": "task_ws_866d6d6d-f697-495c-bf63-9f13d05f305a",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_5d796cbf-69df-4ee3-a04f-9c9861cb745b",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "System Design and Development: System Architecture",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Production and Supply Chain: Production Facility",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "System Design and Development",
-      "workstream": "System Architecture",
-      "summary": "Define the system architecture, including the technology stack and integration points."
+      "phase": "Production and Supply Chain",
+      "workstream": "Production Facility",
+      "summary": "Identify and build out a production facility to meet production targets"
     }
   },
   {
-    "taskId": "task_ws_2cc4e5a1-7eb7-4970-b35c-00a8a0bfe258",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_019fb0b2-0247-41d8-9349-830e13df2f1d",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "System Design and Development: User Interface Design",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Production and Supply Chain: Supplier Partnerships",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "System Design and Development",
-      "workstream": "User Interface Design",
-      "summary": "Design the user interface and user experience for the system."
+      "phase": "Production and Supply Chain",
+      "workstream": "Supplier Partnerships",
+      "summary": "Establish relationships with reliable suppliers of raw materials and packaging"
     }
   },
   {
-    "taskId": "task_ws_aba693bf-9f2a-4685-993c-9d946f4b6cf0",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_10ecd7df-9d6e-4fa2-bfd6-97a5205dc565",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "System Design and Development: Backend Development",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Production and Supply Chain: Logistics and Distribution",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "System Design and Development",
-      "workstream": "Backend Development",
-      "summary": "Develop the backend components and APIs to support the system's functionality."
+      "phase": "Production and Supply Chain",
+      "workstream": "Logistics and Distribution",
+      "summary": "Develop a distribution network to efficiently deliver products to retailers and consumers"
     }
   },
   {
-    "taskId": "task_ws_b56e9307-e57b-4732-bdea-483898519096",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_54a506e4-18a6-45f7-a1d2-d8410b65323f",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "System Design and Development: Frontend Development",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Marketing and Sales: Brand Development",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "System Design and Development",
-      "workstream": "Frontend Development",
-      "summary": "Develop the frontend user interface and integrate it with the backend."
+      "phase": "Marketing and Sales",
+      "workstream": "Brand Development",
+      "summary": "Create a strong, differentiated brand identity and messaging"
     }
   },
   {
-    "taskId": "task_ws_987e9b5a-f855-42aa-a580-9afea31e1711",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_a2520769-14a2-4efb-b7f8-ef4c93635f83",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "Integration and Testing: Tool Integrations",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Marketing and Sales: Promotional Campaigns",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "Integration and Testing",
-      "workstream": "Tool Integrations",
-      "summary": "Integrate the system with tools like Jira, GitHub, Slack, and Notion."
+      "phase": "Marketing and Sales",
+      "workstream": "Promotional Campaigns",
+      "summary": "Implement targeted marketing campaigns to reach and engage the target audience"
     }
   },
   {
-    "taskId": "task_ws_7a6775d3-6c1e-4756-b19f-e77d8c264005",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
+    "taskId": "task_ws_1c1737c2-bf4d-4a1c-a9d0-496c8ca11e73",
+    "projectId": "ed55e8f3-afaa-4e6b-a8d2-d10fd648fb5b",
     "system": "jira",
     "type": "workstream",
-    "title": "Integration and Testing: Unit Testing",
-    "createdAt": "2026-04-25T10:37:35Z",
+    "title": "Marketing and Sales: Sales Channels",
+    "createdAt": "2026-04-25T10:41:44Z",
     "status": "generated",
     "payload": {
-      "phase": "Integration and Testing",
-      "workstream": "Unit Testing",
-      "summary": "Conduct unit tests to ensure the individual components are working as expected."
-    }
-  },
-  {
-    "taskId": "task_ws_9666b3ac-a553-42b7-8181-cf8c688611c0",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Integration and Testing: Integration Testing",
-    "createdAt": "2026-04-25T10:37:35Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Integration and Testing",
-      "workstream": "Integration Testing",
-      "summary": "Perform integration tests to validate the end-to-end functionality of the system."
-    }
-  },
-  {
-    "taskId": "task_ws_cc03cc2e-00f6-421c-b151-33689b1e1a53",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Integration and Testing: User Acceptance Testing",
-    "createdAt": "2026-04-25T10:37:35Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Integration and Testing",
-      "workstream": "User Acceptance Testing",
-      "summary": "Conduct user acceptance testing to ensure the system meets the stakeholders' requirements."
-    }
-  },
-  {
-    "taskId": "task_ws_c01d905e-51ba-4dec-a370-6d59b1e3f3be",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Deployment and Adoption: Infrastructure Deployment",
-    "createdAt": "2026-04-25T10:37:35Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Deployment and Adoption",
-      "workstream": "Infrastructure Deployment",
-      "summary": "Deploy the system to the production infrastructure and ensure it is running smoothly."
-    }
-  },
-  {
-    "taskId": "task_ws_af499ae9-a326-441a-afc1-c6eee14d9298",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Deployment and Adoption: User Training",
-    "createdAt": "2026-04-25T10:37:35Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Deployment and Adoption",
-      "workstream": "User Training",
-      "summary": "Provide training and support to the end-users to ensure they can effectively use the system."
-    }
-  },
-  {
-    "taskId": "task_ws_ec1fd227-1246-48d6-9f5f-6a37ecad2733",
-    "projectId": "8be91df9-e5ea-46d8-baaa-b66613db318a",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Deployment and Adoption: Change Management",
-    "createdAt": "2026-04-25T10:37:35Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Deployment and Adoption",
-      "workstream": "Change Management",
-      "summary": "Manage the organizational change and drive user adoption of the new system."
+      "phase": "Marketing and Sales",
+      "workstream": "Sales Channels",
+      "summary": "Establish partnerships with key retail and e-commerce channels to distribute products"
     }
   }
 ]
