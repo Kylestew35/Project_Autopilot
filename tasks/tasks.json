@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "taskId": "task_ws_3c225260-27e2-4492-b96b-71956227c350",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Research and Development: Market Analysis",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Research and Development",
+      "workstream": "Market Analysis",
+      "summary": "Analyze the local dining landscape and identify target customer segments"
+    }
+  },
+  {
+    "taskId": "task_ws_36dbdb8f-81ca-43a7-b4d3-cc096644bce9",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Research and Development: Menu Development",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Research and Development",
+      "workstream": "Menu Development",
+      "summary": "Experiment with tomato soup recipes and create a diverse menu"
+    }
+  },
+  {
+    "taskId": "task_ws_922086c6-8310-4ed2-aead-915d97e69e96",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Research and Development: Concept Refinement",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Research and Development",
+      "workstream": "Concept Refinement",
+      "summary": "Finalize the restaurant's branding, decor, and overall customer experience"
+    }
+  },
+  {
+    "taskId": "task_ws_bbb1c4c5-1502-4589-92ff-c4652ecdb985",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Facility Preparation: Site Selection",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Facility Preparation",
+      "workstream": "Site Selection",
+      "summary": "Identify and evaluate potential restaurant locations"
+    }
+  },
+  {
+    "taskId": "task_ws_4a75bfd7-d515-41f2-84f3-f28012e5994a",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Facility Preparation: Facility Renovation",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Facility Preparation",
+      "workstream": "Facility Renovation",
+      "summary": "Renovate the selected space to meet the restaurant's design and operational requirements"
+    }
+  },
+  {
+    "taskId": "task_ws_8865ba36-444c-4e1e-8cd0-8e18b427a2a4",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Facility Preparation: Equipment Procurement",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Facility Preparation",
+      "workstream": "Equipment Procurement",
+      "summary": "Purchase and install necessary kitchen and dining room equipment"
+    }
+  },
+  {
+    "taskId": "task_ws_d3265b71-c232-40e3-a450-7cc6b27326ba",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Staffing and Training: Recruitment",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Staffing and Training",
+      "workstream": "Recruitment",
+      "summary": "Identify and hire qualified candidates for all key positions"
+    }
+  },
+  {
+    "taskId": "task_ws_97749bf4-c3c5-4171-9012-2958e2364607",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Staffing and Training: Training Program",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Staffing and Training",
+      "workstream": "Training Program",
+      "summary": "Develop and implement a comprehensive training program for all staff"
+    }
+  },
+  {
+    "taskId": "task_ws_8b728c03-63bf-426e-b6c8-f96454f03d1c",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Staffing and Training: Team Building",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Staffing and Training",
+      "workstream": "Team Building",
+      "summary": "Foster a positive and collaborative work culture among the restaurant staff"
+    }
+  },
+  {
+    "taskId": "task_ws_0ad920c5-478c-40f3-9d9d-caffa2f3e8cb",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Marketing and Launch: Branding and Promotion",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Marketing and Launch",
+      "workstream": "Branding and Promotion",
+      "summary": "Create a strong brand identity and develop a comprehensive marketing campaign"
+    }
+  },
+  {
+    "taskId": "task_ws_240e75ff-85f6-4941-a413-41818338da87",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Marketing and Launch: Grand Opening",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Marketing and Launch",
+      "workstream": "Grand Opening",
+      "summary": "Plan and execute a successful grand opening event to generate buzz and attract customers"
+    }
+  },
+  {
+    "taskId": "task_ws_5a31b8ea-8958-4d88-86a4-1d4acb0f164d",
+    "projectId": "cb1f974c-6d8f-4994-963f-74df4f69e9c0",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Marketing and Launch: Ongoing Marketing",
+    "createdAt": "2026-04-25T08:58:16Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Marketing and Launch",
+      "workstream": "Ongoing Marketing",
+      "summary": "Implement a continuous marketing strategy to maintain customer engagement and attract new patrons"
+    }
+  }
+]
