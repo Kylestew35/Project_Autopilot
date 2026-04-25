@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_c085c2b4-80b7-48fd-92cb-016f9f7e3cb9",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_ddd6d998-8777-4aab-a983-bf0ad2feaffe",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
     "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
       "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
+      "summary": "Conduct interviews with key stakeholders to understand business requirements and pain points."
     }
   },
   {
-    "taskId": "task_ws_683eb137-3857-4551-9e94-e9f8a348c666",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_1b7a9bd3-8c19-4f3c-88a4-2789e116dfb2",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Process Mapping",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "Discovery and Planning: CRM Evaluation",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
-      "workstream": "Process Mapping",
-      "summary": "Map existing project management processes and identify areas for improvement."
+      "workstream": "CRM Evaluation",
+      "summary": "Research and evaluate various CRM platforms to identify the best fit for the organization."
     }
   },
   {
-    "taskId": "task_ws_d2f3bbb7-dd3c-4e49-aa84-a744d800cf32",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_0e46b420-1044-4e3f-8419-feee845e43c5",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "Discovery and Planning: Implementation Planning",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
       "phase": "Discovery and Planning",
-      "workstream": "Solution Design",
-      "summary": "Collaborate with the team to design a tailored project management solution."
+      "workstream": "Implementation Planning",
+      "summary": "Develop a comprehensive project plan, including timelines, resources, and milestones."
     }
   },
   {
-    "taskId": "task_ws_c3eb3d86-bdfd-4641-b400-b5a0d17d0ccd",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_3e2403bd-69ed-461e-9257-25892f5505e3",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Platform Configuration",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "CRM Implementation: CRM Configuration",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Platform Configuration",
-      "summary": "Set up the project management platform and customize it to meet the organization's requirements."
+      "phase": "CRM Implementation",
+      "workstream": "CRM Configuration",
+      "summary": "Customize the CRM platform to meet the organization's specific needs and requirements."
     }
   },
   {
-    "taskId": "task_ws_6d48adf5-f35f-4fa6-b09e-086295045fae",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_6de04688-3e84-402c-a7f9-2dcd6586fb53",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Data Migration",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "CRM Implementation: Data Migration",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
+      "phase": "CRM Implementation",
       "workstream": "Data Migration",
-      "summary": "Migrate historical project data to the new platform."
+      "summary": "Migrate existing customer data from legacy systems into the new CRM platform."
     }
   },
   {
-    "taskId": "task_ws_98bff2ef-9bde-4a94-8adc-799005e61747",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_79527e06-c570-4540-80ea-851a033eaeec",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: User Onboarding",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "CRM Implementation: User Training",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "User Onboarding",
-      "summary": "Train and onboard users to ensure effective adoption of the new system."
+      "phase": "CRM Implementation",
+      "workstream": "User Training",
+      "summary": "Develop and deliver comprehensive training programs to ensure user adoption and proficiency."
     }
   },
   {
-    "taskId": "task_ws_1e7b6f0d-52c8-4545-b493-ec66f1b4a6e3",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_72d62a10-de09-45e3-9e4a-42fc76e3359c",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Performance Monitoring",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "Optimization and Adoption: Performance Monitoring",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
+      "phase": "Optimization and Adoption",
       "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators (KPIs) and regularly review project management metrics."
+      "summary": "Establish key performance indicators (KPIs) and regularly review system performance."
     }
   },
   {
-    "taskId": "task_ws_0ab035f5-f27a-41b6-b73c-611d61879f8b",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_61f2e3b3-5d80-49e6-86f5-949f0d1f893b",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Process Refinement",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "Optimization and Adoption: Process Improvement",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Process Refinement",
-      "summary": "Identify and implement process improvements based on user feedback and data analysis."
+      "phase": "Optimization and Adoption",
+      "workstream": "Process Improvement",
+      "summary": "Identify and implement process improvements to enhance the effectiveness of the CRM system."
     }
   },
   {
-    "taskId": "task_ws_f71648bd-2e61-4aca-93db-4d2b7713522d",
-    "projectId": "6235291a-ea59-4158-9ce0-d7e4ebbda84c",
+    "taskId": "task_ws_9067aada-15fd-489c-9d8f-b18e5e271aa2",
+    "projectId": "75b53603-c2d2-48f4-ac9c-2e1c5352fd76",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Change Management",
-    "createdAt": "2026-04-25T08:16:46Z",
+    "title": "Optimization and Adoption: Change Management",
+    "createdAt": "2026-04-25T08:33:05Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
+      "phase": "Optimization and Adoption",
       "workstream": "Change Management",
-      "summary": "Manage organizational change and ensure sustained user adoption of the new system."
+      "summary": "Develop and execute a change management strategy to drive user adoption and engagement."
     }
   }
 ]
