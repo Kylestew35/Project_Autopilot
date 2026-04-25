@@ -1,28 +1,17 @@
 {
-  "dashboardId": "1b553cf8-2427-45d3-b9cd-f4affd746a00",
-  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/1b553cf8-2427-45d3-b9cd-f4affd746a00/dashboard.json",
+  "dashboardId": "a2b26eed-681b-4a34-a7ae-fb0efab88411",
+  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/a2b26eed-681b-4a34-a7ae-fb0efab88411/dashboard.json",
   "kpis": {
-    "objectiveCount": 3,
+    "objectiveCount": 5,
     "milestoneCount": 9,
     "riskCount": 3,
     "phaseCount": 3,
     "automationCount": 3,
-    "highRiskCount": 2
+    "highRiskCount": 0
   },
-  "alerts": [
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Resistance to Change"
-    },
-    {
-      "type": "risk",
-      "severity": "high",
-      "message": "High-impact risk detected: Budget Overruns"
-    }
-  ],
+  "alerts": [],
   "forecast": {
-    "status": "needs_attention",
-    "confidence": 0.75
+    "status": "on_track",
+    "confidence": 0.85
   }
 }
