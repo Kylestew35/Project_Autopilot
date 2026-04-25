@@ -1,142 +1,128 @@
 [
   {
-    "taskId": "task_ws_6cc59c8a-d34b-4e3d-b5c9-504a8d9bdad4",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_18a04b88-c5bc-4bef-a741-0746e7c88094",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Requirements Gathering: User Research",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Research and Development: Market Analysis",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Requirements Gathering",
-      "workstream": "User Research",
-      "summary": "Conduct interviews and surveys with project managers to identify their challenges and needs"
+      "phase": "Research and Development",
+      "workstream": "Market Analysis",
+      "summary": "Analyze consumer trends, competitor offerings, and identify target market segments."
     }
   },
   {
-    "taskId": "task_ws_86e90e3d-09cd-4862-ad36-be37b5c93324",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_c221b6ec-d516-450c-9ff5-8d6aa9a260be",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Requirements Gathering: Requirements Analysis",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Research and Development: Product Development",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Requirements Gathering",
-      "workstream": "Requirements Analysis",
-      "summary": "Analyze the research findings and define the functional and non-functional requirements for the system"
+      "phase": "Research and Development",
+      "workstream": "Product Development",
+      "summary": "Create new jerky recipes, experiment with flavors and textures, and refine the production process."
     }
   },
   {
-    "taskId": "task_ws_45bfda44-31c9-45e3-8898-f2240c6d1aec",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_228d17c8-3add-43f0-8026-5876c28ec254",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "System Design and Architecture: AI and Machine Learning",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Research and Development: Prototype Testing",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "System Design and Architecture",
-      "workstream": "AI and Machine Learning",
-      "summary": "Define the AI models and algorithms that will power the system's decision-making and automation capabilities"
+      "phase": "Research and Development",
+      "workstream": "Prototype Testing",
+      "summary": "Conduct consumer taste tests and gather feedback to optimize the product line."
     }
   },
   {
-    "taskId": "task_ws_cf777177-d343-4b50-8275-521e94672c85",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_9f1cdc1a-59a2-4481-8aff-14bc72e936bf",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "System Design and Architecture: Integration and Connectivity",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Production and Packaging: Production Facility",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "System Design and Architecture",
-      "workstream": "Integration and Connectivity",
-      "summary": "Design the integration points with external systems (e.g., project management tools, communication platforms) to enable data exchange and automation"
+      "phase": "Production and Packaging",
+      "workstream": "Production Facility",
+      "summary": "Identify and secure a suitable production facility to meet the anticipated demand."
     }
   },
   {
-    "taskId": "task_ws_01952a8c-6b6a-447d-94c4-4a2f61936eae",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_d0daa897-99d3-49b4-9f5e-9c40d9667c2a",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "System Design and Architecture: User Experience",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Production and Packaging: Ingredient Sourcing",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "System Design and Architecture",
-      "workstream": "User Experience",
-      "summary": "Design the user interface and interaction flows to ensure a seamless and intuitive experience for project managers"
+      "phase": "Production and Packaging",
+      "workstream": "Ingredient Sourcing",
+      "summary": "Establish relationships with suppliers of premium beef, spices, and other key ingredients."
     }
   },
   {
-    "taskId": "task_ws_e493816f-8748-476d-95b1-5ed8e7c23f14",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_67b7d177-d2a7-421a-baa9-186d4ac808f4",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "Development and Testing: Software Development",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Production and Packaging: Packaging Design",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "Development and Testing",
-      "workstream": "Software Development",
-      "summary": "Develop the core components of the system, including the AI models, integration layers, and user interface"
+      "phase": "Production and Packaging",
+      "workstream": "Packaging Design",
+      "summary": "Develop an eye-catching and sustainable packaging solution that aligns with the brand identity."
     }
   },
   {
-    "taskId": "task_ws_0750a16a-a164-470f-a7e1-87f550e64a51",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_ccf13278-0a56-419a-b9ee-f07046c685f5",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "Development and Testing: Quality Assurance",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Marketing and Sales: Brand Development",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "Development and Testing",
-      "workstream": "Quality Assurance",
-      "summary": "Establish a comprehensive testing strategy and execute test cases to ensure the system meets the defined requirements"
+      "phase": "Marketing and Sales",
+      "workstream": "Brand Development",
+      "summary": "Define the brand positioning, messaging, and visual identity for the new jerky line."
     }
   },
   {
-    "taskId": "task_ws_23135729-df23-4be3-9714-152c59074802",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_c8e60d40-f9e4-4d29-ac56-78a91afe1856",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "Deployment and Adoption: Deployment and Infrastructure",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Marketing and Sales: Channel Partnerships",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "Deployment and Adoption",
-      "workstream": "Deployment and Infrastructure",
-      "summary": "Set up the necessary infrastructure and environments to host and run the Auto Pilot AI system"
+      "phase": "Marketing and Sales",
+      "workstream": "Channel Partnerships",
+      "summary": "Identify and secure distribution agreements with key retail and online partners."
     }
   },
   {
-    "taskId": "task_ws_8fc2ab3a-8ff8-4e6f-bb61-622d6922095b",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
+    "taskId": "task_ws_532f294c-5727-427b-b76f-8f821a57eac1",
+    "projectId": "52967637-0ff2-45d3-b920-08e1d6744272",
     "system": "jira",
     "type": "workstream",
-    "title": "Deployment and Adoption: Change Management",
-    "createdAt": "2026-04-25T03:34:44Z",
+    "title": "Marketing and Sales: Launch Campaign",
+    "createdAt": "2026-04-25T07:08:34Z",
     "status": "generated",
     "payload": {
-      "phase": "Deployment and Adoption",
-      "workstream": "Change Management",
-      "summary": "Develop and execute a change management plan to facilitate the adoption of the system among project managers"
-    }
-  },
-  {
-    "taskId": "task_ws_1143c6ee-4054-433d-8016-832136e9ff5c",
-    "projectId": "d35c4539-b94f-47a7-ab0e-15445c09f16b",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Deployment and Adoption: Training and Support",
-    "createdAt": "2026-04-25T03:34:44Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Deployment and Adoption",
-      "workstream": "Training and Support",
-      "summary": "Provide comprehensive training and ongoing support to ensure project managers can effectively utilize the Auto Pilot AI system"
+      "phase": "Marketing and Sales",
+      "workstream": "Launch Campaign",
+      "summary": "Develop and execute a multi-channel marketing campaign to drive awareness and initial sales."
     }
   }
 ]
