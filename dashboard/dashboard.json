@@ -1,9 +1,9 @@
 {
-  "dashboardId": "ecce2658-4b89-49f6-97f1-e3856b579d8c",
-  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/ecce2658-4b89-49f6-97f1-e3856b579d8c/dashboard.json",
+  "dashboardId": "cebecf04-f2c9-4fd9-ac51-7c6d3d85c231",
+  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/cebecf04-f2c9-4fd9-ac51-7c6d3d85c231/dashboard.json",
   "kpis": {
     "objectiveCount": 4,
-    "milestoneCount": 6,
+    "milestoneCount": 4,
     "riskCount": 3,
     "phaseCount": 3,
     "automationCount": 3,
@@ -22,7 +22,7 @@
     }
   ],
   "forecast": {
-    "status": "needs_attention",
-    "confidence": 0.75
+    "status": "on_track",
+    "confidence": 0.85
   }
 }
