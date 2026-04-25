@@ -1,128 +1,128 @@
 [
   {
-    "taskId": "task_ws_8977e0ac-278b-48e6-ae7c-148cc306fdbc",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_a5d3ced4-64c2-4fe8-ae14-b12f8d17ce45",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Planning and Design: Requirements Gathering",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
+      "phase": "Planning and Design",
+      "workstream": "Requirements Gathering",
+      "summary": "Collect and document the business requirements for the new system."
     }
   },
   {
-    "taskId": "task_ws_83bc6f49-71a9-4f3c-b38c-4fdb8a4182b7",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_a0a287dd-e1b7-4f20-9bb7-699e5cc24711",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Process Mapping",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Planning and Design: System Design",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Process Mapping",
-      "summary": "Map out existing project management workflows and identify areas for improvement."
+      "phase": "Planning and Design",
+      "workstream": "System Design",
+      "summary": "Design the architecture and components of the new beef processing system."
     }
   },
   {
-    "taskId": "task_ws_a849c013-c681-4e84-959e-261ece9a844a",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_1c4c8815-897c-487b-9923-ff2933c9c351",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Planning and Design: Implementation Planning",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Solution Design",
-      "summary": "Collaborate with the team to design a tailored project management solution."
+      "phase": "Planning and Design",
+      "workstream": "Implementation Planning",
+      "summary": "Develop a detailed plan for the implementation of the new system, including timelines, resources, and milestones."
     }
   },
   {
-    "taskId": "task_ws_4de76eeb-5619-4b73-a7df-f9216eb29c2c",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_5aeeab3f-325c-44e9-95bb-903d4ba52b3f",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation and Integration: Platform Configuration",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Implementation: System Development",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation and Integration",
-      "workstream": "Platform Configuration",
-      "summary": "Set up the project management platform and customize it to meet the organization's requirements."
+      "phase": "Implementation",
+      "workstream": "System Development",
+      "summary": "Build and configure the new beef processing system components."
     }
   },
   {
-    "taskId": "task_ws_4e5fe908-391a-4485-afcf-25b6d0c07a7f",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_c839492a-04c7-4b77-ad63-784a9a0b05b1",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation and Integration: Data Migration",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Implementation: Testing and Validation",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation and Integration",
-      "workstream": "Data Migration",
-      "summary": "Migrate historical project data to the new platform, ensuring data integrity and accuracy."
+      "phase": "Implementation",
+      "workstream": "Testing and Validation",
+      "summary": "Thoroughly test the new system to ensure it meets the requirements and performs as expected."
     }
   },
   {
-    "taskId": "task_ws_f7d8847b-9df9-46ce-a411-60de34ed5da6",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_dbd88df6-22a8-48be-8449-4240bdd6dff8",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation and Integration: User Training",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Implementation: Deployment and Rollout",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation and Integration",
-      "workstream": "User Training",
-      "summary": "Provide comprehensive training to all stakeholders to ensure effective adoption and utilization of the new system."
+      "phase": "Implementation",
+      "workstream": "Deployment and Rollout",
+      "summary": "Deploy the new system and transition the organization to the new beef processing workflow."
     }
   },
   {
-    "taskId": "task_ws_66a0da3b-b92f-4f61-86b2-f71868c3d9a0",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_01d0d67c-a39b-47e7-9d69-c7571cbdd5db",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Performance Monitoring",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Optimization and Maintenance: Performance Monitoring",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
+      "phase": "Optimization and Maintenance",
       "workstream": "Performance Monitoring",
-      "summary": "Establish key performance indicators (KPIs) and regularly review project management metrics."
+      "summary": "Implement systems to monitor the performance and efficiency of the new beef processing system."
     }
   },
   {
-    "taskId": "task_ws_d6a0bde0-9c2a-4447-a546-12a1d2e28b68",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_7b91f875-de6d-4309-b5dc-9cd4705b55f1",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Process Refinement",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Optimization and Maintenance: Continuous Improvement",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Process Refinement",
-      "summary": "Identify and implement process improvements based on user feedback and data-driven insights."
+      "phase": "Optimization and Maintenance",
+      "workstream": "Continuous Improvement",
+      "summary": "Identify and implement opportunities to further optimize the beef processing system."
     }
   },
   {
-    "taskId": "task_ws_2fbf9d1a-9fce-437e-8246-8dc38c864f53",
-    "projectId": "83d7c5af-15d1-4675-80b9-250eeb94302b",
+    "taskId": "task_ws_cefb4896-a7ff-476b-bcec-2b08e08d06dc",
+    "projectId": "e3d3da80-de2a-4523-b62c-e25dcbc48ce1",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Change Management",
-    "createdAt": "2026-04-25T09:24:40Z",
+    "title": "Optimization and Maintenance: Maintenance and Support",
+    "createdAt": "2026-04-25T09:25:20Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Change Management",
-      "summary": "Manage organizational change and ensure seamless adoption of the new project management practices."
+      "phase": "Optimization and Maintenance",
+      "workstream": "Maintenance and Support",
+      "summary": "Provide ongoing maintenance and support for the new beef processing system."
     }
   }
 ]
