@@ -1,16 +1,13 @@
 Risk Log
 
-Project Name: Funky
-Description: Implement a new e-commerce platform for a beef product line.
+Regulatory Compliance
+Impact: Potential delays or issues with product approvals and certifications.
+Mitigation: Closely monitor regulatory requirements and engage with relevant authorities early in the process.
 
-Risk 1: Integrating Legacy Systems
-Impact: Potential delays and technical challenges during data migration
-Mitigation: Conduct thorough analysis and planning for system integrations
+Supply Chain Disruptions
+Impact: Interruptions in the availability of key ingredients or packaging materials.
+Mitigation: Diversify suppliers and maintain strategic inventory levels to mitigate supply chain risks.
 
-Risk 2: Changing Customer Preferences
-Impact: Inability to meet evolving customer needs and expectations
-Mitigation: Continuously gather customer feedback and adapt the platform accordingly
-
-Risk 3: Cybersecurity Threats
-Impact: Potential data breaches and loss of customer trust
-Mitigation: Implement robust security measures and regularly monitor for vulnerabilities
+Consumer Acceptance
+Impact: Failure to resonate with the target market and achieve desired sales targets.
+Mitigation: Conduct extensive market research, refine the product based on consumer feedback, and implement a robust marketing strategy.
