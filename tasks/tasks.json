@@ -1,170 +1,128 @@
 [
   {
-    "taskId": "task_ws_e162ecde-9eb9-40c3-bca1-c4889ea744ce",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_e5ec7472-0f1c-40ab-b62a-369ced79a2aa",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Preparation: Project Initiation",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Discovery and Planning: Stakeholder Interviews",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Preparation",
-      "workstream": "Project Initiation",
-      "summary": "Define the project goals, scope, and success criteria."
+      "phase": "Discovery and Planning",
+      "workstream": "Stakeholder Interviews",
+      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
     }
   },
   {
-    "taskId": "task_ws_a0352b33-9c9e-440a-aa75-3605103e76d1",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_7b24156c-508c-43b9-92c7-2a2d5fddf7ae",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning and Preparation: Stakeholder Engagement",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Discovery and Planning: Process Mapping",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning and Preparation",
-      "workstream": "Stakeholder Engagement",
-      "summary": "Identify and engage with key stakeholders, including producers, suppliers, and customers."
-    }
-  },
-  {
-    "taskId": "task_ws_a3f98149-2e5b-4cf3-b946-4dd624f8ad3a",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Planning and Preparation: Resource Allocation",
-    "createdAt": "2026-04-25T09:27:09Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Planning and Preparation",
-      "workstream": "Resource Allocation",
-      "summary": "Allocate necessary resources, including personnel, equipment, and funding."
-    }
-  },
-  {
-    "taskId": "task_ws_dd998dee-e407-471d-a721-77dcb567942e",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Process Optimization: Process Mapping",
-    "createdAt": "2026-04-25T09:27:09Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Process Optimization",
+      "phase": "Discovery and Planning",
       "workstream": "Process Mapping",
-      "summary": "Map the current beef production processes to identify areas for improvement."
+      "summary": "Map out existing project management workflows and identify areas for improvement."
     }
   },
   {
-    "taskId": "task_ws_0565313d-f29a-4872-b38c-7044764e76c7",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_61fffba3-03e3-43bf-bb6d-e26c0f0935d9",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Process Optimization: Lean Manufacturing",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Discovery and Planning: Solution Design",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Process Optimization",
-      "workstream": "Lean Manufacturing",
-      "summary": "Implement lean manufacturing principles to reduce waste and improve productivity."
+      "phase": "Discovery and Planning",
+      "workstream": "Solution Design",
+      "summary": "Collaborate with the team to design a tailored project management solution."
     }
   },
   {
-    "taskId": "task_ws_38609069-86e9-48e8-8a4e-0efad54fc311",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_9194acf6-43e7-45db-9bec-164885d00989",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Process Optimization: Sustainability Initiatives",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Implementation: Platform Configuration",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Process Optimization",
-      "workstream": "Sustainability Initiatives",
-      "summary": "Develop and implement sustainable practices to reduce the environmental impact of beef production."
+      "phase": "Implementation",
+      "workstream": "Platform Configuration",
+      "summary": "Set up the project management platform and customize it to meet the organization's requirements."
     }
   },
   {
-    "taskId": "task_ws_3c395f42-1902-4f56-9605-000e42bfc78a",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_b1ba1194-5d39-4086-a2a0-8d861b9e05c8",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Supply Chain Optimization: Supplier Collaboration",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Implementation: Data Migration",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Supply Chain Optimization",
-      "workstream": "Supplier Collaboration",
-      "summary": "Collaborate with suppliers to improve supply chain coordination and visibility."
+      "phase": "Implementation",
+      "workstream": "Data Migration",
+      "summary": "Migrate historical project data to the new platform, ensuring data integrity and accuracy."
     }
   },
   {
-    "taskId": "task_ws_99aa9c71-7d82-4823-844b-3fafda81b299",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_822a662f-a3ff-4c53-aa80-daa4c4fc159b",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Supply Chain Optimization: Logistics Optimization",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Implementation: User Training",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Supply Chain Optimization",
-      "workstream": "Logistics Optimization",
-      "summary": "Optimize transportation and logistics to reduce costs and environmental impact."
+      "phase": "Implementation",
+      "workstream": "User Training",
+      "summary": "Provide comprehensive training to all stakeholders to ensure effective adoption and utilization of the new system."
     }
   },
   {
-    "taskId": "task_ws_d09f9342-6098-46e8-b1b0-02bb862ffda8",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_581d2c97-c584-44ae-a2f7-019986cd3ba3",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Supply Chain Optimization: Traceability and Transparency",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Optimization and Continuous Improvement: Performance Monitoring",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Supply Chain Optimization",
-      "workstream": "Traceability and Transparency",
-      "summary": "Implement traceability systems to enhance transparency and accountability throughout the supply chain."
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Performance Monitoring",
+      "summary": "Establish key performance indicators (KPIs) and regularly review the solution's performance."
     }
   },
   {
-    "taskId": "task_ws_1c59b874-4df1-4d4e-9bb3-83b20a1e0fbb",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_70850249-b167-40ef-b198-f360d072ca7e",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Performance Monitoring and Continuous Improvement: Key Performance Indicators",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Optimization and Continuous Improvement: Process Refinement",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Performance Monitoring and Continuous Improvement",
-      "workstream": "Key Performance Indicators",
-      "summary": "Develop and track key performance indicators to measure the success of the project."
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Process Refinement",
+      "summary": "Gather user feedback and implement improvements to streamline project management workflows."
     }
   },
   {
-    "taskId": "task_ws_b2c26cb6-b36e-4f63-9eab-de5290a328b1",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
+    "taskId": "task_ws_7a8d3974-3aa9-4003-8be3-4cdd14b73111",
+    "projectId": "a61806d9-ab6c-4eae-8695-d56c6babe696",
     "system": "jira",
     "type": "workstream",
-    "title": "Performance Monitoring and Continuous Improvement: Continuous Improvement",
-    "createdAt": "2026-04-25T09:27:09Z",
+    "title": "Optimization and Continuous Improvement: Change Management",
+    "createdAt": "2026-04-25T09:29:54Z",
     "status": "generated",
     "payload": {
-      "phase": "Performance Monitoring and Continuous Improvement",
-      "workstream": "Continuous Improvement",
-      "summary": "Implement a continuous improvement process to identify and address ongoing challenges and opportunities."
-    }
-  },
-  {
-    "taskId": "task_ws_94685606-8a97-4305-9b1f-4b1091ee15bb",
-    "projectId": "39b4512d-7685-4247-bc83-2c655eef54af",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Performance Monitoring and Continuous Improvement: Reporting and Communication",
-    "createdAt": "2026-04-25T09:27:09Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Performance Monitoring and Continuous Improvement",
-      "workstream": "Reporting and Communication",
-      "summary": "Regularly report on project progress and communicate with stakeholders to ensure alignment and support."
+      "phase": "Optimization and Continuous Improvement",
+      "workstream": "Change Management",
+      "summary": "Manage organizational change and ensure seamless integration of the new project management solution."
     }
   }
 ]
