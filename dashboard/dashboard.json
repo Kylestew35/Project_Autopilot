@@ -1,8 +1,8 @@
 {
-  "dashboardId": "00eae590-5c92-48d3-b475-993400e07d39",
-  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/00eae590-5c92-48d3-b475-993400e07d39/dashboard.json",
+  "dashboardId": "1b553cf8-2427-45d3-b9cd-f4affd746a00",
+  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/1b553cf8-2427-45d3-b9cd-f4affd746a00/dashboard.json",
   "kpis": {
-    "objectiveCount": 4,
+    "objectiveCount": 3,
     "milestoneCount": 9,
     "riskCount": 3,
     "phaseCount": 3,
@@ -18,7 +18,7 @@
     {
       "type": "risk",
       "severity": "high",
-      "message": "High-impact risk detected: Scope Creep"
+      "message": "High-impact risk detected: Budget Overruns"
     }
   ],
   "forecast": {
