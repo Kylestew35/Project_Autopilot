@@ -1,11 +1,11 @@
 {
-  "dashboardId": "a02ba999-3b80-410b-9c4a-ac79c0c2d7c0",
-  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/a02ba999-3b80-410b-9c4a-ac79c0c2d7c0/dashboard.json",
+  "dashboardId": "ca138496-bb7e-4728-a003-fde8ac7b6d52",
+  "dashboardUrl": "s3://project-autopilot-projects-v3-533267113788-dashboards/dashboards/ca138496-bb7e-4728-a003-fde8ac7b6d52/dashboard.json",
   "kpis": {
-    "objectiveCount": 3,
-    "milestoneCount": 9,
+    "objectiveCount": 4,
+    "milestoneCount": 10,
     "riskCount": 3,
-    "phaseCount": 3,
+    "phaseCount": 4,
     "automationCount": 3,
     "highRiskCount": 0
   },
