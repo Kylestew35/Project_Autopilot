@@ -1,128 +1,170 @@
 [
   {
-    "taskId": "task_ws_632878b5-9f84-41fc-963c-9964685ab815",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_6bb5d18b-80d1-4402-83e5-1629a7c07ccc",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Recipe Development: Recipe Research",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Planning and Preparation: Market Analysis",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Recipe Development",
-      "workstream": "Recipe Research",
-      "summary": "Gather and analyze existing beef and rice recipes."
+      "phase": "Planning and Preparation",
+      "workstream": "Market Analysis",
+      "summary": "Analyze the local market, identify target customers, and assess competition"
     }
   },
   {
-    "taskId": "task_ws_56890852-e720-4e4c-bcf1-5d4b4773ac65",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_091ee1da-5d47-49ec-9879-fdf37d9b8710",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Recipe Development: Recipe Prototyping",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Planning and Preparation: Business Planning",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Recipe Development",
-      "workstream": "Recipe Prototyping",
-      "summary": "Experiment with different ingredient combinations and cooking methods."
+      "phase": "Planning and Preparation",
+      "workstream": "Business Planning",
+      "summary": "Develop a comprehensive business plan, including financial projections and operational strategies"
     }
   },
   {
-    "taskId": "task_ws_c4bcc4d8-dc58-41e3-a378-d270dc52fe0d",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_b79a3703-5f68-45c0-9a4e-fc793401763b",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Recipe Development: Recipe Testing",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Planning and Preparation: Funding and Financing",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Recipe Development",
-      "workstream": "Recipe Testing",
-      "summary": "Conduct taste tests and gather feedback from a panel of experts."
+      "phase": "Planning and Preparation",
+      "workstream": "Funding and Financing",
+      "summary": "Secure necessary funding through investors, loans, or other sources"
     }
   },
   {
-    "taskId": "task_ws_93a8d07d-25e8-499a-bc28-c363f5c30f04",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_a5ef2d14-6ef8-4818-afb6-939ee069daa3",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Menu Integration: Menu Design",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Store Setup and Inventory: Site Selection",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Menu Integration",
-      "workstream": "Menu Design",
-      "summary": "Update the menu layout and descriptions to feature the new dish."
+      "phase": "Store Setup and Inventory",
+      "workstream": "Site Selection",
+      "summary": "Identify and secure a suitable retail space for the store"
     }
   },
   {
-    "taskId": "task_ws_c22ba76d-afd0-491e-a95f-37af9323066f",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_ffcc9645-13bd-460f-90a6-8a5696f8453c",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Menu Integration: Inventory Management",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Store Setup and Inventory: Store Design and Renovation",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Menu Integration",
+      "phase": "Store Setup and Inventory",
+      "workstream": "Store Design and Renovation",
+      "summary": "Design the store layout, purchase necessary equipment, and complete any required renovations"
+    }
+  },
+  {
+    "taskId": "task_ws_ef04b428-d871-4e2c-a6fd-d9b63bad8ceb",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Store Setup and Inventory: Inventory Management",
+    "createdAt": "2026-04-25T09:37:04Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Store Setup and Inventory",
       "workstream": "Inventory Management",
-      "summary": "Ensure the necessary ingredients are available and properly stocked."
+      "summary": "Develop a procurement strategy, establish relationships with suppliers, and stock the initial inventory"
     }
   },
   {
-    "taskId": "task_ws_34f6b2b4-8df9-438f-9fcb-9d11555d1bc3",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_26e56735-a5d1-4667-a320-00e3fe634a12",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Menu Integration: Staff Training",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Marketing and Promotion: Brand Development",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Menu Integration",
-      "workstream": "Staff Training",
-      "summary": "Provide training to employees on preparing and serving the new dish."
+      "phase": "Marketing and Promotion",
+      "workstream": "Brand Development",
+      "summary": "Create a strong brand identity, including a logo, visual branding, and messaging"
     }
   },
   {
-    "taskId": "task_ws_6d180d14-7025-4e37-8780-7f4f9e35c5ca",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_a56bf921-7ac3-4040-b958-bb2c4236ed42",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Launch: Advertising Campaign",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Marketing and Promotion: Advertising and Promotions",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Launch",
-      "workstream": "Advertising Campaign",
-      "summary": "Develop and execute a marketing campaign to raise awareness of the new dish."
+      "phase": "Marketing and Promotion",
+      "workstream": "Advertising and Promotions",
+      "summary": "Develop and execute a multi-channel advertising and promotional campaign"
     }
   },
   {
-    "taskId": "task_ws_357bc5cb-a7b1-4d99-a256-2120bf06694f",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_a715bfb5-8705-4e73-aa73-e5967c44da2b",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Launch: Customer Engagement",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Marketing and Promotion: Customer Engagement",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Launch",
+      "phase": "Marketing and Promotion",
       "workstream": "Customer Engagement",
-      "summary": "Gather customer feedback and monitor sales performance."
+      "summary": "Implement strategies to build customer loyalty and encourage repeat business"
     }
   },
   {
-    "taskId": "task_ws_57ec8712-c3f8-482d-aad2-cf0b78b2c131",
-    "projectId": "4ac1a6aa-cd20-4890-9b2a-34885335f30d",
+    "taskId": "task_ws_05557202-5622-4116-be06-1641264aa8d3",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
     "system": "jira",
     "type": "workstream",
-    "title": "Marketing and Launch: Menu Optimization",
-    "createdAt": "2026-04-25T09:30:52Z",
+    "title": "Operations and Management: Staffing and Training",
+    "createdAt": "2026-04-25T09:37:04Z",
     "status": "generated",
     "payload": {
-      "phase": "Marketing and Launch",
-      "workstream": "Menu Optimization",
-      "summary": "Refine the recipe and presentation based on customer feedback."
+      "phase": "Operations and Management",
+      "workstream": "Staffing and Training",
+      "summary": "Hire and train a competent team of sales associates and store managers"
+    }
+  },
+  {
+    "taskId": "task_ws_8d9f3d25-46f2-49d1-abfb-faf100e48d0b",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Operations and Management: Inventory Control",
+    "createdAt": "2026-04-25T09:37:04Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Operations and Management",
+      "workstream": "Inventory Control",
+      "summary": "Implement systems and procedures for effective inventory management and replenishment"
+    }
+  },
+  {
+    "taskId": "task_ws_c15ac5d5-917b-4a58-8e99-8f5a6ddb025a",
+    "projectId": "72c6045c-b2c5-4f34-80b5-b51aa74d471f",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Operations and Management: Customer Service",
+    "createdAt": "2026-04-25T09:37:04Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Operations and Management",
+      "workstream": "Customer Service",
+      "summary": "Develop and maintain a high level of customer service to ensure customer satisfaction"
     }
   }
 ]
