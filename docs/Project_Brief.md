@@ -1,50 +1,51 @@
-Project Brief: Fish Lake Family Reunion
+Project Brief: Orchy AI
 
-Executive Summary:
-The Fish Lake Family Reunion project aims to bring the entire family together for a memorable reunion experience at Fish Lake on Monroe Mountain. The project will provide a range of activities and amenities to cater to all age groups, ensuring a smooth and stress-free planning and execution process.
+Executive Summary
+Orchy AI is an AI-powered healthy food discovery and delivery platform that integrates restaurant menus, nutrition data, POS information, and real-time delivery options. The platform leverages machine learning to recommend personalized meals based on user preferences, dietary goals, macros, allergies, and budget. The project aims to develop a user-friendly mobile app and web interface that simplifies healthy meal planning and ordering, while establishing partnerships with restaurants and delivery services to expand the platform's reach and offerings.
 
-Project Objectives:
-1. Secure suitable accommodations for all attendees at Fish Lake.
-2. Curate a diverse range of activities and entertainment options for all age groups.
-3. Provide catering services that cater to the dietary needs and preferences of all attendees.
-4. Coordinate the transportation and travel logistics for all attendees.
-5. Maintain clear and effective communication with all family members throughout the planning and execution process.
-6. Ensure a smooth and enjoyable family reunion experience for all attendees.
-7. Gather feedback and identify areas for improvement for future family reunions.
+Project Objectives
+1. Develop an AI-powered recommendation engine that suggests healthy and cost-effective meals based on user preferences and dietary needs.
+2. Create a user-friendly mobile app and web interface that simplifies the meal discovery and ordering process.
+3. Establish partnerships with restaurants and delivery services to expand the platform's offerings and reach.
+4. Achieve a user base of 50,000 active monthly users within the first year of launch.
+5. Maintain a customer satisfaction rating of at least 4.5 out of 5 stars.
 
-Project Phases and Workstreams:
-1. Planning Phase:
-   - Venue and Accommodations: Research and book suitable cabins and campsites at Fish Lake.
-   - Activities and Entertainment: Curate a diverse range of activities and entertainment options for the reunion.
-   - Catering and Meals: Plan and coordinate the meals, snacks, and refreshments for the event.
-   - Transportation and Travel: Organize transportation logistics and provide travel guidance for attendees.
-   - Communication and Coordination: Establish communication channels and coordinate with family members.
+Project Phases and Workstreams
+1. Discovery and Planning
+   - Market Analysis
+   - User Research
+   - Technical Feasibility
+   - Project Planning
 
-2. Execution Phase:
-   - Venue and Accommodations Setup: Ensure the cabins, campsites, and common areas are prepared for the event.
-   - Activity and Entertainment Coordination: Facilitate the planned activities and provide support for family members.
-   - Catering and Meal Service: Oversee the meal preparation, serving, and cleanup during the event.
-   - Transportation and Travel Support: Assist attendees with any transportation or travel-related needs.
-   - Communication and Engagement: Maintain open communication and actively engage with family members.
+2. Platform Development
+   - UI/UX Design
+   - Recommendation Engine
+   - Data Integration
+   - Backend Development
 
-3. Evaluation Phase:
-   - Feedback Collection: Gather feedback from attendees to understand their experiences.
-   - Lessons Learned: Analyze the feedback and identify opportunities for improvement.
-   - Documentation and Reporting: Document the overall event and provide a comprehensive report.
+3. Testing and Deployment
+   - Quality Assurance
+   - Deployment and Release
+   - Maintenance and Support
 
-Key Risks and Mitigation Strategies:
-1. Weather Disruptions: Monitor weather forecasts and have contingency plans in place.
-2. Accommodation Availability: Book accommodations well in advance and have backup options.
-3. Dietary Restrictions: Collect dietary information from attendees and work with caterers.
-4. Family Conflicts: Establish clear communication channels and conflict resolution strategies.
-5. Budget Overruns: Develop a detailed budget, monitor expenses, and explore cost-saving measures.
+Key Risks and Mitigation Strategies
+1. Incomplete Data Integration
+   - Mitigation: Thoroughly vet and test all data integration points, establish contingency plans for missing data sources.
 
-Automation and Integration:
-1. Accommodation Booking Confirmation: Automatically send confirmation emails and update the project dashboard.
-2. Dietary Preference Notification: Automatically notify the catering team and update meal planning.
-3. Activity Schedule Update: Automatically update the project calendar and notify all attendees.
-4. Travel Coordination Reminder: Automatically send travel guidance and coordination reminders to attendees.
-5. Feedback Collection: Automatically initiate the feedback survey and compile results for evaluation.
+2. Scalability Challenges
+   - Mitigation: Design the platform architecture with scalability in mind, conduct load testing, and plan for infrastructure scaling.
 
-Timeline:
-The project timeline spans from April 2023 to September 2023, with key milestones and deliverables across the planning, execution, and evaluation phases.
+3. User Adoption Barriers
+   - Mitigation: Conduct extensive user research, implement a robust marketing and onboarding strategy, and continuously gather user feedback.
+
+4. Regulatory Compliance
+   - Mitigation: Consult with legal and regulatory experts, ensure the platform adheres to all relevant laws and industry standards.
+
+Automation Workflows
+1. Jira Issue Creation: Create a new Jira issue when a user feedback is submitted.
+2. GitHub PR Notification: Send a Slack notification to the development team when a new pull request is created.
+3. Notion Page Update: Update the corresponding Notion page when a new restaurant menu is added.
+4. Slack Deployment Notification: Send a notification to the #general channel when a platform deployment is completed.
+
+Project Timeline
+The project timeline spans 24 months, with key milestones and deliverables across the three phases.
