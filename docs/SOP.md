@@ -1,53 +1,89 @@
 Standard Operating Procedure (SOP)
-Project Management Solution Implementation
+Fish Lake Family Reunion
 
-1. Purpose
-This SOP outlines the steps to be followed for the successful implementation of a comprehensive project management solution to streamline operations and drive organizational efficiency.
+I. Introduction
+This SOP outlines the processes and guidelines for the successful planning, execution, and evaluation of the Fish Lake Family Reunion.
 
-2. Scope
-This SOP applies to the implementation of the project management solution across the organization, including the Discovery and Planning, Implementation, and Optimization and Continuous Improvement phases.
+II. Objectives
+1. Secure suitable accommodations for all attendees at Fish Lake.
+2. Curate a diverse range of activities and entertainment options for all age groups.
+3. Provide catering services that cater to the dietary needs and preferences of all attendees.
+4. Coordinate the transportation and travel logistics for all attendees.
+5. Maintain clear and effective communication with all family members throughout the planning and execution process.
+6. Ensure a smooth and enjoyable family reunion experience for all attendees.
+7. Gather feedback and identify areas for improvement for future family reunions.
 
-3. Responsibilities
-3.1. Project Manager: Oversee the entire implementation process, coordinate cross-functional collaboration, and ensure timely delivery of project objectives.
-3.2. Business Analyst: Conduct stakeholder interviews, map existing processes, and design the tailored project management solution.
-3.3. IT Team: Configure the project management platform, migrate data, and ensure seamless integration with existing systems.
-3.4. Change Management Lead: Develop and execute the user onboarding and change management strategy to drive sustained adoption of the new system.
-3.5. Performance Analyst: Implement metrics and dashboards to monitor the performance and effectiveness of the project management solution.
+III. Planning Phase
+1. Venue and Accommodations
+   - Research and book suitable cabins and campsites at Fish Lake.
+   - Ensure accommodations meet the needs and preferences of all attendees.
+   - Coordinate with the venue to secure the necessary facilities and amenities.
 
-4. Procedure
-4.1. Discovery and Planning
-4.1.1. Stakeholder Interviews: Conduct interviews with key stakeholders to understand their needs, pain points, and expectations.
-4.1.2. Process Mapping: Map out the existing project management workflows and identify areas for improvement.
-4.1.3. Solution Design: Collaborate with the team to design a tailored project management solution that addresses the organization's requirements.
+2. Activities and Entertainment
+   - Curate a diverse range of activities and entertainment options for all age groups.
+   - Prioritize activities that promote family bonding and create memorable experiences.
+   - Develop a detailed schedule of events and communicate it to all attendees.
 
-4.2. Implementation
-4.2.1. Platform Configuration: Set up the project management platform and customize it to meet the organization's specific needs.
-4.2.2. Data Migration: Migrate historical project data to the new platform, ensuring data integrity and seamless integration.
-4.2.3. User Onboarding: Train and onboard users to ensure effective adoption of the new system.
+3. Catering and Meals
+   - Plan and coordinate the meals, snacks, and refreshments for the event.
+   - Collect dietary information from attendees and work with caterers to accommodate all needs and preferences.
+   - Ensure the catering services align with the overall event budget and timeline.
 
-4.3. Optimization and Continuous Improvement
-4.3.1. Performance Monitoring: Implement metrics and dashboards to track the performance and effectiveness of the project management solution.
-4.3.2. Process Refinement: Gather user feedback and make iterative improvements to the project management workflows.
-4.3.3. Change Management: Manage organizational change and ensure sustained user adoption of the new system.
+4. Transportation and Travel
+   - Organize transportation logistics and provide travel guidance for attendees.
+   - Identify and communicate the best routes, modes of transportation, and arrival/departure times.
+   - Assist attendees with any travel-related questions or concerns.
 
-5. Automation
-5.1. Project Status Updates: Automatically notify project stakeholders when project tasks are updated in Jira.
-5.2. Resource Allocation: Automatically update the resource availability calendar in Notion when new project assignments are made.
-5.3. Risk Monitoring: Automatically notify the risk management team when risks are escalated in the system.
+5. Communication and Coordination
+   - Establish communication channels and coordinate with family members.
+   - Provide regular updates on the planning progress and any changes to the event details.
+   - Encourage active participation and feedback from all attendees.
 
-6. Timeline
-6.1. Discovery and Planning: April 1, 2023 - May 15, 2023
-6.2. Platform Configuration: May 16, 2023 - June 30, 2023
-6.3. User Onboarding: July 1, 2023 - July 31, 2023
-6.4. Performance Monitoring: August 1, 2023 - December 31, 2023
+IV. Execution Phase
+1. Venue and Accommodations Setup
+   - Ensure the cabins, campsites, and common areas are prepared for the event.
+   - Coordinate with the venue staff to address any last-minute needs or issues.
+   - Greet attendees and assist them with check-in and settling into their accommodations.
 
-7. Objectives
-7.1. Increase project visibility and transparency by 80% within the first 6 months.
-7.2. Improve cross-functional collaboration by 50% within the first year.
-7.3. Optimize resource utilization by 30% within the first 9 months.
-7.4. Implement data-driven decision-making processes across all projects.
+2. Activity and Entertainment Coordination
+   - Facilitate the planned activities and provide support for family members.
+   - Ensure the activities run smoothly and address any issues or concerns that arise.
+   - Encourage active participation and engagement from all attendees.
 
-8. Risks and Mitigation
-8.1. Resistance to Change: Implement a comprehensive change management strategy and provide extensive user training.
-8.2. Data Integration Challenges: Carefully plan and test the data migration process to ensure seamless integration with existing systems.
-8.3. Scope Creep: Establish clear project boundaries, regularly review the scope, and obtain stakeholder approval for any changes.
+3. Catering and Meal Service
+   - Oversee the meal preparation, serving, and cleanup during the event.
+   - Ensure the catering services meet the dietary needs and preferences of all attendees.
+   - Provide assistance and guidance to attendees as needed.
+
+4. Transportation and Travel Support
+   - Assist attendees with any transportation or travel-related needs.
+   - Provide guidance and support for arrivals, departures, and any in-between transportation.
+   - Address any transportation-related issues or concerns promptly.
+
+5. Communication and Engagement
+   - Maintain open communication and actively engage with family members.
+   - Respond to inquiries and address any concerns or questions in a timely manner.
+   - Encourage feedback and input from attendees to ensure a positive experience.
+
+V. Evaluation Phase
+1. Feedback Collection
+   - Gather feedback from attendees to understand their experiences.
+   - Utilize various methods, such as surveys, interviews, and open-ended discussions.
+   - Ensure the feedback collection process is comprehensive and inclusive.
+
+2. Lessons Learned
+   - Analyze the feedback and identify opportunities for improvement.
+   - Assess the overall success of the event and determine areas that need to be addressed.
+   - Document the lessons learned to inform the planning of future family reunions.
+
+3. Documentation and Reporting
+   - Document the overall event, including the planning, execution, and feedback.
+   - Provide a comprehensive report that summarizes the event's successes, challenges, and recommendations for the future.
+   - Share the report with all attendees and relevant stakeholders.
+
+VI. Automation
+1. Accommodation Booking Confirmation (FLFRAUT01)
+   - Trigger: New accommodation booking
+   - Action: Send confirmation email to attendee and update project dashboard
+
+2.
