@@ -1,184 +1,156 @@
 [
   {
-    "taskId": "task_ws_769ab72c-62cf-4ce3-929b-ef6de457d9ed",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_469351d3-4eff-4c00-b19d-bf4358535736",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning: Venue and Accommodations",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Discovery and Planning: Market Analysis",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning",
-      "workstream": "Venue and Accommodations",
-      "summary": "Research and book suitable cabins and campsites at Fish Lake"
+      "phase": "Discovery and Planning",
+      "workstream": "Market Analysis",
+      "summary": "Analyze the competitive landscape, identify target user segments, and gather insights on customer pain points and preferences."
     }
   },
   {
-    "taskId": "task_ws_a77f8d00-c805-4a09-b578-23c6b6c0b1e4",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_0e4620c8-d2a4-4fe4-831f-9b20bd86821b",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning: Activities and Entertainment",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Discovery and Planning: User Research",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning",
-      "workstream": "Activities and Entertainment",
-      "summary": "Curate a diverse range of activities and entertainment options for the reunion"
+      "phase": "Discovery and Planning",
+      "workstream": "User Research",
+      "summary": "Develop user personas, conduct interviews, and gather feedback to inform the platform's design and features."
     }
   },
   {
-    "taskId": "task_ws_7576d938-6fc1-4c6a-8a13-f70ecaa8c6c2",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_dc013d9c-cad1-4468-8d0d-7c9ed39bdbd4",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning: Catering and Meals",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Discovery and Planning: Technical Feasibility",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning",
-      "workstream": "Catering and Meals",
-      "summary": "Plan and coordinate the meals, snacks, and refreshments for the event"
+      "phase": "Discovery and Planning",
+      "workstream": "Technical Feasibility",
+      "summary": "Assess the technical requirements, identify necessary integrations, and evaluate potential technology solutions."
     }
   },
   {
-    "taskId": "task_ws_23b662ed-16f3-4cd6-ae25-49f7aac30f2a",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_001dc7a0-8a20-436e-9162-1401f3751fc0",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning: Transportation and Travel",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Discovery and Planning: Project Planning",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning",
-      "workstream": "Transportation and Travel",
-      "summary": "Organize transportation logistics and provide travel guidance for attendees"
+      "phase": "Discovery and Planning",
+      "workstream": "Project Planning",
+      "summary": "Define the project scope, timeline, milestones, and resource requirements."
     }
   },
   {
-    "taskId": "task_ws_418a6b93-d16d-427e-9e82-dc1ae1001d23",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_90d03ac2-cb4f-4d3b-a493-95621b56cda9",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Planning: Communication and Coordination",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Platform Development: UI/UX Design",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Planning",
-      "workstream": "Communication and Coordination",
-      "summary": "Establish communication channels and coordinate with family members"
+      "phase": "Platform Development",
+      "workstream": "UI/UX Design",
+      "summary": "Create a user-friendly and visually appealing interface for the mobile app and web application."
     }
   },
   {
-    "taskId": "task_ws_99696a29-4b22-4a20-9c5b-a717a8bcf4f3",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_f7b03abe-f094-4ffe-b946-9d9c8e853096",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Execution: Venue and Accommodations Setup",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Platform Development: Recommendation Engine",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Execution",
-      "workstream": "Venue and Accommodations Setup",
-      "summary": "Ensure the cabins, campsites, and common areas are prepared for the event"
+      "phase": "Platform Development",
+      "workstream": "Recommendation Engine",
+      "summary": "Develop the machine learning-powered recommendation system to personalize meal suggestions based on user preferences and dietary needs."
     }
   },
   {
-    "taskId": "task_ws_d749f77f-80c8-4297-84ea-e3d7596dbcfd",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_f5f89771-e8c3-46a3-b6d1-5e4354fb18f7",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Execution: Activity and Entertainment Coordination",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Platform Development: Data Integration",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Execution",
-      "workstream": "Activity and Entertainment Coordination",
-      "summary": "Facilitate the planned activities and provide support for family members"
+      "phase": "Platform Development",
+      "workstream": "Data Integration",
+      "summary": "Integrate with restaurant menus, nutrition data, POS systems, and delivery services to gather the necessary information for the platform."
     }
   },
   {
-    "taskId": "task_ws_8c0df8c8-54a1-4c53-8381-f4169fe39c48",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_10cf663e-1776-475e-b46d-3db1734cedba",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Execution: Catering and Meal Service",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Platform Development: Backend Development",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Execution",
-      "workstream": "Catering and Meal Service",
-      "summary": "Oversee the meal preparation, serving, and cleanup during the event"
+      "phase": "Platform Development",
+      "workstream": "Backend Development",
+      "summary": "Build the server-side infrastructure to support the platform's functionality, including API endpoints and data processing."
     }
   },
   {
-    "taskId": "task_ws_8a5d22c9-bb36-4cb0-9513-109a461aacfa",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_20f3693c-9cbc-4545-aa86-6d772e15eddc",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Execution: Transportation and Travel Support",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Testing and Deployment: Quality Assurance",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Execution",
-      "workstream": "Transportation and Travel Support",
-      "summary": "Assist attendees with any transportation or travel-related needs"
+      "phase": "Testing and Deployment",
+      "workstream": "Quality Assurance",
+      "summary": "Conduct comprehensive testing, including functional, integration, and user acceptance testing."
     }
   },
   {
-    "taskId": "task_ws_7df7f0dc-df54-49ce-8e7a-88a5ab563078",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_639783cf-3f75-4adb-9bc8-2db400e2d60e",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Execution: Communication and Engagement",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Testing and Deployment: Deployment and Release",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Execution",
-      "workstream": "Communication and Engagement",
-      "summary": "Maintain open communication and actively engage with family members"
+      "phase": "Testing and Deployment",
+      "workstream": "Deployment and Release",
+      "summary": "Prepare the platform for deployment, manage the release process, and ensure a smooth rollout to users."
     }
   },
   {
-    "taskId": "task_ws_9bfc578e-4e2b-4a0b-9fb4-d9bd637abea2",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "taskId": "task_ws_ec0d47ad-2c4c-4522-9fd3-39d0bb4bb5d9",
+    "projectId": "0702db28-3720-4f9b-b819-0a673525b204",
     "system": "jira",
     "type": "workstream",
-    "title": "Evaluation: Feedback Collection",
-    "createdAt": "2026-04-26T07:36:15Z",
+    "title": "Testing and Deployment: Maintenance and Support",
+    "createdAt": "2026-04-26T10:29:06Z",
     "status": "generated",
     "payload": {
-      "phase": "Evaluation",
-      "workstream": "Feedback Collection",
-      "summary": "Gather feedback from attendees to understand their experiences"
-    }
-  },
-  {
-    "taskId": "task_ws_03e5b7f8-27bf-45e9-873e-24def0415ef7",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Evaluation: Lessons Learned",
-    "createdAt": "2026-04-26T07:36:15Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Evaluation",
-      "workstream": "Lessons Learned",
-      "summary": "Analyze the feedback and identify opportunities for improvement"
-    }
-  },
-  {
-    "taskId": "task_ws_a97079e1-a25e-49a6-85d8-4688dbc734eb",
-    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
-    "system": "jira",
-    "type": "workstream",
-    "title": "Evaluation: Documentation and Reporting",
-    "createdAt": "2026-04-26T07:36:15Z",
-    "status": "generated",
-    "payload": {
-      "phase": "Evaluation",
-      "workstream": "Documentation and Reporting",
-      "summary": "Document the overall event and provide a comprehensive report"
+      "phase": "Testing and Deployment",
+      "workstream": "Maintenance and Support",
+      "summary": "Establish processes for ongoing platform maintenance, bug fixes, and feature updates based on user feedback."
     }
   }
 ]
