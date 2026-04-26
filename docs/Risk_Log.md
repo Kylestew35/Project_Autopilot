@@ -1,24 +1,23 @@
 Risk Log
 
-Project Name: Implement a Comprehensive Project Management Solution
+Project Name: Fish Lake Family Reunion
 
-Risk 1: Resistance to Change
-Impact: High
-Mitigation:
-- Implement a comprehensive change management strategy to address user concerns and ensure smooth adoption.
-- Provide extensive user training and support to help employees adapt to the new system.
-- Engage with key stakeholders and champions to drive user buy-in and promote the benefits of the new solution.
+Risk 1: Weather Disruptions
+Impact: Potential cancellation or disruption of outdoor activities
+Mitigation: Monitor weather forecasts and have contingency plans in place, such as indoor activity options.
 
-Risk 2: Data Integration Challenges
-Impact: Medium
-Mitigation:
-- Carefully plan and test the data migration process to ensure seamless integration with existing systems.
-- Establish clear data governance policies and procedures to maintain data integrity and accuracy.
-- Allocate sufficient time and resources for data cleansing and migration activities.
+Risk 2: Accommodation Availability
+Impact: Difficulty in securing sufficient cabins and campsites for all attendees
+Mitigation: Book accommodations well in advance and have backup options available.
 
-Risk 3: Scope Creep
-Impact: High
-Mitigation:
-- Establish clear project boundaries and obtain stakeholder approval for the defined scope.
-- Regularly review the project scope and obtain approval for any changes to avoid scope creep.
-- Implement robust change management processes to manage scope changes effectively.
+Risk 3: Dietary Restrictions
+Impact: Inability to cater to all dietary needs and preferences
+Mitigation: Collect dietary information from attendees and work closely with caterers to ensure all dietary requirements are met.
+
+Risk 4: Family Conflicts
+Impact: Potential for disagreements or tensions among family members
+Mitigation: Establish clear communication channels and conflict resolution strategies to address any issues that may arise.
+
+Risk 5: Budget Overruns
+Impact: Exceeding the planned budget for the family reunion
+Mitigation: Develop a detailed budget, monitor expenses closely, and explore cost-saving measures throughout the planning and execution process.
