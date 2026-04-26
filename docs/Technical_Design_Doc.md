@@ -1,93 +1,81 @@
 Technical Design Document
 
-Project Name: Fish Lake Family Reunion
+Project Name: Orchy AI
 
 1. Introduction
-   - Project Overview
-     - Organizing a full family reunion trip to Fish Lake on Monroe Mountain, including cabins, fishing plans, meals, activities, and travel coordination for everyone.
-   - Project Goals
-     - Bring the entire family together for a memorable reunion experience.
-     - Provide a range of activities and amenities to cater to all age groups.
-     - Ensure a smooth and stress-free planning and execution process.
+   1.1. Project Overview
+   1.2. Objectives
 
-2. Project Phases and Workstreams
-   - Planning Phase
-     - Venue and Accommodations
-       - Research and book suitable cabins and campsites at Fish Lake.
-     - Activities and Entertainment
-       - Curate a diverse range of activities and entertainment options for the reunion.
-     - Catering and Meals
-       - Plan and coordinate the meals, snacks, and refreshments for the event.
-     - Transportation and Travel
-       - Organize transportation logistics and provide travel guidance for attendees.
-     - Communication and Coordination
-       - Establish communication channels and coordinate with family members.
-   - Execution Phase
-     - Venue and Accommodations Setup
-       - Ensure the cabins, campsites, and common areas are prepared for the event.
-     - Activity and Entertainment Coordination
-       - Facilitate the planned activities and provide support for family members.
-     - Catering and Meal Service
-       - Oversee the meal preparation, serving, and cleanup during the event.
-     - Transportation and Travel Support
-       - Assist attendees with any transportation or travel-related needs.
-     - Communication and Engagement
-       - Maintain open communication and actively engage with family members.
-   - Evaluation Phase
-     - Feedback Collection
-       - Gather feedback from attendees to understand their experiences.
-     - Lessons Learned
-       - Analyze the feedback and identify opportunities for improvement.
-     - Documentation and Reporting
-       - Document the overall event and provide a comprehensive report.
+2. System Architecture
+   2.1. Platform Components
+     2.1.1. User Interface (Mobile App and Web)
+     2.1.2. Recommendation Engine
+     2.1.3. Data Integration Layer
+     2.1.4. Backend Services
+   2.2. Technology Stack
+     2.2.1. Frontend: React, React Native
+     2.2.2. Backend: Node.js, Express
+     2.2.3. Database: MongoDB
+     2.2.4. Machine Learning: TensorFlow, Scikit-learn
+     2.2.5. Integrations: API connectors for restaurant menus, nutrition data, POS systems, and delivery services
 
-3. Project Risks and Mitigation Strategies
-   - Weather Disruptions
-     - Potential cancellation or disruption of outdoor activities.
-     - Mitigation: Monitor weather forecasts and have contingency plans in place.
-   - Accommodation Availability
-     - Difficulty in securing sufficient cabins and campsites for all attendees.
-     - Mitigation: Book accommodations well in advance and have backup options.
-   - Dietary Restrictions
-     - Inability to cater to all dietary needs and preferences.
-     - Mitigation: Collect dietary information from attendees and work with caterers.
-   - Family Conflicts
-     - Potential for disagreements or tensions among family members.
-     - Mitigation: Establish clear communication channels and conflict resolution strategies.
-   - Budget Overruns
-     - Exceeding the planned budget for the family reunion.
-     - Mitigation: Develop a detailed budget, monitor expenses, and explore cost-saving measures.
+3. Key Features
+   3.1. Meal Recommendations
+     3.1.1. Personalization based on user preferences, dietary needs, and budget
+     3.1.2. Optimization for macros, allergies, and cost-efficiency
+   3.2. Meal Discovery and Ordering
+     3.2.1. Seamless integration of restaurant menus, pricing, and delivery options
+     3.2.2. User-friendly search and filtering capabilities
+   3.3. User Management
+     3.3.1. User registration and profile management
+     3.3.2. Saved preferences and order history
 
-4. Project Automations
-   - Accommodation Booking Confirmation (FLFRAUT01)
-     - System: Jira
-     - Trigger: New accommodation booking
-     - Action: Send confirmation email to attendee and update project dashboard.
-   - Dietary Preference Notification (FLFRAUT02)
-     - System: Slack
-     - Trigger: New dietary preference submitted
-     - Action: Notify catering team and update meal planning.
-   - Activity Schedule Update (FLFRAUT03)
-     - System: Notion
-     - Trigger: Changes to activity schedule
-     - Action: Update the project calendar and notify all attendees.
-   - Travel Coordination Reminder (FLFRAUT04)
-     - System: GitHub
-     - Trigger: 2 weeks before event start
-     - Action: Send travel guidance and coordination reminders to attendees.
-   - Feedback Collection (FLFRAUT05)
-     - System: Jira
-     - Trigger: Event completion
-     - Action: Initiate feedback survey and compile results for evaluation.
+4. Data Integration
+   4.1. Restaurant Menus
+   4.2. Nutrition Data
+   4.3. POS Systems
+   4.4. Delivery Services
 
-5. Project Timeline
-   - Venue and Accommodations Research (FLFRTIME01)
-     - Phase: Planning
-     - Start: 2023-04-01
-     - End: 2023-04-30
-   - Activity and Entertainment Planning (FLFRTIME02)
-     - Phase: Planning
-     - Start: 2023-05-01
-     - End: 2023-06-30
-   - Catering and Meal Planning (FLFRTIME03)
-     
+5. Recommendation Engine
+   5.1. Machine Learning Models
+     5.1.1. Collaborative Filtering
+     5.1.2. Content-Based Filtering
+     5.1.3. Hybrid Approach
+   5.2. Data Preprocessing and Feature Engineering
+   5.3. Model Training and Deployment
+
+6. User Interface Design
+   6.1. Mobile App
+     6.1.1. Home Screen
+     6.1.2. Search and Filtering
+     6.1.3. Meal Details
+     6.1.4. Ordering and Checkout
+   6.2. Web Application
+     6.2.1. Landing Page
+     6.2.2. Meal Exploration
+     6.2.3. User Dashboard
+
+7. Backend Architecture
+   7.1. API Endpoints
+   7.2. Data Processing and Storage
+   7.3. Scalability and Performance
+
+8. Automation and Integrations
+   8.1. Jira Issue Creation
+   8.2. GitHub PR Notification
+   8.3. Notion Page Update
+   8.4. Slack Deployment Notification
+
+9. Testing and Deployment
+   9.1. Quality Assurance
+     9.1.1. Functional Testing
+     9.1.2. Integration Testing
+     9.1.3. User Acceptance Testing
+   9.2. Deployment and Release
+   9.3. Maintenance and Support
+
+10. Risk Mitigation
+    10.1. Incomplete Data Integration
+    10.2. Scalability Challenges
+    10.3. User Adoption Barriers
+    10.4. Regulatory Compliance
