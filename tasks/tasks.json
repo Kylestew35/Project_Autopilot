@@ -1,128 +1,184 @@
 [
   {
-    "taskId": "task_ws_cc3dcc9b-2bd6-48ec-aecb-e0678752fcfb",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_769ab72c-62cf-4ce3-929b-ef6de457d9ed",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Stakeholder Interviews",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Planning: Venue and Accommodations",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Stakeholder Interviews",
-      "summary": "Conduct interviews with key stakeholders to understand their needs and pain points."
+      "phase": "Planning",
+      "workstream": "Venue and Accommodations",
+      "summary": "Research and book suitable cabins and campsites at Fish Lake"
     }
   },
   {
-    "taskId": "task_ws_f98efa8e-b691-4bc2-83c4-65703f110ff6",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_a77f8d00-c805-4a09-b578-23c6b6c0b1e4",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Process Mapping",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Planning: Activities and Entertainment",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Process Mapping",
-      "summary": "Map out existing project management workflows and identify areas for improvement."
+      "phase": "Planning",
+      "workstream": "Activities and Entertainment",
+      "summary": "Curate a diverse range of activities and entertainment options for the reunion"
     }
   },
   {
-    "taskId": "task_ws_5b4d089a-d693-424b-a005-42393d0421a8",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_7576d938-6fc1-4c6a-8a13-f70ecaa8c6c2",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Discovery and Planning: Solution Design",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Planning: Catering and Meals",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Discovery and Planning",
-      "workstream": "Solution Design",
-      "summary": "Collaborate with the team to design a tailored project management solution."
+      "phase": "Planning",
+      "workstream": "Catering and Meals",
+      "summary": "Plan and coordinate the meals, snacks, and refreshments for the event"
     }
   },
   {
-    "taskId": "task_ws_d54115aa-be2c-4e51-aed5-33a6ab4872c4",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_23b662ed-16f3-4cd6-ae25-49f7aac30f2a",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Platform Configuration",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Planning: Transportation and Travel",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Platform Configuration",
-      "summary": "Set up the project management platform and customize it to meet the organization's requirements."
+      "phase": "Planning",
+      "workstream": "Transportation and Travel",
+      "summary": "Organize transportation logistics and provide travel guidance for attendees"
     }
   },
   {
-    "taskId": "task_ws_4d4778da-9439-4bc0-af3c-707735cec86d",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_418a6b93-d16d-427e-9e82-dc1ae1001d23",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: Data Migration",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Planning: Communication and Coordination",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "Data Migration",
-      "summary": "Migrate historical project data to the new platform."
+      "phase": "Planning",
+      "workstream": "Communication and Coordination",
+      "summary": "Establish communication channels and coordinate with family members"
     }
   },
   {
-    "taskId": "task_ws_bb3feea2-45c3-4304-bfb2-7857ec22df6f",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_99696a29-4b22-4a20-9c5b-a717a8bcf4f3",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Implementation: User Onboarding",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Execution: Venue and Accommodations Setup",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Implementation",
-      "workstream": "User Onboarding",
-      "summary": "Train and onboard users to ensure effective adoption of the new system."
+      "phase": "Execution",
+      "workstream": "Venue and Accommodations Setup",
+      "summary": "Ensure the cabins, campsites, and common areas are prepared for the event"
     }
   },
   {
-    "taskId": "task_ws_d4bea661-d03f-4314-8f0d-b725d8abdf43",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_d749f77f-80c8-4297-84ea-e3d7596dbcfd",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Performance Monitoring",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Execution: Activity and Entertainment Coordination",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Performance Monitoring",
-      "summary": "Implement metrics and dashboards to track the performance and effectiveness of the solution."
+      "phase": "Execution",
+      "workstream": "Activity and Entertainment Coordination",
+      "summary": "Facilitate the planned activities and provide support for family members"
     }
   },
   {
-    "taskId": "task_ws_b620fdba-3af9-4667-b09d-aa50c86d2ed7",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_8c0df8c8-54a1-4c53-8381-f4169fe39c48",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Process Refinement",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Execution: Catering and Meal Service",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Process Refinement",
-      "summary": "Gather user feedback and make iterative improvements to the project management workflows."
+      "phase": "Execution",
+      "workstream": "Catering and Meal Service",
+      "summary": "Oversee the meal preparation, serving, and cleanup during the event"
     }
   },
   {
-    "taskId": "task_ws_f1601431-9c98-4d47-a84f-8eb9c4a7f5c6",
-    "projectId": "ebc81603-214c-4d37-acbe-8e4856f6f36a",
+    "taskId": "task_ws_8a5d22c9-bb36-4cb0-9513-109a461aacfa",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
     "system": "jira",
     "type": "workstream",
-    "title": "Optimization and Continuous Improvement: Change Management",
-    "createdAt": "2026-04-25T10:56:54Z",
+    "title": "Execution: Transportation and Travel Support",
+    "createdAt": "2026-04-26T07:36:15Z",
     "status": "generated",
     "payload": {
-      "phase": "Optimization and Continuous Improvement",
-      "workstream": "Change Management",
-      "summary": "Manage organizational change and ensure sustained user adoption of the new system."
+      "phase": "Execution",
+      "workstream": "Transportation and Travel Support",
+      "summary": "Assist attendees with any transportation or travel-related needs"
+    }
+  },
+  {
+    "taskId": "task_ws_7df7f0dc-df54-49ce-8e7a-88a5ab563078",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Execution: Communication and Engagement",
+    "createdAt": "2026-04-26T07:36:15Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Execution",
+      "workstream": "Communication and Engagement",
+      "summary": "Maintain open communication and actively engage with family members"
+    }
+  },
+  {
+    "taskId": "task_ws_9bfc578e-4e2b-4a0b-9fb4-d9bd637abea2",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Evaluation: Feedback Collection",
+    "createdAt": "2026-04-26T07:36:15Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Evaluation",
+      "workstream": "Feedback Collection",
+      "summary": "Gather feedback from attendees to understand their experiences"
+    }
+  },
+  {
+    "taskId": "task_ws_03e5b7f8-27bf-45e9-873e-24def0415ef7",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Evaluation: Lessons Learned",
+    "createdAt": "2026-04-26T07:36:15Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Evaluation",
+      "workstream": "Lessons Learned",
+      "summary": "Analyze the feedback and identify opportunities for improvement"
+    }
+  },
+  {
+    "taskId": "task_ws_a97079e1-a25e-49a6-85d8-4688dbc734eb",
+    "projectId": "94c5ebcc-0253-4547-82f0-e0200d359583",
+    "system": "jira",
+    "type": "workstream",
+    "title": "Evaluation: Documentation and Reporting",
+    "createdAt": "2026-04-26T07:36:15Z",
+    "status": "generated",
+    "payload": {
+      "phase": "Evaluation",
+      "workstream": "Documentation and Reporting",
+      "summary": "Document the overall event and provide a comprehensive report"
     }
   }
 ]
