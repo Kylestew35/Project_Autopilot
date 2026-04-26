@@ -1,89 +1,52 @@
-Standard Operating Procedure (SOP)
-Fish Lake Family Reunion
+Standard Operating Procedure (SOP) for Orchy AI Project
 
 I. Introduction
-This SOP outlines the processes and guidelines for the successful planning, execution, and evaluation of the Fish Lake Family Reunion.
+Orchy AI is an AI-powered healthy food discovery and delivery platform that integrates restaurant menus, nutrition scoring, POS data, pricing, and real-time delivery options. The system recommends meals based on user preferences, dietary goals, macros, allergies, and cost efficiency.
 
-II. Objectives
-1. Secure suitable accommodations for all attendees at Fish Lake.
-2. Curate a diverse range of activities and entertainment options for all age groups.
-3. Provide catering services that cater to the dietary needs and preferences of all attendees.
-4. Coordinate the transportation and travel logistics for all attendees.
-5. Maintain clear and effective communication with all family members throughout the planning and execution process.
-6. Ensure a smooth and enjoyable family reunion experience for all attendees.
-7. Gather feedback and identify areas for improvement for future family reunions.
+II. Project Objectives
+1. Develop an AI-powered recommendation engine that suggests healthy and cost-effective meals based on user preferences and dietary needs.
+2. Create a user-friendly mobile app and web interface that simplifies the meal discovery and ordering process.
+3. Establish partnerships with restaurants and delivery services to expand the platform's offerings and reach.
+4. Achieve a user base of 50,000 active monthly users within the first year of launch.
+5. Maintain a customer satisfaction rating of at least 4.5 out of 5 stars.
 
-III. Planning Phase
-1. Venue and Accommodations
-   - Research and book suitable cabins and campsites at Fish Lake.
-   - Ensure accommodations meet the needs and preferences of all attendees.
-   - Coordinate with the venue to secure the necessary facilities and amenities.
+III. Project Phases and Workstreams
+1. Discovery and Planning
+   a. Market Analysis: Analyze the competitive landscape, identify target user segments, and gather insights on customer pain points and preferences.
+   b. User Research: Develop user personas, conduct interviews, and gather feedback to inform the platform's design and features.
+   c. Technical Feasibility: Assess the technical requirements, identify necessary integrations, and evaluate potential technology solutions.
+   d. Project Planning: Define the project scope, timeline, milestones, and resource requirements.
 
-2. Activities and Entertainment
-   - Curate a diverse range of activities and entertainment options for all age groups.
-   - Prioritize activities that promote family bonding and create memorable experiences.
-   - Develop a detailed schedule of events and communicate it to all attendees.
+2. Platform Development
+   a. UI/UX Design: Create a user-friendly and visually appealing interface for the mobile app and web application.
+   b. Recommendation Engine: Develop the machine learning-powered recommendation system to personalize meal suggestions based on user preferences and dietary needs.
+   c. Data Integration: Integrate with restaurant menus, nutrition data, POS systems, and delivery services to gather the necessary information for the platform.
+   d. Backend Development: Build the server-side infrastructure to support the platform's functionality, including API endpoints and data processing.
 
-3. Catering and Meals
-   - Plan and coordinate the meals, snacks, and refreshments for the event.
-   - Collect dietary information from attendees and work with caterers to accommodate all needs and preferences.
-   - Ensure the catering services align with the overall event budget and timeline.
+3. Testing and Deployment
+   a. Quality Assurance: Conduct comprehensive testing, including functional, integration, and user acceptance testing.
+   b. Deployment and Release: Prepare the platform for deployment, manage the release process, and ensure a smooth rollout to users.
+   c. Maintenance and Support: Establish processes for ongoing platform maintenance, bug fixes, and feature updates based on user feedback.
 
-4. Transportation and Travel
-   - Organize transportation logistics and provide travel guidance for attendees.
-   - Identify and communicate the best routes, modes of transportation, and arrival/departure times.
-   - Assist attendees with any travel-related questions or concerns.
+IV. Project Risks and Mitigation Strategies
+1. Incomplete Data Integration: Inability to provide accurate and comprehensive meal recommendations. Mitigation: Thoroughly vet and test all data integration points, establish contingency plans for missing data sources.
+2. Scalability Challenges: Platform performance issues and user dissatisfaction as the user base grows. Mitigation: Design the platform architecture with scalability in mind, conduct load testing, and plan for infrastructure scaling.
+3. User Adoption Barriers: Slow user growth and limited platform impact. Mitigation: Conduct extensive user research, implement a robust marketing and onboarding strategy, and continuously gather user feedback.
+4. Regulatory Compliance: Legal and financial risks due to non-compliance with food labeling, nutrition, and delivery regulations. Mitigation: Consult with legal and regulatory experts, ensure the platform adheres to all relevant laws and industry standards.
 
-5. Communication and Coordination
-   - Establish communication channels and coordinate with family members.
-   - Provide regular updates on the planning progress and any changes to the event details.
-   - Encourage active participation and feedback from all attendees.
+V. Automation Workflows
+1. Jira Issue Creation: Automatically create a new Jira issue when a user feedback is submitted.
+2. GitHub PR Notification: Send a Slack notification to the development team when a new pull request is created.
+3. Notion Page Update: Automatically update the corresponding Notion page when a new restaurant menu is added.
+4. Slack Deployment Notification: Send a notification to the #general channel when a platform deployment is completed.
 
-IV. Execution Phase
-1. Venue and Accommodations Setup
-   - Ensure the cabins, campsites, and common areas are prepared for the event.
-   - Coordinate with the venue staff to address any last-minute needs or issues.
-   - Greet attendees and assist them with check-in and settling into their accommodations.
-
-2. Activity and Entertainment Coordination
-   - Facilitate the planned activities and provide support for family members.
-   - Ensure the activities run smoothly and address any issues or concerns that arise.
-   - Encourage active participation and engagement from all attendees.
-
-3. Catering and Meal Service
-   - Oversee the meal preparation, serving, and cleanup during the event.
-   - Ensure the catering services meet the dietary needs and preferences of all attendees.
-   - Provide assistance and guidance to attendees as needed.
-
-4. Transportation and Travel Support
-   - Assist attendees with any transportation or travel-related needs.
-   - Provide guidance and support for arrivals, departures, and any in-between transportation.
-   - Address any transportation-related issues or concerns promptly.
-
-5. Communication and Engagement
-   - Maintain open communication and actively engage with family members.
-   - Respond to inquiries and address any concerns or questions in a timely manner.
-   - Encourage feedback and input from attendees to ensure a positive experience.
-
-V. Evaluation Phase
-1. Feedback Collection
-   - Gather feedback from attendees to understand their experiences.
-   - Utilize various methods, such as surveys, interviews, and open-ended discussions.
-   - Ensure the feedback collection process is comprehensive and inclusive.
-
-2. Lessons Learned
-   - Analyze the feedback and identify opportunities for improvement.
-   - Assess the overall success of the event and determine areas that need to be addressed.
-   - Document the lessons learned to inform the planning of future family reunions.
-
-3. Documentation and Reporting
-   - Document the overall event, including the planning, execution, and feedback.
-   - Provide a comprehensive report that summarizes the event's successes, challenges, and recommendations for the future.
-   - Share the report with all attendees and relevant stakeholders.
-
-VI. Automation
-1. Accommodation Booking Confirmation (FLFRAUT01)
-   - Trigger: New accommodation booking
-   - Action: Send confirmation email to attendee and update project dashboard
-
-2.
+VI. Project Timeline
+The project timeline is divided into the following key milestones:
+1. Market Analysis: April 1, 2023 - April 30, 2023
+2. User Research: May 1, 2023 - May 31, 2023
+3. Technical Feasibility: June 1, 2023 - June 30, 2023
+4. UI/UX Design: July 1, 2023 - August 31, 2023
+5. Recommendation Engine: September 1, 2023 - November 30, 2023
+6. Data Integration: August 1, 2023 - October 31, 2023
+7. Backend Development: September 1, 2023 - December 31, 2023
+8.
