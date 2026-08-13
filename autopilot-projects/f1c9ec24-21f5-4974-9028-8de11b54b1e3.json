@@ -1,0 +1,716 @@
+{
+  "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+  "projectName": "careful cravings",
+  "description": "A door dash type site that uses ai to generate healthy meal ordering in real tiume via user preferences",
+  "timestamp": 1786590140,
+  "interpreter": {
+    "projectName": "careful cravings",
+    "description": "A door dash type site that uses ai to generate healthy meal ordering in real tiume via user preferences",
+    "goals": [
+      "Launch a functional MVP with AI-driven meal recommendations",
+      "Onboard 50+ local health-focused restaurant partners",
+      "Achieve seamless integration of real-time nutritional data",
+      "Maintain high user retention through personalized dietary profiles"
+    ],
+    "phases": [
+      {
+        "name": "Discovery & Architecture",
+        "summary": "Defining technical requirements and AI model logic.",
+        "workstreams": [
+          {
+            "name": "Product Design",
+            "summary": "User persona mapping and dietary preference workflow design."
+          },
+          {
+            "name": "AI Research",
+            "summary": "Selecting LLM frameworks for nutritional analysis and recommendation engine development."
+          }
+        ]
+      },
+      {
+        "name": "Development & Integration",
+        "summary": "Building the core platform and integrating AI capabilities.",
+        "workstreams": [
+          {
+            "name": "Backend Engineering",
+            "summary": "Developing API for order management and restaurant database."
+          },
+          {
+            "name": "Frontend Development",
+            "summary": "Creating responsive web/mobile interface for real-time ordering."
+          }
+        ]
+      },
+      {
+        "name": "Testing & Deployment",
+        "summary": "Quality assurance and market launch.",
+        "workstreams": [
+          {
+            "name": "QA Testing",
+            "summary": "Validating AI accuracy in meal suggestions and stress testing order flow."
+          },
+          {
+            "name": "Launch Operations",
+            "summary": "Executing marketing campaign and restaurant onboarding."
+          }
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "name": "AI Hallucination",
+        "impact": "High - Incorrect nutritional information could lead to health issues.",
+        "mitigation": "Implement a secondary verification layer using verified nutritional databases."
+      },
+      {
+        "name": "Logistics Latency",
+        "impact": "Medium - Real-time updates failing during peak hours.",
+        "mitigation": "Use WebSocket for real-time communication and scalable cloud infrastructure."
+      }
+    ],
+    "automations": [
+      {
+        "id": "auto_01",
+        "name": "Bug Alert",
+        "system": "slack",
+        "trigger": "New high-priority issue created in Jira",
+        "action": "Post alert to #dev-alerts channel"
+      },
+      {
+        "id": "auto_02",
+        "name": "Deployment Sync",
+        "system": "github",
+        "trigger": "Pull request merged to main",
+        "action": "Trigger CI/CD pipeline for staging deployment"
+      },
+      {
+        "id": "auto_03",
+        "name": "Requirement Tracking",
+        "system": "notion",
+        "trigger": "New feature requirement added to Product Doc",
+        "action": "Create corresponding task in Jira backlog"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t_01",
+        "name": "Discovery Phase",
+        "phase": "Discovery & Architecture",
+        "start": "2024-06-01",
+        "end": "2024-07-15"
+      },
+      {
+        "id": "t_02",
+        "name": "Core Development",
+        "phase": "Development & Integration",
+        "start": "2024-07-16",
+        "end": "2024-10-30"
+      },
+      {
+        "id": "t_03",
+        "name": "Beta Testing",
+        "phase": "Testing & Deployment",
+        "start": "2024-11-01",
+        "end": "2024-12-15"
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj_01",
+        "description": "Complete AI recommendation engine prototype by end of Phase 1."
+      },
+      {
+        "id": "obj_02",
+        "description": "Integrate real-time GPS tracking for delivery drivers in Phase 2."
+      },
+      {
+        "id": "obj_03",
+        "description": "Achieve < 2 second latency for AI meal generation requests."
+      }
+    ]
+  },
+  "rawPlan": {
+    "projectName": "careful cravings",
+    "description": "A door dash type site that uses ai to generate healthy meal ordering in real tiume via user preferences",
+    "goals": [
+      "Launch a functional MVP with AI-driven meal recommendations",
+      "Onboard 50+ local health-focused restaurant partners",
+      "Achieve seamless integration of real-time nutritional data",
+      "Maintain high user retention through personalized dietary profiles"
+    ],
+    "phases": [
+      {
+        "name": "Discovery & Architecture",
+        "summary": "Defining technical requirements and AI model logic.",
+        "workstreams": [
+          {
+            "name": "Product Design",
+            "summary": "User persona mapping and dietary preference workflow design."
+          },
+          {
+            "name": "AI Research",
+            "summary": "Selecting LLM frameworks for nutritional analysis and recommendation engine development."
+          }
+        ]
+      },
+      {
+        "name": "Development & Integration",
+        "summary": "Building the core platform and integrating AI capabilities.",
+        "workstreams": [
+          {
+            "name": "Backend Engineering",
+            "summary": "Developing API for order management and restaurant database."
+          },
+          {
+            "name": "Frontend Development",
+            "summary": "Creating responsive web/mobile interface for real-time ordering."
+          }
+        ]
+      },
+      {
+        "name": "Testing & Deployment",
+        "summary": "Quality assurance and market launch.",
+        "workstreams": [
+          {
+            "name": "QA Testing",
+            "summary": "Validating AI accuracy in meal suggestions and stress testing order flow."
+          },
+          {
+            "name": "Launch Operations",
+            "summary": "Executing marketing campaign and restaurant onboarding."
+          }
+        ]
+      }
+    ],
+    "risks": [
+      {
+        "name": "AI Hallucination",
+        "impact": "High - Incorrect nutritional information could lead to health issues.",
+        "mitigation": "Implement a secondary verification layer using verified nutritional databases."
+      },
+      {
+        "name": "Logistics Latency",
+        "impact": "Medium - Real-time updates failing during peak hours.",
+        "mitigation": "Use WebSocket for real-time communication and scalable cloud infrastructure."
+      }
+    ],
+    "automations": [
+      {
+        "id": "auto_01",
+        "name": "Bug Alert",
+        "system": "slack",
+        "trigger": "New high-priority issue created in Jira",
+        "action": "Post alert to #dev-alerts channel"
+      },
+      {
+        "id": "auto_02",
+        "name": "Deployment Sync",
+        "system": "github",
+        "trigger": "Pull request merged to main",
+        "action": "Trigger CI/CD pipeline for staging deployment"
+      },
+      {
+        "id": "auto_03",
+        "name": "Requirement Tracking",
+        "system": "notion",
+        "trigger": "New feature requirement added to Product Doc",
+        "action": "Create corresponding task in Jira backlog"
+      }
+    ],
+    "timeline": [
+      {
+        "id": "t_01",
+        "name": "Discovery Phase",
+        "phase": "Discovery & Architecture",
+        "start": "2024-06-01",
+        "end": "2024-07-15"
+      },
+      {
+        "id": "t_02",
+        "name": "Core Development",
+        "phase": "Development & Integration",
+        "start": "2024-07-16",
+        "end": "2024-10-30"
+      },
+      {
+        "id": "t_03",
+        "name": "Beta Testing",
+        "phase": "Testing & Deployment",
+        "start": "2024-11-01",
+        "end": "2024-12-15"
+      }
+    ],
+    "objectives": [
+      {
+        "id": "obj_01",
+        "description": "Complete AI recommendation engine prototype by end of Phase 1."
+      },
+      {
+        "id": "obj_02",
+        "description": "Integrate real-time GPS tracking for delivery drivers in Phase 2."
+      },
+      {
+        "id": "obj_03",
+        "description": "Achieve < 2 second latency for AI meal generation requests."
+      }
+    ]
+  },
+  "tasks": [
+    {
+      "taskId": "task_fc793de0",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "slack",
+      "type": "automation",
+      "title": "Implement automation: Bug Alert",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "planned",
+      "payload": {
+        "phase": "Automation",
+        "workstream": "Bug Alert",
+        "summary": "Post alert to #dev-alerts channel"
+      },
+      "priority": "high",
+      "assignee": "Automation Agent"
+    },
+    {
+      "taskId": "task_be5e4017",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "github",
+      "type": "automation",
+      "title": "Implement automation: Deployment Sync",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "planned",
+      "payload": {
+        "phase": "Automation",
+        "workstream": "Deployment Sync",
+        "summary": "Trigger CI/CD pipeline for staging deployment"
+      },
+      "priority": "high",
+      "assignee": "Automation Agent"
+    },
+    {
+      "taskId": "task_21a016aa",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "notion",
+      "type": "automation",
+      "title": "Implement automation: Requirement Tracking",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "planned",
+      "payload": {
+        "phase": "Automation",
+        "workstream": "Requirement Tracking",
+        "summary": "Create corresponding task in Jira backlog"
+      },
+      "priority": "high",
+      "assignee": "Automation Agent"
+    },
+    {
+      "taskId": "task_80b7c04d",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "task",
+      "type": "objective",
+      "title": "Complete objective: Complete AI recommendation engine prototype by end of Phase 1.",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "planned",
+      "payload": {
+        "phase": "Objectives",
+        "workstream": "Complete AI recommendation engine prototype by end of Phase 1.",
+        "summary": "Complete AI recommendation engine prototype by end of Phase 1."
+      },
+      "priority": "high",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_6e33021b",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "task",
+      "type": "objective",
+      "title": "Complete objective: Integrate real-time GPS tracking for delivery drivers in Phase 2.",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "planned",
+      "payload": {
+        "phase": "Objectives",
+        "workstream": "Integrate real-time GPS tracking for delivery drivers in Phase 2.",
+        "summary": "Integrate real-time GPS tracking for delivery drivers in Phase 2."
+      },
+      "priority": "high",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_c55daf09",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "task",
+      "type": "objective",
+      "title": "Complete objective: Achieve < 2 second latency for AI meal generation requests.",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "planned",
+      "payload": {
+        "phase": "Objectives",
+        "workstream": "Achieve < 2 second latency for AI meal generation requests.",
+        "summary": "Achieve < 2 second latency for AI meal generation requests."
+      },
+      "priority": "high",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_deffe4fe",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "jira",
+      "type": "workstream",
+      "title": "Discovery & Architecture: Product Design",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "generated",
+      "payload": {
+        "phase": "Discovery & Architecture",
+        "workstream": "Product Design",
+        "summary": "User persona mapping and dietary preference workflow design."
+      },
+      "priority": "medium",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_4c127920",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "jira",
+      "type": "workstream",
+      "title": "Discovery & Architecture: AI Research",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "generated",
+      "payload": {
+        "phase": "Discovery & Architecture",
+        "workstream": "AI Research",
+        "summary": "Selecting LLM frameworks for nutritional analysis and recommendation engine development."
+      },
+      "priority": "medium",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_7cad6287",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "jira",
+      "type": "workstream",
+      "title": "Development & Integration: Backend Engineering",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "generated",
+      "payload": {
+        "phase": "Development & Integration",
+        "workstream": "Backend Engineering",
+        "summary": "Developing API for order management and restaurant database."
+      },
+      "priority": "medium",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_4b6c24ca",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "jira",
+      "type": "workstream",
+      "title": "Development & Integration: Frontend Development",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "generated",
+      "payload": {
+        "phase": "Development & Integration",
+        "workstream": "Frontend Development",
+        "summary": "Creating responsive web/mobile interface for real-time ordering."
+      },
+      "priority": "medium",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_97c5f228",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "jira",
+      "type": "workstream",
+      "title": "Testing & Deployment: QA Testing",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "generated",
+      "payload": {
+        "phase": "Testing & Deployment",
+        "workstream": "QA Testing",
+        "summary": "Validating AI accuracy in meal suggestions and stress testing order flow."
+      },
+      "priority": "medium",
+      "assignee": "Delivery Agent"
+    },
+    {
+      "taskId": "task_a28a87fc",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "system": "jira",
+      "type": "workstream",
+      "title": "Testing & Deployment: Launch Operations",
+      "createdAt": "2026-08-13T03:02:20Z",
+      "status": "generated",
+      "payload": {
+        "phase": "Testing & Deployment",
+        "workstream": "Launch Operations",
+        "summary": "Executing marketing campaign and restaurant onboarding."
+      },
+      "priority": "medium",
+      "assignee": "Delivery Agent"
+    }
+  ],
+  "documents": [
+    {
+      "docId": "doc_db3d6a56",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Project Brief",
+      "content": "Project: careful cravings\nDescription: A door dash type site that uses ai to generate healthy meal ordering in real tiume via user preferences\n\nGoals:\n- Launch a functional MVP with AI-driven meal recommendations:\n- Onboard 50+ local health-focused restaurant partners:\n- Achieve seamless integration of real-time nutritional data:\n- Maintain high user retention through personalized dietary profiles:\n\nPhases:\n- Discovery & Architecture: Defining technical requirements and AI model logic.\n- Development & Integration: Building the core platform and integrating AI capabilities.\n- Testing & Deployment: Quality assurance and market launch.\n\nObjectives:\n- Complete AI recommendation engine prototype by end of Phase 1.: Complete AI recommendation engine prototype by end of Phase 1.\n- Integrate real-time GPS tracking for delivery drivers in Phase 2.: Integrate real-time GPS tracking for delivery drivers in Phase 2.\n- Achieve < 2 second latency for AI meal generation requests.: Achieve < 2 second latency for AI meal generation requests.\n\nAutomations:\n- Bug Alert: Post alert to #dev-alerts channel\n- Deployment Sync: Trigger CI/CD pipeline for staging deployment\n- Requirement Tracking: Create corresponding task in Jira backlog",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/project-brief",
+      "createdAt": 1786590140
+    },
+    {
+      "docId": "doc_2e103e20",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Risk Log",
+      "content": "Risks and mitigations:\n- AI Hallucination: Implement a secondary verification layer using verified nutritional databases.\n- Logistics Latency: Use WebSocket for real-time communication and scalable cloud infrastructure.",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/risk-log",
+      "createdAt": 1786590140
+    },
+    {
+      "docId": "doc_9a08ff57",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Execution Plan",
+      "content": "Timeline:\n- Discovery Phase: Discovery & Architecture\n- Core Development: Development & Integration\n- Beta Testing: Testing & Deployment",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/execution-plan",
+      "createdAt": 1786590140
+    },
+    {
+      "docId": "doc_ffaf2cab",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Automation Playbook",
+      "content": "Automation steps:\n- Bug Alert: Post alert to #dev-alerts channel\n- Deployment Sync: Trigger CI/CD pipeline for staging deployment\n- Requirement Tracking: Create corresponding task in Jira backlog",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/automation-playbook",
+      "createdAt": 1786590140
+    },
+    {
+      "docId": "doc_43802847",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Stakeholder Summary",
+      "content": "Stakeholder priorities and decision points:\n- Complete AI recommendation engine prototype by end of Phase 1.: Complete AI recommendation engine prototype by end of Phase 1.\n- Integrate real-time GPS tracking for delivery drivers in Phase 2.: Integrate real-time GPS tracking for delivery drivers in Phase 2.\n- Achieve < 2 second latency for AI meal generation requests.: Achieve < 2 second latency for AI meal generation requests.",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/stakeholder-summary",
+      "createdAt": 1786590140
+    },
+    {
+      "docId": "doc_13af17d5",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Sprint Checklist",
+      "content": "Sprint checklist and critical actions:\n- Discovery & Architecture: Defining technical requirements and AI model logic.\n- Development & Integration: Building the core platform and integrating AI capabilities.\n- Testing & Deployment: Quality assurance and market launch.",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/sprint-checklist",
+      "createdAt": 1786590140
+    },
+    {
+      "docId": "doc_105841e2",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Technical Specs",
+      "content": "Key technical deliverables:\n- Bug Alert: Post alert to #dev-alerts channel\n- Deployment Sync: Trigger CI/CD pipeline for staging deployment\n- Requirement Tracking: Create corresponding task in Jira backlog",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/technical-specs",
+      "createdAt": 1786590140
+    },
+    {
+      "docId": "doc_43895cb7",
+      "projectId": "f1c9ec24-21f5-4974-9028-8de11b54b1e3",
+      "docType": "Release Readiness Report",
+      "content": "Release readiness analysis:\n- Discovery Phase: Discovery & Architecture\n- Core Development: Development & Integration\n- Beta Testing: Testing & Deployment",
+      "url": "https://localhost:8000/projects/f1c9ec24-21f5-4974-9028-8de11b54b1e3/documents/release-readiness",
+      "createdAt": 1786590140
+    }
+  ],
+  "dashboard": {
+    "generatedAt": 1786590140,
+    "summary": {
+      "objectives": 3,
+      "milestones": 3,
+      "risks": 2,
+      "phases": 3,
+      "automations": 3
+    },
+    "kpis": {
+      "objectiveCount": 3,
+      "milestoneCount": 3,
+      "riskCount": 2,
+      "phaseCount": 3,
+      "automationCount": 3,
+      "highRiskCount": 0
+    },
+    "forecast": {
+      "status": "on_track",
+      "confidence": 0.85
+    },
+    "alerts": [],
+    "rawPlan": {
+      "projectName": "careful cravings",
+      "description": "A door dash type site that uses ai to generate healthy meal ordering in real tiume via user preferences",
+      "goals": [
+        "Launch a functional MVP with AI-driven meal recommendations",
+        "Onboard 50+ local health-focused restaurant partners",
+        "Achieve seamless integration of real-time nutritional data",
+        "Maintain high user retention through personalized dietary profiles"
+      ],
+      "phases": [
+        {
+          "name": "Discovery & Architecture",
+          "summary": "Defining technical requirements and AI model logic.",
+          "workstreams": [
+            {
+              "name": "Product Design",
+              "summary": "User persona mapping and dietary preference workflow design."
+            },
+            {
+              "name": "AI Research",
+              "summary": "Selecting LLM frameworks for nutritional analysis and recommendation engine development."
+            }
+          ]
+        },
+        {
+          "name": "Development & Integration",
+          "summary": "Building the core platform and integrating AI capabilities.",
+          "workstreams": [
+            {
+              "name": "Backend Engineering",
+              "summary": "Developing API for order management and restaurant database."
+            },
+            {
+              "name": "Frontend Development",
+              "summary": "Creating responsive web/mobile interface for real-time ordering."
+            }
+          ]
+        },
+        {
+          "name": "Testing & Deployment",
+          "summary": "Quality assurance and market launch.",
+          "workstreams": [
+            {
+              "name": "QA Testing",
+              "summary": "Validating AI accuracy in meal suggestions and stress testing order flow."
+            },
+            {
+              "name": "Launch Operations",
+              "summary": "Executing marketing campaign and restaurant onboarding."
+            }
+          ]
+        }
+      ],
+      "risks": [
+        {
+          "name": "AI Hallucination",
+          "impact": "High - Incorrect nutritional information could lead to health issues.",
+          "mitigation": "Implement a secondary verification layer using verified nutritional databases."
+        },
+        {
+          "name": "Logistics Latency",
+          "impact": "Medium - Real-time updates failing during peak hours.",
+          "mitigation": "Use WebSocket for real-time communication and scalable cloud infrastructure."
+        }
+      ],
+      "automations": [
+        {
+          "id": "auto_01",
+          "name": "Bug Alert",
+          "system": "slack",
+          "trigger": "New high-priority issue created in Jira",
+          "action": "Post alert to #dev-alerts channel"
+        },
+        {
+          "id": "auto_02",
+          "name": "Deployment Sync",
+          "system": "github",
+          "trigger": "Pull request merged to main",
+          "action": "Trigger CI/CD pipeline for staging deployment"
+        },
+        {
+          "id": "auto_03",
+          "name": "Requirement Tracking",
+          "system": "notion",
+          "trigger": "New feature requirement added to Product Doc",
+          "action": "Create corresponding task in Jira backlog"
+        }
+      ],
+      "timeline": [
+        {
+          "id": "t_01",
+          "name": "Discovery Phase",
+          "phase": "Discovery & Architecture",
+          "start": "2024-06-01",
+          "end": "2024-07-15"
+        },
+        {
+          "id": "t_02",
+          "name": "Core Development",
+          "phase": "Development & Integration",
+          "start": "2024-07-16",
+          "end": "2024-10-30"
+        },
+        {
+          "id": "t_03",
+          "name": "Beta Testing",
+          "phase": "Testing & Deployment",
+          "start": "2024-11-01",
+          "end": "2024-12-15"
+        }
+      ],
+      "objectives": [
+        {
+          "id": "obj_01",
+          "description": "Complete AI recommendation engine prototype by end of Phase 1."
+        },
+        {
+          "id": "obj_02",
+          "description": "Integrate real-time GPS tracking for delivery drivers in Phase 2."
+        },
+        {
+          "id": "obj_03",
+          "description": "Achieve < 2 second latency for AI meal generation requests."
+        }
+      ]
+    }
+  },
+  "events": [
+    {
+      "ts": 1786590140,
+      "type": "created",
+      "message": "Project created."
+    },
+    {
+      "ts": 1786590167,
+      "type": "automation",
+      "message": "simulated: Bug Alert via slack"
+    },
+    {
+      "ts": 1786590167,
+      "type": "automation",
+      "message": "simulated: Deployment Sync via github"
+    },
+    {
+      "ts": 1786590167,
+      "type": "automation",
+      "message": "simulated: Requirement Tracking via notion"
+    },
+    {
+      "ts": 1786590274,
+      "type": "autonomy",
+      "message": "Autonomous mode enabled"
+    },
+    {
+      "ts": 1786590320,
+      "type": "autonomy_error",
+      "message": "Autonomous review failed: Expecting value: line 1 column 1 (char 0)"
+    },
+    {
+      "ts": 1786590362,
+      "type": "autonomy",
+      "message": "Autonomous mode disabled"
+    },
+    {
+      "ts": 1786590882,
+      "type": "standup",
+      "message": "Daily standup enabled"
+    },
+    {
+      "ts": 1786629569,
+      "type": "standup_error",
+      "message": "Daily standup failed: Ollama request failed: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it>"
+    }
+  ],
+  "autonomyEnabled": false,
+  "dailyStandupEnabled": true
+}
